@@ -1,6 +1,6 @@
 # base16-frescobaldi
 
-This repository contains ready to use themes for Frescobaldi and a template to use with base16 theme generators.
+This repository contains ready to use themes for Frescobaldi and a template to use with [base16](https://github.com/chriskempson/base16) theme generators.
 
 ## How to install a theme
 
