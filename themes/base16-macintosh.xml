@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Macintosh">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Rebecca Bettencourt (http://www.kreativekorp.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#c0c0c0" />
+    <background color="#000000" />
+    <selectiontext color="#c0c0c0" />
+    <selectionbackground color="#808080" />
+    <current color="#404040" />
+    <mark color="#404040" />
+    <error color="#404040" />
+    <search color="#" />
+    <match color="#808080" />
+    <paper color="#ffffff" />
+    <musichighlight color="#808080" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#dd0907" />
+    <escape textColor="#ff6403" />
+    <comment italic="True" textColor="#808080" />
+    <value textColor="#fbf305" />
+    <variable textColor="#1fb714" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0000d3" />
+    <error textColor="#4700a5" underline="True" underlineColor="#4700a5" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ff6403" />
+      <dynamic bold="True" textColor="#0000d3" />
+      <articulation bold="True" textColor="#ff6403" />
+      <fingering textColor="#1fb714" />
+      <stringnumber textColor="#ff6403" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fbf305" />
+      <lyricmode textColor="#0000d3" />
+      <lyrictext textColor="#c0c0c0" />
+      <context bold="True" />
+      <grob textColor="#c0c0c0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

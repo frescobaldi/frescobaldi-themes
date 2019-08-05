@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Nova">
+  <!--
+  Created by base16-frescobaldi
+  Author: #George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C5D4DD" />
+    <background color="#3C4C55" />
+    <selectiontext color="#899BA6" />
+    <selectionbackground color="#899BA6" />
+    <current color="#556873" />
+    <mark color="#6A7D89" />
+    <error color="#556873" />
+    <search color="#" />
+    <match color="#899BA6" />
+    <paper color="#556873" />
+    <musichighlight color="#899BA6" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#83AFE5" />
+    <escape textColor="#7FC1CA" />
+    <comment italic="True" textColor="#899BA6" />
+    <value textColor="#A8CE93" />
+    <variable textColor="#7FC1CA" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#83AFE5" />
+    <error textColor="#9A93E1" underline="True" underlineColor="#9A93E1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#7FC1CA" />
+      <dynamic bold="True" textColor="#83AFE5" />
+      <articulation bold="True" textColor="#7FC1CA" />
+      <fingering textColor="#7FC1CA" />
+      <stringnumber textColor="#7FC1CA" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#A8CE93" />
+      <lyricmode textColor="#83AFE5" />
+      <lyrictext textColor="#C5D4DD" />
+      <context bold="True" />
+      <grob textColor="#C5D4DD" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

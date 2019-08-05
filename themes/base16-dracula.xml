@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Dracula">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#e9e9f4" />
+    <background color="#282936" />
+    <selectiontext color="#f1f2f8" />
+    <selectionbackground color="#626483" />
+    <current color="#3a3c4e" />
+    <mark color="#4d4f68" />
+    <error color="#3a3c4e" />
+    <search color="#" />
+    <match color="#62d6e8" />
+    <paper color="#f7f7fb" />
+    <musichighlight color="#626483" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ea51b2" />
+    <escape textColor="#b45bcf" />
+    <comment italic="True" textColor="#626483" />
+    <value textColor="#00f769" />
+    <variable textColor="#ebff87" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#62d6e8" />
+    <error textColor="#b45bcf" underline="True" underlineColor="#b45bcf" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#b45bcf" />
+      <dynamic bold="True" textColor="#62d6e8" />
+      <articulation bold="True" textColor="#b45bcf" />
+      <fingering textColor="#ebff87" />
+      <stringnumber textColor="#b45bcf" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#00f769" />
+      <lyricmode textColor="#62d6e8" />
+      <lyrictext textColor="#e9e9f4" />
+      <context bold="True" />
+      <grob textColor="#e9e9f4" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

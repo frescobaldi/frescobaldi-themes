@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Green Screen">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Chris Kempson (http://chriskempson.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#00bb00" />
+    <background color="#001100" />
+    <selectiontext color="#00dd00" />
+    <selectionbackground color="#007700" />
+    <current color="#003300" />
+    <mark color="#005500" />
+    <error color="#003300" />
+    <search color="#" />
+    <match color="#009900" />
+    <paper color="#00ff00" />
+    <musichighlight color="#007700" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#007700" />
+    <escape textColor="#009900" />
+    <comment italic="True" textColor="#007700" />
+    <value textColor="#007700" />
+    <variable textColor="#00bb00" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#009900" />
+    <error textColor="#00bb00" underline="True" underlineColor="#00bb00" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#009900" />
+      <dynamic bold="True" textColor="#009900" />
+      <articulation bold="True" textColor="#009900" />
+      <fingering textColor="#00bb00" />
+      <stringnumber textColor="#009900" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#007700" />
+      <lyricmode textColor="#009900" />
+      <lyrictext textColor="#00bb00" />
+      <context bold="True" />
+      <grob textColor="#00bb00" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

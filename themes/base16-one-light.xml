@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#One Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Daniel Pfeifer (http://github.com/purpleKarrot)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#383a42" />
+    <background color="#fafafa" />
+    <selectiontext color="#202227" />
+    <selectionbackground color="#a0a1a7" />
+    <current color="#f0f0f1" />
+    <mark color="#e5e5e6" />
+    <error color="#f0f0f1" />
+    <search color="#" />
+    <match color="#696c77" />
+    <paper color="#090a0b" />
+    <musichighlight color="#a0a1a7" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ca1243" />
+    <escape textColor="#d75f00" />
+    <comment italic="True" textColor="#a0a1a7" />
+    <value textColor="#c18401" />
+    <variable textColor="#50a14f" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4078f2" />
+    <error textColor="#a626a4" underline="True" underlineColor="#a626a4" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#d75f00" />
+      <dynamic bold="True" textColor="#4078f2" />
+      <articulation bold="True" textColor="#d75f00" />
+      <fingering textColor="#50a14f" />
+      <stringnumber textColor="#d75f00" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#c18401" />
+      <lyricmode textColor="#4078f2" />
+      <lyrictext textColor="#383a42" />
+      <context bold="True" />
+      <grob textColor="#383a42" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

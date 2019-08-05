@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Twilight">
+  <!--
+  Created by base16-frescobaldi
+  Author: #David Hart (https://github.com/hartbit)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#a7a7a7" />
+    <background color="#1e1e1e" />
+    <selectiontext color="#c3c3c3" />
+    <selectionbackground color="#5f5a60" />
+    <current color="#323537" />
+    <mark color="#464b50" />
+    <error color="#323537" />
+    <search color="#" />
+    <match color="#838184" />
+    <paper color="#ffffff" />
+    <musichighlight color="#5f5a60" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#cf6a4c" />
+    <escape textColor="#cda869" />
+    <comment italic="True" textColor="#5f5a60" />
+    <value textColor="#f9ee98" />
+    <variable textColor="#8f9d6a" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7587a6" />
+    <error textColor="#9b859d" underline="True" underlineColor="#9b859d" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#cda869" />
+      <dynamic bold="True" textColor="#7587a6" />
+      <articulation bold="True" textColor="#cda869" />
+      <fingering textColor="#8f9d6a" />
+      <stringnumber textColor="#cda869" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f9ee98" />
+      <lyricmode textColor="#7587a6" />
+      <lyrictext textColor="#a7a7a7" />
+      <context bold="True" />
+      <grob textColor="#a7a7a7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

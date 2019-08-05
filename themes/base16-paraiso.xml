@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Paraiso">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jan T. Sott
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#a39e9b" />
+    <background color="#2f1e2e" />
+    <selectiontext color="#b9b6b0" />
+    <selectionbackground color="#776e71" />
+    <current color="#41323f" />
+    <mark color="#4f424c" />
+    <error color="#41323f" />
+    <search color="#" />
+    <match color="#8d8687" />
+    <paper color="#e7e9db" />
+    <musichighlight color="#776e71" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ef6155" />
+    <escape textColor="#f99b15" />
+    <comment italic="True" textColor="#776e71" />
+    <value textColor="#fec418" />
+    <variable textColor="#48b685" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#06b6ef" />
+    <error textColor="#815ba4" underline="True" underlineColor="#815ba4" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f99b15" />
+      <dynamic bold="True" textColor="#06b6ef" />
+      <articulation bold="True" textColor="#f99b15" />
+      <fingering textColor="#48b685" />
+      <stringnumber textColor="#f99b15" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fec418" />
+      <lyricmode textColor="#06b6ef" />
+      <lyrictext textColor="#a39e9b" />
+      <context bold="True" />
+      <grob textColor="#a39e9b" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

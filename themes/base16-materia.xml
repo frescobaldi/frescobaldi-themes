@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Materia">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Defman21
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#CDD3DE" />
+    <background color="#263238" />
+    <selectiontext color="#D5DBE5" />
+    <selectionbackground color="#707880" />
+    <current color="#2C393F" />
+    <mark color="#37474F" />
+    <error color="#2C393F" />
+    <search color="#" />
+    <match color="#C9CCD3" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#707880" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EC5F67" />
+    <escape textColor="#EA9560" />
+    <comment italic="True" textColor="#707880" />
+    <value textColor="#FFCC00" />
+    <variable textColor="#8BD649" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#89DDFF" />
+    <error textColor="#82AAFF" underline="True" underlineColor="#82AAFF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EA9560" />
+      <dynamic bold="True" textColor="#89DDFF" />
+      <articulation bold="True" textColor="#EA9560" />
+      <fingering textColor="#8BD649" />
+      <stringnumber textColor="#EA9560" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFCC00" />
+      <lyricmode textColor="#89DDFF" />
+      <lyrictext textColor="#CDD3DE" />
+      <context bold="True" />
+      <grob textColor="#CDD3DE" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

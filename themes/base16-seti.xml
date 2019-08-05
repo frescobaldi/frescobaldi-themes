@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Seti UI">
+  <!--
+  Created by base16-frescobaldi
+  Author: #
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d6d6d6" />
+    <background color="#151718" />
+    <selectiontext color="#eeeeee" />
+    <selectionbackground color="#41535B" />
+    <current color="#282a2b" />
+    <mark color="#3B758C" />
+    <error color="#282a2b" />
+    <search color="#" />
+    <match color="#43a5d5" />
+    <paper color="#ffffff" />
+    <musichighlight color="#41535B" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#Cd3f45" />
+    <escape textColor="#db7b55" />
+    <comment italic="True" textColor="#41535B" />
+    <value textColor="#e6cd69" />
+    <variable textColor="#9fca56" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#55b5db" />
+    <error textColor="#a074c4" underline="True" underlineColor="#a074c4" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#db7b55" />
+      <dynamic bold="True" textColor="#55b5db" />
+      <articulation bold="True" textColor="#db7b55" />
+      <fingering textColor="#9fca56" />
+      <stringnumber textColor="#db7b55" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#e6cd69" />
+      <lyricmode textColor="#55b5db" />
+      <lyrictext textColor="#d6d6d6" />
+      <context bold="True" />
+      <grob textColor="#d6d6d6" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

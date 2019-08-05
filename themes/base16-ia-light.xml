@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#iA Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #iA Inc. (modified by aramisgithub)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#181818" />
+    <background color="#f6f6f6" />
+    <selectiontext color="#e8e8e8" />
+    <selectionbackground color="#898989" />
+    <current color="#dedede" />
+    <mark color="#bde5f2" />
+    <error color="#dedede" />
+    <search color="#" />
+    <match color="#767676" />
+    <paper color="#f8f8f8" />
+    <musichighlight color="#898989" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#9c5a02" />
+    <escape textColor="#c43e18" />
+    <comment italic="True" textColor="#898989" />
+    <value textColor="#c48218" />
+    <variable textColor="#38781c" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#48bac2" />
+    <error textColor="#a94598" underline="True" underlineColor="#a94598" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#c43e18" />
+      <dynamic bold="True" textColor="#48bac2" />
+      <articulation bold="True" textColor="#c43e18" />
+      <fingering textColor="#38781c" />
+      <stringnumber textColor="#c43e18" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#c48218" />
+      <lyricmode textColor="#48bac2" />
+      <lyrictext textColor="#181818" />
+      <context bold="True" />
+      <grob textColor="#181818" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

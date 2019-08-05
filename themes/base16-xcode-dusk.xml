@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#XCode Dusk">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Elsa Gonsiorowski (https://github.com/gonsie)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#939599" />
+    <background color="#282B35" />
+    <selectiontext color="#A9AAAE" />
+    <selectionbackground color="#686A71" />
+    <current color="#3D4048" />
+    <mark color="#53555D" />
+    <error color="#3D4048" />
+    <search color="#" />
+    <match color="#7E8086" />
+    <paper color="#BEBFC2" />
+    <musichighlight color="#686A71" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#B21889" />
+    <escape textColor="#786DC5" />
+    <comment italic="True" textColor="#686A71" />
+    <value textColor="#438288" />
+    <variable textColor="#DF0002" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#790EAD" />
+    <error textColor="#B21889" underline="True" underlineColor="#B21889" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#786DC5" />
+      <dynamic bold="True" textColor="#790EAD" />
+      <articulation bold="True" textColor="#786DC5" />
+      <fingering textColor="#DF0002" />
+      <stringnumber textColor="#786DC5" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#438288" />
+      <lyricmode textColor="#790EAD" />
+      <lyrictext textColor="#939599" />
+      <context bold="True" />
+      <grob textColor="#939599" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

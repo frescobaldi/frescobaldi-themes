@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Google Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Seth Wright (http://sethawright.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#373b41" />
+    <background color="#ffffff" />
+    <selectiontext color="#282a2e" />
+    <selectionbackground color="#b4b7b4" />
+    <current color="#e0e0e0" />
+    <mark color="#c5c8c6" />
+    <error color="#e0e0e0" />
+    <search color="#" />
+    <match color="#969896" />
+    <paper color="#1d1f21" />
+    <musichighlight color="#b4b7b4" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#CC342B" />
+    <escape textColor="#F96A38" />
+    <comment italic="True" textColor="#b4b7b4" />
+    <value textColor="#FBA922" />
+    <variable textColor="#198844" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3971ED" />
+    <error textColor="#A36AC7" underline="True" underlineColor="#A36AC7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F96A38" />
+      <dynamic bold="True" textColor="#3971ED" />
+      <articulation bold="True" textColor="#F96A38" />
+      <fingering textColor="#198844" />
+      <stringnumber textColor="#F96A38" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FBA922" />
+      <lyricmode textColor="#3971ED" />
+      <lyrictext textColor="#373b41" />
+      <context bold="True" />
+      <grob textColor="#373b41" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

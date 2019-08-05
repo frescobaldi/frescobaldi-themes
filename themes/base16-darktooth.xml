@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Darktooth">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jason Milkins (https://github.com/jasonm23)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#A89984" />
+    <background color="#1D2021" />
+    <selectiontext color="#D5C4A1" />
+    <selectionbackground color="#665C54" />
+    <current color="#32302F" />
+    <mark color="#504945" />
+    <error color="#32302F" />
+    <search color="#" />
+    <match color="#928374" />
+    <paper color="#FDF4C1" />
+    <musichighlight color="#665C54" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FB543F" />
+    <escape textColor="#FE8625" />
+    <comment italic="True" textColor="#665C54" />
+    <value textColor="#FAC03B" />
+    <variable textColor="#95C085" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0D6678" />
+    <error textColor="#8F4673" underline="True" underlineColor="#8F4673" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FE8625" />
+      <dynamic bold="True" textColor="#0D6678" />
+      <articulation bold="True" textColor="#FE8625" />
+      <fingering textColor="#95C085" />
+      <stringnumber textColor="#FE8625" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FAC03B" />
+      <lyricmode textColor="#0D6678" />
+      <lyrictext textColor="#A89984" />
+      <context bold="True" />
+      <grob textColor="#A89984" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

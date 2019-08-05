@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Bespin">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jan T. Sott
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#8a8986" />
+    <background color="#28211c" />
+    <selectiontext color="#9d9b97" />
+    <selectionbackground color="#666666" />
+    <current color="#36312e" />
+    <mark color="#5e5d5c" />
+    <error color="#36312e" />
+    <search color="#" />
+    <match color="#797977" />
+    <paper color="#baae9e" />
+    <musichighlight color="#666666" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#cf6a4c" />
+    <escape textColor="#cf7d34" />
+    <comment italic="True" textColor="#666666" />
+    <value textColor="#f9ee98" />
+    <variable textColor="#54be0d" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5ea6ea" />
+    <error textColor="#9b859d" underline="True" underlineColor="#9b859d" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#cf7d34" />
+      <dynamic bold="True" textColor="#5ea6ea" />
+      <articulation bold="True" textColor="#cf7d34" />
+      <fingering textColor="#54be0d" />
+      <stringnumber textColor="#cf7d34" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f9ee98" />
+      <lyricmode textColor="#5ea6ea" />
+      <lyrictext textColor="#8a8986" />
+      <context bold="True" />
+      <grob textColor="#8a8986" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Apathy">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jannik Siebert (https://github.com/janniks)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#81B5AC" />
+    <background color="#031A16" />
+    <selectiontext color="#A7CEC8" />
+    <selectionbackground color="#2B685E" />
+    <current color="#0B342D" />
+    <mark color="#184E45" />
+    <error color="#0B342D" />
+    <search color="#" />
+    <match color="#5F9C92" />
+    <paper color="#D2E7E4" />
+    <musichighlight color="#2B685E" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#3E9688" />
+    <escape textColor="#3E7996" />
+    <comment italic="True" textColor="#2B685E" />
+    <value textColor="#3E4C96" />
+    <variable textColor="#883E96" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#96883E" />
+    <error textColor="#4C963E" underline="True" underlineColor="#4C963E" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#3E7996" />
+      <dynamic bold="True" textColor="#96883E" />
+      <articulation bold="True" textColor="#3E7996" />
+      <fingering textColor="#883E96" />
+      <stringnumber textColor="#3E7996" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#3E4C96" />
+      <lyricmode textColor="#96883E" />
+      <lyrictext textColor="#81B5AC" />
+      <context bold="True" />
+      <grob textColor="#81B5AC" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

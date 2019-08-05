@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Codeschool">
+  <!--
+  Created by base16-frescobaldi
+  Author: #blockloop
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#9ea7a6" />
+    <background color="#232c31" />
+    <selectiontext color="#a7cfa3" />
+    <selectionbackground color="#3f4944" />
+    <current color="#1c3657" />
+    <mark color="#2a343a" />
+    <error color="#1c3657" />
+    <search color="#" />
+    <match color="#84898c" />
+    <paper color="#b5d8f6" />
+    <musichighlight color="#3f4944" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#2a5491" />
+    <escape textColor="#43820d" />
+    <comment italic="True" textColor="#3f4944" />
+    <value textColor="#a03b1e" />
+    <variable textColor="#237986" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#484d79" />
+    <error textColor="#c59820" underline="True" underlineColor="#c59820" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#43820d" />
+      <dynamic bold="True" textColor="#484d79" />
+      <articulation bold="True" textColor="#43820d" />
+      <fingering textColor="#237986" />
+      <stringnumber textColor="#43820d" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#a03b1e" />
+      <lyricmode textColor="#484d79" />
+      <lyrictext textColor="#9ea7a6" />
+      <context bold="True" />
+      <grob textColor="#9ea7a6" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

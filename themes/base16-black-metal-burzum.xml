@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Black Metal (Burzum)">
+  <!--
+  Created by base16-frescobaldi
+  Author: #metalelf0 (https://github.com/metalelf0)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#c1c1c1" />
+    <background color="#000000" />
+    <selectiontext color="#999999" />
+    <selectionbackground color="#333333" />
+    <current color="#121212" />
+    <mark color="#222222" />
+    <error color="#121212" />
+    <search color="#" />
+    <match color="#999999" />
+    <paper color="#c1c1c1" />
+    <musichighlight color="#333333" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#5f8787" />
+    <escape textColor="#aaaaaa" />
+    <comment italic="True" textColor="#333333" />
+    <value textColor="#99bbaa" />
+    <variable textColor="#ddeecc" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#888888" />
+    <error textColor="#999999" underline="True" underlineColor="#999999" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#aaaaaa" />
+      <dynamic bold="True" textColor="#888888" />
+      <articulation bold="True" textColor="#aaaaaa" />
+      <fingering textColor="#ddeecc" />
+      <stringnumber textColor="#aaaaaa" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#99bbaa" />
+      <lyricmode textColor="#888888" />
+      <lyrictext textColor="#c1c1c1" />
+      <context bold="True" />
+      <grob textColor="#c1c1c1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

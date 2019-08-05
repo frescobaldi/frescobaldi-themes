@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Isotope">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jan T. Sott
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d0d0d0" />
+    <background color="#000000" />
+    <selectiontext color="#e0e0e0" />
+    <selectionbackground color="#808080" />
+    <current color="#404040" />
+    <mark color="#606060" />
+    <error color="#404040" />
+    <search color="#" />
+    <match color="#c0c0c0" />
+    <paper color="#ffffff" />
+    <musichighlight color="#808080" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff0000" />
+    <escape textColor="#ff9900" />
+    <comment italic="True" textColor="#808080" />
+    <value textColor="#ff0099" />
+    <variable textColor="#33ff00" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0066ff" />
+    <error textColor="#cc00ff" underline="True" underlineColor="#cc00ff" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ff9900" />
+      <dynamic bold="True" textColor="#0066ff" />
+      <articulation bold="True" textColor="#ff9900" />
+      <fingering textColor="#33ff00" />
+      <stringnumber textColor="#ff9900" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ff0099" />
+      <lyricmode textColor="#0066ff" />
+      <lyrictext textColor="#d0d0d0" />
+      <context bold="True" />
+      <grob textColor="#d0d0d0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

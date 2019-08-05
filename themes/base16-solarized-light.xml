@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Solarized Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Ethan Schoonover (modified by aramisgithub)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#586e75" />
+    <background color="#fdf6e3" />
+    <selectiontext color="#073642" />
+    <selectionbackground color="#839496" />
+    <current color="#eee8d5" />
+    <mark color="#93a1a1" />
+    <error color="#eee8d5" />
+    <search color="#" />
+    <match color="#657b83" />
+    <paper color="#002b36" />
+    <musichighlight color="#839496" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#dc322f" />
+    <escape textColor="#cb4b16" />
+    <comment italic="True" textColor="#839496" />
+    <value textColor="#b58900" />
+    <variable textColor="#859900" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#268bd2" />
+    <error textColor="#6c71c4" underline="True" underlineColor="#6c71c4" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#cb4b16" />
+      <dynamic bold="True" textColor="#268bd2" />
+      <articulation bold="True" textColor="#cb4b16" />
+      <fingering textColor="#859900" />
+      <stringnumber textColor="#cb4b16" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#b58900" />
+      <lyricmode textColor="#268bd2" />
+      <lyrictext textColor="#586e75" />
+      <context bold="True" />
+      <grob textColor="#586e75" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

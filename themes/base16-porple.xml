@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Porple">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Niek den Breeje (https://github.com/AuditeMarlow)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d8d8d8" />
+    <background color="#292c36" />
+    <selectiontext color="#e8e8e8" />
+    <selectionbackground color="#65568a" />
+    <current color="#333344" />
+    <mark color="#474160" />
+    <error color="#333344" />
+    <search color="#" />
+    <match color="#b8b8b8" />
+    <paper color="#f8f8f8" />
+    <musichighlight color="#65568a" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f84547" />
+    <escape textColor="#d28e5d" />
+    <comment italic="True" textColor="#65568a" />
+    <value textColor="#efa16b" />
+    <variable textColor="#95c76f" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8485ce" />
+    <error textColor="#b74989" underline="True" underlineColor="#b74989" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#d28e5d" />
+      <dynamic bold="True" textColor="#8485ce" />
+      <articulation bold="True" textColor="#d28e5d" />
+      <fingering textColor="#95c76f" />
+      <stringnumber textColor="#d28e5d" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#efa16b" />
+      <lyricmode textColor="#8485ce" />
+      <lyrictext textColor="#d8d8d8" />
+      <context bold="True" />
+      <grob textColor="#d8d8d8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

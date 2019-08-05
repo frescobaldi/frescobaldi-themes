@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Summerfruit Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Christopher Corley (http://christop.club/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#101010" />
+    <background color="#FFFFFF" />
+    <selectiontext color="#151515" />
+    <selectionbackground color="#B0B0B0" />
+    <current color="#E0E0E0" />
+    <mark color="#D0D0D0" />
+    <error color="#E0E0E0" />
+    <search color="#" />
+    <match color="#000000" />
+    <paper color="#202020" />
+    <musichighlight color="#B0B0B0" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF0086" />
+    <escape textColor="#FD8900" />
+    <comment italic="True" textColor="#B0B0B0" />
+    <value textColor="#ABA800" />
+    <variable textColor="#00C918" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3777E6" />
+    <error textColor="#AD00A1" underline="True" underlineColor="#AD00A1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FD8900" />
+      <dynamic bold="True" textColor="#3777E6" />
+      <articulation bold="True" textColor="#FD8900" />
+      <fingering textColor="#00C918" />
+      <stringnumber textColor="#FD8900" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ABA800" />
+      <lyricmode textColor="#3777E6" />
+      <lyrictext textColor="#101010" />
+      <context bold="True" />
+      <grob textColor="#101010" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

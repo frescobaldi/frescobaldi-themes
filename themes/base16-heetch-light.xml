@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Heetch Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Geoffrey Teale (tealeg@gmail.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5a496e" />
+    <background color="#feffff" />
+    <selectiontext color="#470546" />
+    <selectionbackground color="#9c92a8" />
+    <current color="#392551" />
+    <mark color="#7b6d8b" />
+    <error color="#392551" />
+    <search color="#" />
+    <match color="#ddd6e5" />
+    <paper color="#190134" />
+    <musichighlight color="#9c92a8" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#27d9d5" />
+    <escape textColor="#bdb6c5" />
+    <comment italic="True" textColor="#9c92a8" />
+    <value textColor="#5ba2b6" />
+    <variable textColor="#f80059" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#47f9f5" />
+    <error textColor="#bd0152" underline="True" underlineColor="#bd0152" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#bdb6c5" />
+      <dynamic bold="True" textColor="#47f9f5" />
+      <articulation bold="True" textColor="#bdb6c5" />
+      <fingering textColor="#f80059" />
+      <stringnumber textColor="#bdb6c5" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#5ba2b6" />
+      <lyricmode textColor="#47f9f5" />
+      <lyrictext textColor="#5a496e" />
+      <context bold="True" />
+      <grob textColor="#5a496e" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

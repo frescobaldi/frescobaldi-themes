@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Embers">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jannik Siebert (https://github.com/janniks)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#A39A90" />
+    <background color="#16130F" />
+    <selectiontext color="#BEB6AE" />
+    <selectionbackground color="#5A5047" />
+    <current color="#2C2620" />
+    <mark color="#433B32" />
+    <error color="#2C2620" />
+    <search color="#" />
+    <match color="#8A8075" />
+    <paper color="#DBD6D1" />
+    <musichighlight color="#5A5047" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#826D57" />
+    <escape textColor="#828257" />
+    <comment italic="True" textColor="#5A5047" />
+    <value textColor="#6D8257" />
+    <variable textColor="#57826D" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6D5782" />
+    <error textColor="#82576D" underline="True" underlineColor="#82576D" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#828257" />
+      <dynamic bold="True" textColor="#6D5782" />
+      <articulation bold="True" textColor="#828257" />
+      <fingering textColor="#57826D" />
+      <stringnumber textColor="#828257" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#6D8257" />
+      <lyricmode textColor="#6D5782" />
+      <lyrictext textColor="#A39A90" />
+      <context bold="True" />
+      <grob textColor="#A39A90" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

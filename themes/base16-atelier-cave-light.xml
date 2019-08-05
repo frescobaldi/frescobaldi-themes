@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Atelier Cave Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Bram de Haan (http://atelierbramdehaan.nl)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#585260" />
+    <background color="#efecf4" />
+    <selectiontext color="#26232a" />
+    <selectionbackground color="#7e7887" />
+    <current color="#e2dfe7" />
+    <mark color="#8b8792" />
+    <error color="#e2dfe7" />
+    <search color="#" />
+    <match color="#655f6d" />
+    <paper color="#19171c" />
+    <musichighlight color="#7e7887" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#be4678" />
+    <escape textColor="#aa573c" />
+    <comment italic="True" textColor="#7e7887" />
+    <value textColor="#a06e3b" />
+    <variable textColor="#2a9292" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#576ddb" />
+    <error textColor="#955ae7" underline="True" underlineColor="#955ae7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#aa573c" />
+      <dynamic bold="True" textColor="#576ddb" />
+      <articulation bold="True" textColor="#aa573c" />
+      <fingering textColor="#2a9292" />
+      <stringnumber textColor="#aa573c" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#a06e3b" />
+      <lyricmode textColor="#576ddb" />
+      <lyrictext textColor="#585260" />
+      <context bold="True" />
+      <grob textColor="#585260" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Snazzy">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#e2e4e5" />
+    <background color="#282a36" />
+    <selectiontext color="#eff0eb" />
+    <selectionbackground color="#78787e" />
+    <current color="#34353e" />
+    <mark color="#43454f" />
+    <error color="#34353e" />
+    <search color="#" />
+    <match color="#a5a5a9" />
+    <paper color="#f1f1f0" />
+    <musichighlight color="#78787e" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff5c57" />
+    <escape textColor="#ff9f43" />
+    <comment italic="True" textColor="#78787e" />
+    <value textColor="#f3f99d" />
+    <variable textColor="#5af78e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#57c7ff" />
+    <error textColor="#ff6ac1" underline="True" underlineColor="#ff6ac1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ff9f43" />
+      <dynamic bold="True" textColor="#57c7ff" />
+      <articulation bold="True" textColor="#ff9f43" />
+      <fingering textColor="#5af78e" />
+      <stringnumber textColor="#ff9f43" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f3f99d" />
+      <lyricmode textColor="#57c7ff" />
+      <lyrictext textColor="#e2e4e5" />
+      <context bold="True" />
+      <grob textColor="#e2e4e5" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

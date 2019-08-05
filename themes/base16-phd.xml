@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#PhD">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Hennig Hasemann (http://leetless.de/vim.html)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#b8bbc2" />
+    <background color="#061229" />
+    <selectiontext color="#dbdde0" />
+    <selectionbackground color="#717885" />
+    <current color="#2a3448" />
+    <mark color="#4d5666" />
+    <error color="#2a3448" />
+    <search color="#" />
+    <match color="#9a99a3" />
+    <paper color="#ffffff" />
+    <musichighlight color="#717885" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#d07346" />
+    <escape textColor="#f0a000" />
+    <comment italic="True" textColor="#717885" />
+    <value textColor="#fbd461" />
+    <variable textColor="#99bf52" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5299bf" />
+    <error textColor="#9989cc" underline="True" underlineColor="#9989cc" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f0a000" />
+      <dynamic bold="True" textColor="#5299bf" />
+      <articulation bold="True" textColor="#f0a000" />
+      <fingering textColor="#99bf52" />
+      <stringnumber textColor="#f0a000" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fbd461" />
+      <lyricmode textColor="#5299bf" />
+      <lyrictext textColor="#b8bbc2" />
+      <context bold="True" />
+      <grob textColor="#b8bbc2" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

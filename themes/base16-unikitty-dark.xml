@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Unikitty Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Josh W Lewis (@joshwlewis)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#bcbabe" />
+    <background color="#2e2a31" />
+    <selectiontext color="#d8d7da" />
+    <selectionbackground color="#838085" />
+    <current color="#4a464d" />
+    <mark color="#666369" />
+    <error color="#4a464d" />
+    <search color="#" />
+    <match color="#9f9da2" />
+    <paper color="#f5f4f7" />
+    <musichighlight color="#838085" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#d8137f" />
+    <escape textColor="#d65407" />
+    <comment italic="True" textColor="#838085" />
+    <value textColor="#dc8a0e" />
+    <variable textColor="#17ad98" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#796af5" />
+    <error textColor="#bb60ea" underline="True" underlineColor="#bb60ea" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#d65407" />
+      <dynamic bold="True" textColor="#796af5" />
+      <articulation bold="True" textColor="#d65407" />
+      <fingering textColor="#17ad98" />
+      <stringnumber textColor="#d65407" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#dc8a0e" />
+      <lyricmode textColor="#796af5" />
+      <lyrictext textColor="#bcbabe" />
+      <context bold="True" />
+      <grob textColor="#bcbabe" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

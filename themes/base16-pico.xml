@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Pico">
+  <!--
+  Created by base16-frescobaldi
+  Author: #PICO-8 (http://www.lexaloffle.com/pico-8.php)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5f574f" />
+    <background color="#000000" />
+    <selectiontext color="#c2c3c7" />
+    <selectionbackground color="#008751" />
+    <current color="#1d2b53" />
+    <mark color="#7e2553" />
+    <error color="#1d2b53" />
+    <search color="#" />
+    <match color="#ab5236" />
+    <paper color="#fff1e8" />
+    <musichighlight color="#008751" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff004d" />
+    <escape textColor="#ffa300" />
+    <comment italic="True" textColor="#008751" />
+    <value textColor="#fff024" />
+    <variable textColor="#00e756" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#83769c" />
+    <error textColor="#ff77a8" underline="True" underlineColor="#ff77a8" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ffa300" />
+      <dynamic bold="True" textColor="#83769c" />
+      <articulation bold="True" textColor="#ffa300" />
+      <fingering textColor="#00e756" />
+      <stringnumber textColor="#ffa300" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fff024" />
+      <lyricmode textColor="#83769c" />
+      <lyrictext textColor="#5f574f" />
+      <context bold="True" />
+      <grob textColor="#5f574f" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

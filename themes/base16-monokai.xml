@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Monokai">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Wimer Hazenberg (http://www.monokai.nl)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#f8f8f2" />
+    <background color="#272822" />
+    <selectiontext color="#f5f4f1" />
+    <selectionbackground color="#75715e" />
+    <current color="#383830" />
+    <mark color="#49483e" />
+    <error color="#383830" />
+    <search color="#" />
+    <match color="#a59f85" />
+    <paper color="#f9f8f5" />
+    <musichighlight color="#75715e" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f92672" />
+    <escape textColor="#fd971f" />
+    <comment italic="True" textColor="#75715e" />
+    <value textColor="#f4bf75" />
+    <variable textColor="#a6e22e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#66d9ef" />
+    <error textColor="#ae81ff" underline="True" underlineColor="#ae81ff" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#fd971f" />
+      <dynamic bold="True" textColor="#66d9ef" />
+      <articulation bold="True" textColor="#fd971f" />
+      <fingering textColor="#a6e22e" />
+      <stringnumber textColor="#fd971f" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f4bf75" />
+      <lyricmode textColor="#66d9ef" />
+      <lyrictext textColor="#f8f8f2" />
+      <context bold="True" />
+      <grob textColor="#f8f8f2" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Outrun Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Hugo Delahousse (http://github.com/hugodelahousse/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D0D0FA" />
+    <background color="#00002A" />
+    <selectiontext color="#E0E0FF" />
+    <selectionbackground color="#50507A" />
+    <current color="#20204A" />
+    <mark color="#30305A" />
+    <error color="#20204A" />
+    <search color="#" />
+    <match color="#B0B0DA" />
+    <paper color="#F5F5FF" />
+    <musichighlight color="#50507A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF4242" />
+    <escape textColor="#FC8D28" />
+    <comment italic="True" textColor="#50507A" />
+    <value textColor="#F3E877" />
+    <variable textColor="#59F176" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#66B0FF" />
+    <error textColor="#F10596" underline="True" underlineColor="#F10596" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FC8D28" />
+      <dynamic bold="True" textColor="#66B0FF" />
+      <articulation bold="True" textColor="#FC8D28" />
+      <fingering textColor="#59F176" />
+      <stringnumber textColor="#FC8D28" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F3E877" />
+      <lyricmode textColor="#66B0FF" />
+      <lyrictext textColor="#D0D0FA" />
+      <context bold="True" />
+      <grob textColor="#D0D0FA" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

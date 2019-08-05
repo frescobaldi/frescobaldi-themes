@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Classic Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jason Heeris (http://heeris.id.au)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D0D0D0" />
+    <background color="#151515" />
+    <selectiontext color="#E0E0E0" />
+    <selectionbackground color="#505050" />
+    <current color="#202020" />
+    <mark color="#303030" />
+    <error color="#202020" />
+    <search color="#" />
+    <match color="#B0B0B0" />
+    <paper color="#F5F5F5" />
+    <musichighlight color="#505050" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#AC4142" />
+    <escape textColor="#D28445" />
+    <comment italic="True" textColor="#505050" />
+    <value textColor="#F4BF75" />
+    <variable textColor="#90A959" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6A9FB5" />
+    <error textColor="#AA759F" underline="True" underlineColor="#AA759F" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#D28445" />
+      <dynamic bold="True" textColor="#6A9FB5" />
+      <articulation bold="True" textColor="#D28445" />
+      <fingering textColor="#90A959" />
+      <stringnumber textColor="#D28445" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F4BF75" />
+      <lyricmode textColor="#6A9FB5" />
+      <lyrictext textColor="#D0D0D0" />
+      <context bold="True" />
+      <grob textColor="#D0D0D0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

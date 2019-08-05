@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#OneDark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Lalit Magant (http://github.com/tilal6991)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#abb2bf" />
+    <background color="#282c34" />
+    <selectiontext color="#b6bdca" />
+    <selectionbackground color="#545862" />
+    <current color="#353b45" />
+    <mark color="#3e4451" />
+    <error color="#353b45" />
+    <search color="#" />
+    <match color="#565c64" />
+    <paper color="#c8ccd4" />
+    <musichighlight color="#545862" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#e06c75" />
+    <escape textColor="#d19a66" />
+    <comment italic="True" textColor="#545862" />
+    <value textColor="#e5c07b" />
+    <variable textColor="#98c379" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#61afef" />
+    <error textColor="#c678dd" underline="True" underlineColor="#c678dd" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#d19a66" />
+      <dynamic bold="True" textColor="#61afef" />
+      <articulation bold="True" textColor="#d19a66" />
+      <fingering textColor="#98c379" />
+      <stringnumber textColor="#d19a66" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#e5c07b" />
+      <lyricmode textColor="#61afef" />
+      <lyrictext textColor="#abb2bf" />
+      <context bold="True" />
+      <grob textColor="#abb2bf" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

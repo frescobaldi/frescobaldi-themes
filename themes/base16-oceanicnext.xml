@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#OceanicNext">
+  <!--
+  Created by base16-frescobaldi
+  Author: #https://github.com/voronianski/oceanic-next-color-scheme
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C0C5CE" />
+    <background color="#1B2B34" />
+    <selectiontext color="#CDD3DE" />
+    <selectionbackground color="#65737E" />
+    <current color="#343D46" />
+    <mark color="#4F5B66" />
+    <error color="#343D46" />
+    <search color="#" />
+    <match color="#A7ADBA" />
+    <paper color="#D8DEE9" />
+    <musichighlight color="#65737E" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EC5f67" />
+    <escape textColor="#F99157" />
+    <comment italic="True" textColor="#65737E" />
+    <value textColor="#FAC863" />
+    <variable textColor="#99C794" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6699CC" />
+    <error textColor="#C594C5" underline="True" underlineColor="#C594C5" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F99157" />
+      <dynamic bold="True" textColor="#6699CC" />
+      <articulation bold="True" textColor="#F99157" />
+      <fingering textColor="#99C794" />
+      <stringnumber textColor="#F99157" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FAC863" />
+      <lyricmode textColor="#6699CC" />
+      <lyrictext textColor="#C0C5CE" />
+      <context bold="True" />
+      <grob textColor="#C0C5CE" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

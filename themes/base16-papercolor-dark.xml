@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#PaperColor Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#808080" />
+    <background color="#1c1c1c" />
+    <selectiontext color="#d7875f" />
+    <selectionbackground color="#d7af5f" />
+    <current color="#af005f" />
+    <mark color="#5faf00" />
+    <error color="#af005f" />
+    <search color="#" />
+    <match color="#5fafd7" />
+    <paper color="#d0d0d0" />
+    <musichighlight color="#d7af5f" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#585858" />
+    <escape textColor="#5faf5f" />
+    <comment italic="True" textColor="#d7af5f" />
+    <value textColor="#afd700" />
+    <variable textColor="#af87d7" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#ff5faf" />
+    <error textColor="#00afaf" underline="True" underlineColor="#00afaf" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#5faf5f" />
+      <dynamic bold="True" textColor="#ff5faf" />
+      <articulation bold="True" textColor="#5faf5f" />
+      <fingering textColor="#af87d7" />
+      <stringnumber textColor="#5faf5f" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#afd700" />
+      <lyricmode textColor="#ff5faf" />
+      <lyrictext textColor="#808080" />
+      <context bold="True" />
+      <grob textColor="#808080" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Marrakesh">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alexandre Gavioli (http://github.com/Alexx2/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#948e48" />
+    <background color="#201602" />
+    <selectiontext color="#ccc37a" />
+    <selectionbackground color="#6c6823" />
+    <current color="#302e00" />
+    <mark color="#5f5b17" />
+    <error color="#302e00" />
+    <search color="#" />
+    <match color="#86813b" />
+    <paper color="#faf0a5" />
+    <musichighlight color="#6c6823" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#c35359" />
+    <escape textColor="#b36144" />
+    <comment italic="True" textColor="#6c6823" />
+    <value textColor="#a88339" />
+    <variable textColor="#18974e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#477ca1" />
+    <error textColor="#8868b3" underline="True" underlineColor="#8868b3" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#b36144" />
+      <dynamic bold="True" textColor="#477ca1" />
+      <articulation bold="True" textColor="#b36144" />
+      <fingering textColor="#18974e" />
+      <stringnumber textColor="#b36144" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#a88339" />
+      <lyricmode textColor="#477ca1" />
+      <lyrictext textColor="#948e48" />
+      <context bold="True" />
+      <grob textColor="#948e48" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#London Tube">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jan T. Sott
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d9d8d8" />
+    <background color="#231f20" />
+    <selectiontext color="#e7e7e8" />
+    <selectionbackground color="#737171" />
+    <current color="#1c3f95" />
+    <mark color="#5a5758" />
+    <error color="#1c3f95" />
+    <search color="#" />
+    <match color="#959ca1" />
+    <paper color="#ffffff" />
+    <musichighlight color="#737171" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ee2e24" />
+    <escape textColor="#f386a1" />
+    <comment italic="True" textColor="#737171" />
+    <value textColor="#ffd204" />
+    <variable textColor="#00853e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#009ddc" />
+    <error textColor="#98005d" underline="True" underlineColor="#98005d" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f386a1" />
+      <dynamic bold="True" textColor="#009ddc" />
+      <articulation bold="True" textColor="#f386a1" />
+      <fingering textColor="#00853e" />
+      <stringnumber textColor="#f386a1" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffd204" />
+      <lyricmode textColor="#009ddc" />
+      <lyrictext textColor="#d9d8d8" />
+      <context bold="True" />
+      <grob textColor="#d9d8d8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

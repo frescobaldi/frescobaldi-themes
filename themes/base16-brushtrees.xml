@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Brush Trees">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Abraham White &lt;abelincoln.white@gmail.com&gt;
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#6D828E" />
+    <background color="#E3EFEF" />
+    <selectiontext color="#5A6D7A" />
+    <selectionbackground color="#98AFB5" />
+    <current color="#C9DBDC" />
+    <mark color="#B0C5C8" />
+    <error color="#C9DBDC" />
+    <search color="#" />
+    <match color="#8299A1" />
+    <paper color="#485867" />
+    <musichighlight color="#98AFB5" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#b38686" />
+    <escape textColor="#d8bba2" />
+    <comment italic="True" textColor="#98AFB5" />
+    <value textColor="#aab386" />
+    <variable textColor="#87b386" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#868cb3" />
+    <error textColor="#b386b2" underline="True" underlineColor="#b386b2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#d8bba2" />
+      <dynamic bold="True" textColor="#868cb3" />
+      <articulation bold="True" textColor="#d8bba2" />
+      <fingering textColor="#87b386" />
+      <stringnumber textColor="#d8bba2" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#aab386" />
+      <lyricmode textColor="#868cb3" />
+      <lyrictext textColor="#6D828E" />
+      <context bold="True" />
+      <grob textColor="#6D828E" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Atelier Seaside Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Bram de Haan (http://atelierbramdehaan.nl)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5e6e5e" />
+    <background color="#f4fbf4" />
+    <selectiontext color="#242924" />
+    <selectionbackground color="#809980" />
+    <current color="#cfe8cf" />
+    <mark color="#8ca68c" />
+    <error color="#cfe8cf" />
+    <search color="#" />
+    <match color="#687d68" />
+    <paper color="#131513" />
+    <musichighlight color="#809980" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#e6193c" />
+    <escape textColor="#87711d" />
+    <comment italic="True" textColor="#809980" />
+    <value textColor="#98981b" />
+    <variable textColor="#29a329" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3d62f5" />
+    <error textColor="#ad2bee" underline="True" underlineColor="#ad2bee" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#87711d" />
+      <dynamic bold="True" textColor="#3d62f5" />
+      <articulation bold="True" textColor="#87711d" />
+      <fingering textColor="#29a329" />
+      <stringnumber textColor="#87711d" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#98981b" />
+      <lyricmode textColor="#3d62f5" />
+      <lyrictext textColor="#5e6e5e" />
+      <context bold="True" />
+      <grob textColor="#5e6e5e" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

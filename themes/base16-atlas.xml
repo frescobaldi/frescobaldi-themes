@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Atlas">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alex Lende (https://ajlende.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#a1a19a" />
+    <background color="#002635" />
+    <selectiontext color="#e6e6dc" />
+    <selectionbackground color="#6C8B91" />
+    <current color="#00384d" />
+    <mark color="#517F8D" />
+    <error color="#00384d" />
+    <search color="#" />
+    <match color="#869696" />
+    <paper color="#fafaf8" />
+    <musichighlight color="#6C8B91" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff5a67" />
+    <escape textColor="#f08e48" />
+    <comment italic="True" textColor="#6C8B91" />
+    <value textColor="#ffcc1b" />
+    <variable textColor="#7fc06e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5dd7b9" />
+    <error textColor="#9a70a4" underline="True" underlineColor="#9a70a4" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f08e48" />
+      <dynamic bold="True" textColor="#5dd7b9" />
+      <articulation bold="True" textColor="#f08e48" />
+      <fingering textColor="#7fc06e" />
+      <stringnumber textColor="#f08e48" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffcc1b" />
+      <lyricmode textColor="#5dd7b9" />
+      <lyrictext textColor="#a1a19a" />
+      <context bold="True" />
+      <grob textColor="#a1a19a" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

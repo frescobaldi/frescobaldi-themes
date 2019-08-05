@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Decaf">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alex Mirrington (https://github.com/alexmirrington)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#cccccc" />
+    <background color="#2d2d2d" />
+    <selectiontext color="#e0e0e0" />
+    <selectionbackground color="#777777" />
+    <current color="#393939" />
+    <mark color="#515151" />
+    <error color="#393939" />
+    <search color="#" />
+    <match color="#b4b7b4" />
+    <paper color="#ffffff" />
+    <musichighlight color="#777777" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff7f7b" />
+    <escape textColor="#ffbf70" />
+    <comment italic="True" textColor="#777777" />
+    <value textColor="#ffd67c" />
+    <variable textColor="#beda78" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#90bee1" />
+    <error textColor="#efb3f7" underline="True" underlineColor="#efb3f7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ffbf70" />
+      <dynamic bold="True" textColor="#90bee1" />
+      <articulation bold="True" textColor="#ffbf70" />
+      <fingering textColor="#beda78" />
+      <stringnumber textColor="#ffbf70" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffd67c" />
+      <lyricmode textColor="#90bee1" />
+      <lyrictext textColor="#cccccc" />
+      <context bold="True" />
+      <grob textColor="#cccccc" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

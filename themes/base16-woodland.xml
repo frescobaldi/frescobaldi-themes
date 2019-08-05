@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Woodland">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jay Cornwall (https://jcornwall.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#cabcb1" />
+    <background color="#231e18" />
+    <selectiontext color="#d7c8bc" />
+    <selectionbackground color="#9d8b70" />
+    <current color="#302b25" />
+    <mark color="#48413a" />
+    <error color="#302b25" />
+    <search color="#" />
+    <match color="#b4a490" />
+    <paper color="#e4d4c8" />
+    <musichighlight color="#9d8b70" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#d35c5c" />
+    <escape textColor="#ca7f32" />
+    <comment italic="True" textColor="#9d8b70" />
+    <value textColor="#e0ac16" />
+    <variable textColor="#b7ba53" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#88a4d3" />
+    <error textColor="#bb90e2" underline="True" underlineColor="#bb90e2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ca7f32" />
+      <dynamic bold="True" textColor="#88a4d3" />
+      <articulation bold="True" textColor="#ca7f32" />
+      <fingering textColor="#b7ba53" />
+      <stringnumber textColor="#ca7f32" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#e0ac16" />
+      <lyricmode textColor="#88a4d3" />
+      <lyrictext textColor="#cabcb1" />
+      <context bold="True" />
+      <grob textColor="#cabcb1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

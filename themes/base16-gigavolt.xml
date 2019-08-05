@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Gigavolt">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Aidan Swope (http://github.com/Whillikers)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#e9e7e1" />
+    <background color="#202126" />
+    <selectiontext color="#eff0f9" />
+    <selectionbackground color="#a1d2e6" />
+    <current color="#2d303d" />
+    <mark color="#706d60" />
+    <error color="#2d303d" />
+    <search color="#" />
+    <match color="#cad3ff" />
+    <paper color="#f2fbff" />
+    <musichighlight color="#a1d2e6" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff661a" />
+    <escape textColor="#19f988" />
+    <comment italic="True" textColor="#a1d2e6" />
+    <value textColor="#ffdc2d" />
+    <variable textColor="#f2e6a9" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#40bfff" />
+    <error textColor="#ae94f9" underline="True" underlineColor="#ae94f9" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#19f988" />
+      <dynamic bold="True" textColor="#40bfff" />
+      <articulation bold="True" textColor="#19f988" />
+      <fingering textColor="#f2e6a9" />
+      <stringnumber textColor="#19f988" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffdc2d" />
+      <lyricmode textColor="#40bfff" />
+      <lyrictext textColor="#e9e7e1" />
+      <context bold="True" />
+      <grob textColor="#e9e7e1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tomorrow">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Chris Kempson (http://chriskempson.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#4d4d4c" />
+    <background color="#ffffff" />
+    <selectiontext color="#282a2e" />
+    <selectionbackground color="#8e908c" />
+    <current color="#e0e0e0" />
+    <mark color="#d6d6d6" />
+    <error color="#e0e0e0" />
+    <search color="#" />
+    <match color="#969896" />
+    <paper color="#1d1f21" />
+    <musichighlight color="#8e908c" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#c82829" />
+    <escape textColor="#f5871f" />
+    <comment italic="True" textColor="#8e908c" />
+    <value textColor="#eab700" />
+    <variable textColor="#718c00" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4271ae" />
+    <error textColor="#8959a8" underline="True" underlineColor="#8959a8" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f5871f" />
+      <dynamic bold="True" textColor="#4271ae" />
+      <articulation bold="True" textColor="#f5871f" />
+      <fingering textColor="#718c00" />
+      <stringnumber textColor="#f5871f" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#eab700" />
+      <lyricmode textColor="#4271ae" />
+      <lyrictext textColor="#4d4d4c" />
+      <context bold="True" />
+      <grob textColor="#4d4d4c" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

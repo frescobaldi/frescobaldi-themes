@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Rebecca">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#f1eff8" />
+    <background color="#292a44" />
+    <selectiontext color="#ccccff" />
+    <selectionbackground color="#666699" />
+    <current color="#663399" />
+    <mark color="#383a62" />
+    <error color="#663399" />
+    <search color="#" />
+    <match color="#a0a0c5" />
+    <paper color="#53495d" />
+    <musichighlight color="#666699" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#a0a0c5" />
+    <escape textColor="#efe4a1" />
+    <comment italic="True" textColor="#666699" />
+    <value textColor="#ae81ff" />
+    <variable textColor="#6dfedf" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#2de0a7" />
+    <error textColor="#7aa5ff" underline="True" underlineColor="#7aa5ff" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#efe4a1" />
+      <dynamic bold="True" textColor="#2de0a7" />
+      <articulation bold="True" textColor="#efe4a1" />
+      <fingering textColor="#6dfedf" />
+      <stringnumber textColor="#efe4a1" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ae81ff" />
+      <lyricmode textColor="#2de0a7" />
+      <lyrictext textColor="#f1eff8" />
+      <context bold="True" />
+      <grob textColor="#f1eff8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Horizon Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Michaël Ball (http://github.com/michael-ball/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#CBCED0" />
+    <background color="#1C1E26" />
+    <selectiontext color="#DCDFE4" />
+    <selectionbackground color="#6F6F70" />
+    <current color="#232530" />
+    <mark color="#2E303E" />
+    <error color="#232530" />
+    <search color="#" />
+    <match color="#9DA0A2" />
+    <paper color="#E3E6EE" />
+    <musichighlight color="#6F6F70" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#E95678" />
+    <escape textColor="#FAB795" />
+    <comment italic="True" textColor="#6F6F70" />
+    <value textColor="#FAC29A" />
+    <variable textColor="#29D398" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#26BBD9" />
+    <error textColor="#EE64AC" underline="True" underlineColor="#EE64AC" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FAB795" />
+      <dynamic bold="True" textColor="#26BBD9" />
+      <articulation bold="True" textColor="#FAB795" />
+      <fingering textColor="#29D398" />
+      <stringnumber textColor="#FAB795" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FAC29A" />
+      <lyricmode textColor="#26BBD9" />
+      <lyrictext textColor="#CBCED0" />
+      <context bold="True" />
+      <grob textColor="#CBCED0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

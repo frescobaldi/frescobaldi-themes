@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Synth Midnight Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Michaël Ball (http://github.com/michael-ball/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DFDBDF" />
+    <background color="#040404" />
+    <selectiontext color="#EFEBEF" />
+    <selectionbackground color="#61507A" />
+    <current color="#141414" />
+    <mark color="#242424" />
+    <error color="#141414" />
+    <search color="#" />
+    <match color="#BFBBBF" />
+    <paper color="#FFFBFF" />
+    <musichighlight color="#61507A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#B53B50" />
+    <escape textColor="#E4600E" />
+    <comment italic="True" textColor="#61507A" />
+    <value textColor="#DAE84D" />
+    <variable textColor="#06EA61" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#03AEFF" />
+    <error textColor="#EA5CE2" underline="True" underlineColor="#EA5CE2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E4600E" />
+      <dynamic bold="True" textColor="#03AEFF" />
+      <articulation bold="True" textColor="#E4600E" />
+      <fingering textColor="#06EA61" />
+      <stringnumber textColor="#E4600E" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DAE84D" />
+      <lyricmode textColor="#03AEFF" />
+      <lyrictext textColor="#DFDBDF" />
+      <context bold="True" />
+      <grob textColor="#DFDBDF" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

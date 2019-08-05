@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Solar Flare">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Chuck Harmston (https://chuck.harmston.ch)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#A6AFB8" />
+    <background color="#18262F" />
+    <selectiontext color="#E8E9ED" />
+    <selectionbackground color="#667581" />
+    <current color="#222E38" />
+    <mark color="#586875" />
+    <error color="#222E38" />
+    <search color="#" />
+    <match color="#85939E" />
+    <paper color="#F5F7FA" />
+    <musichighlight color="#667581" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EF5253" />
+    <escape textColor="#E66B2B" />
+    <comment italic="True" textColor="#667581" />
+    <value textColor="#E4B51C" />
+    <variable textColor="#7CC844" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#33B5E1" />
+    <error textColor="#A363D5" underline="True" underlineColor="#A363D5" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E66B2B" />
+      <dynamic bold="True" textColor="#33B5E1" />
+      <articulation bold="True" textColor="#E66B2B" />
+      <fingering textColor="#7CC844" />
+      <stringnumber textColor="#E66B2B" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#E4B51C" />
+      <lyricmode textColor="#33B5E1" />
+      <lyrictext textColor="#A6AFB8" />
+      <context bold="True" />
+      <grob textColor="#A6AFB8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

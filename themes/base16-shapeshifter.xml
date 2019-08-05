@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Shapeshifter">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Tyler Benziger (http://tybenz.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#102015" />
+    <background color="#f9f9f9" />
+    <selectiontext color="#040404" />
+    <selectionbackground color="#555555" />
+    <current color="#e0e0e0" />
+    <mark color="#ababab" />
+    <error color="#e0e0e0" />
+    <search color="#" />
+    <match color="#343434" />
+    <paper color="#000000" />
+    <musichighlight color="#555555" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#e92f2f" />
+    <escape textColor="#e09448" />
+    <comment italic="True" textColor="#555555" />
+    <value textColor="#dddd13" />
+    <variable textColor="#0ed839" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3b48e3" />
+    <error textColor="#f996e2" underline="True" underlineColor="#f996e2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#e09448" />
+      <dynamic bold="True" textColor="#3b48e3" />
+      <articulation bold="True" textColor="#e09448" />
+      <fingering textColor="#0ed839" />
+      <stringnumber textColor="#e09448" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#dddd13" />
+      <lyricmode textColor="#3b48e3" />
+      <lyrictext textColor="#102015" />
+      <context bold="True" />
+      <grob textColor="#102015" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

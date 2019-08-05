@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Spacemacs">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#a3a3a3" />
+    <background color="#1f2022" />
+    <selectiontext color="#e8e8e8" />
+    <selectionbackground color="#585858" />
+    <current color="#282828" />
+    <mark color="#444155" />
+    <error color="#282828" />
+    <search color="#" />
+    <match color="#b8b8b8" />
+    <paper color="#f8f8f8" />
+    <musichighlight color="#585858" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f2241f" />
+    <escape textColor="#ffa500" />
+    <comment italic="True" textColor="#585858" />
+    <value textColor="#b1951d" />
+    <variable textColor="#67b11d" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4f97d7" />
+    <error textColor="#a31db1" underline="True" underlineColor="#a31db1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ffa500" />
+      <dynamic bold="True" textColor="#4f97d7" />
+      <articulation bold="True" textColor="#ffa500" />
+      <fingering textColor="#67b11d" />
+      <stringnumber textColor="#ffa500" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#b1951d" />
+      <lyricmode textColor="#4f97d7" />
+      <lyrictext textColor="#a3a3a3" />
+      <context bold="True" />
+      <grob textColor="#a3a3a3" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Fruit Soda">
+  <!--
+  Created by base16-frescobaldi
+  Author: #jozip
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#515151" />
+    <background color="#f1ecf1" />
+    <selectiontext color="#474545" />
+    <selectionbackground color="#b5b4b6" />
+    <current color="#e0dee0" />
+    <mark color="#d8d5d5" />
+    <error color="#e0dee0" />
+    <search color="#" />
+    <match color="#979598" />
+    <paper color="#2d2c2c" />
+    <musichighlight color="#b5b4b6" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#fe3e31" />
+    <escape textColor="#fe6d08" />
+    <comment italic="True" textColor="#b5b4b6" />
+    <value textColor="#f7e203" />
+    <variable textColor="#47f74c" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#2931df" />
+    <error textColor="#611fce" underline="True" underlineColor="#611fce" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#fe6d08" />
+      <dynamic bold="True" textColor="#2931df" />
+      <articulation bold="True" textColor="#fe6d08" />
+      <fingering textColor="#47f74c" />
+      <stringnumber textColor="#fe6d08" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f7e203" />
+      <lyricmode textColor="#2931df" />
+      <lyrictext textColor="#515151" />
+      <context bold="True" />
+      <grob textColor="#515151" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

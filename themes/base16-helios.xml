@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Helios">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alex Meyer (https://github.com/reyemxela)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d5d5d5" />
+    <background color="#1d2021" />
+    <selectiontext color="#dddddd" />
+    <selectionbackground color="#6f7579" />
+    <current color="#383c3e" />
+    <mark color="#53585b" />
+    <error color="#383c3e" />
+    <search color="#" />
+    <match color="#cdcdcd" />
+    <paper color="#e5e5e5" />
+    <musichighlight color="#6f7579" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#d72638" />
+    <escape textColor="#eb8413" />
+    <comment italic="True" textColor="#6f7579" />
+    <value textColor="#f19d1a" />
+    <variable textColor="#88b92d" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#1e8bac" />
+    <error textColor="#be4264" underline="True" underlineColor="#be4264" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#eb8413" />
+      <dynamic bold="True" textColor="#1e8bac" />
+      <articulation bold="True" textColor="#eb8413" />
+      <fingering textColor="#88b92d" />
+      <stringnumber textColor="#eb8413" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f19d1a" />
+      <lyricmode textColor="#1e8bac" />
+      <lyrictext textColor="#d5d5d5" />
+      <context bold="True" />
+      <grob textColor="#d5d5d5" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

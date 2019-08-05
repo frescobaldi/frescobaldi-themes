@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Brogrammer">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Vik Ramanujam (http://github.com/piggyslasher)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#4e5ab7" />
+    <background color="#1f1f1f" />
+    <selectiontext color="#1081d6" />
+    <selectionbackground color="#ecba0f" />
+    <current color="#f81118" />
+    <mark color="#2dc55e" />
+    <error color="#f81118" />
+    <search color="#" />
+    <match color="#2a84d2" />
+    <paper color="#d6dbe5" />
+    <musichighlight color="#ecba0f" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#d6dbe5" />
+    <escape textColor="#de352e" />
+    <comment italic="True" textColor="#ecba0f" />
+    <value textColor="#1dd361" />
+    <variable textColor="#f3bd09" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5350b9" />
+    <error textColor="#0f7ddb" underline="True" underlineColor="#0f7ddb" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#de352e" />
+      <dynamic bold="True" textColor="#5350b9" />
+      <articulation bold="True" textColor="#de352e" />
+      <fingering textColor="#f3bd09" />
+      <stringnumber textColor="#de352e" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#1dd361" />
+      <lyricmode textColor="#5350b9" />
+      <lyrictext textColor="#4e5ab7" />
+      <context bold="True" />
+      <grob textColor="#4e5ab7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

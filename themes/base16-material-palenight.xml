@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Material Palenight">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Nate Peterson
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#959DCB" />
+    <background color="#292D3E" />
+    <selectiontext color="#959DCB" />
+    <selectionbackground color="#676E95" />
+    <current color="#444267" />
+    <mark color="#32374D" />
+    <error color="#444267" />
+    <search color="#" />
+    <match color="#8796B0" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#676E95" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F07178" />
+    <escape textColor="#F78C6C" />
+    <comment italic="True" textColor="#676E95" />
+    <value textColor="#FFCB6B" />
+    <variable textColor="#C3E88D" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#82AAFF" />
+    <error textColor="#C792EA" underline="True" underlineColor="#C792EA" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F78C6C" />
+      <dynamic bold="True" textColor="#82AAFF" />
+      <articulation bold="True" textColor="#F78C6C" />
+      <fingering textColor="#C3E88D" />
+      <stringnumber textColor="#F78C6C" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFCB6B" />
+      <lyricmode textColor="#82AAFF" />
+      <lyrictext textColor="#959DCB" />
+      <context bold="True" />
+      <grob textColor="#959DCB" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

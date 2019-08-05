@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Brewer">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Timothée Poisot (http://github.com/tpoisot)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#b7b8b9" />
+    <background color="#0c0d0e" />
+    <selectiontext color="#dadbdc" />
+    <selectionbackground color="#737475" />
+    <current color="#2e2f30" />
+    <mark color="#515253" />
+    <error color="#2e2f30" />
+    <search color="#" />
+    <match color="#959697" />
+    <paper color="#fcfdfe" />
+    <musichighlight color="#737475" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#e31a1c" />
+    <escape textColor="#e6550d" />
+    <comment italic="True" textColor="#737475" />
+    <value textColor="#dca060" />
+    <variable textColor="#31a354" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3182bd" />
+    <error textColor="#756bb1" underline="True" underlineColor="#756bb1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#e6550d" />
+      <dynamic bold="True" textColor="#3182bd" />
+      <articulation bold="True" textColor="#e6550d" />
+      <fingering textColor="#31a354" />
+      <stringnumber textColor="#e6550d" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#dca060" />
+      <lyricmode textColor="#3182bd" />
+      <lyrictext textColor="#b7b8b9" />
+      <context bold="True" />
+      <grob textColor="#b7b8b9" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
