@@ -10,3 +10,8 @@ This repository contains ready to use themes for Frescobaldi and a template to u
 4. Click `Menu` right to the current scheme name and choose `Import...` option from the drop-down list.
 5. Find the previously downloaded file and open it.
 6. Apply changes and now your Frescobaldi should be prettier :-)
+
+
+## Contributing
+
+If you have a better aesthetic sense than me, you are very welcome to propose changes to this project :-)
