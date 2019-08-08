@@ -5,6 +5,14 @@ This repository contains ready to use themes for Frescobaldi and a template to u
 ## How to install a theme
 
 1. Choose a theme file from `themes` directory and download it.
+   - To do so:
+     - Navigate to a file and display it
+     - At the upper right corner of the displayed content click on the "Raw" button
+     - Save the file using your browser's facility
+     - Clicking on the link to a theme file and using "Save as..." will *not* save the actual XML file but the HTML used for *displaying* it in the Github website.
+   - Alternatively you can
+     - Download the complete repository as a ZIP archive
+     - Clone the repository
 2. Open Frescobaldi.
 3. Navigate to Theme Selection window (Edit -> Preferences -> Fonts & Colors).
 4. Click `Menu` right to the current scheme name and choose `Import...` option from the drop-down list.
