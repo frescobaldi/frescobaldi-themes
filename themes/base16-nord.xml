@@ -18,25 +18,25 @@
     <musichighlight color="#4C566A" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#88C0D0" />
-    <escape textColor="#81A1C1" />
+    <string textColor="#BF616A" />
+    <escape textColor="#D08770" />
     <comment italic="True" textColor="#4C566A" />
-    <value textColor="#5E81AC" />
-    <variable textColor="#BF616A" />
+    <value textColor="#EBCB8B" />
+    <variable textColor="#A3BE8C" />
     <keyword bold="True" />
-    <function bold="True" textColor="#EBCB8B" />
-    <error textColor="#A3BE8C" underline="True" underlineColor="#A3BE8C" />
+    <function bold="True" textColor="#81A1C1" />
+    <error textColor="#B48EAD" underline="True" underlineColor="#B48EAD" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#81A1C1" />
-      <dynamic bold="True" textColor="#EBCB8B" />
-      <articulation bold="True" textColor="#81A1C1" />
-      <fingering textColor="#BF616A" />
-      <stringnumber textColor="#81A1C1" />
+      <duration textColor="#D08770" />
+      <dynamic bold="True" textColor="#81A1C1" />
+      <articulation bold="True" textColor="#D08770" />
+      <fingering textColor="#A3BE8C" />
+      <stringnumber textColor="#D08770" />
       <slur bold="True" />
-      <markup bold="False" textColor="#5E81AC" />
-      <lyricmode textColor="#EBCB8B" />
+      <markup bold="False" textColor="#EBCB8B" />
+      <lyricmode textColor="#81A1C1" />
       <lyrictext textColor="#E5E9F0" />
       <context bold="True" />
       <grob textColor="#E5E9F0" />

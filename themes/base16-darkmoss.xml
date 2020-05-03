@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#darkmoss">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Gabriel Avanzi (https://github.com/avanzzzi)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#c7c7a5" />
+    <background color="#171e1f" />
+    <selectiontext color="#e3e3c8" />
+    <selectionbackground color="#555e5f" />
+    <current color="#252c2d" />
+    <mark color="#373c3d" />
+    <error color="#252c2d" />
+    <search color="#" />
+    <match color="#818f80" />
+    <paper color="#252c2d" />
+    <musichighlight color="#555e5f" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff4658" />
+    <escape textColor="#e6db74" />
+    <comment italic="True" textColor="#555e5f" />
+    <value textColor="#fdb11f" />
+    <variable textColor="#499180" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#498091" />
+    <error textColor="#9bc0c8" underline="True" underlineColor="#9bc0c8" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#e6db74" />
+      <dynamic bold="True" textColor="#498091" />
+      <articulation bold="True" textColor="#e6db74" />
+      <fingering textColor="#499180" />
+      <stringnumber textColor="#e6db74" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fdb11f" />
+      <lyricmode textColor="#498091" />
+      <lyrictext textColor="#c7c7a5" />
+      <context bold="True" />
+      <grob textColor="#c7c7a5" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

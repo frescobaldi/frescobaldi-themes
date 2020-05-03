@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#summercamp">
+  <!--
+  Created by base16-frescobaldi
+  Author: #zoe firi (zoefiri.github.io)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#736e55" />
+    <background color="#1c1810" />
+    <selectiontext color="#bab696" />
+    <selectionbackground color="#504b38" />
+    <current color="#2a261c" />
+    <mark color="#3a3527" />
+    <error color="#2a261c" />
+    <search color="#" />
+    <match color="#5f5b45" />
+    <paper color="#2a261c" />
+    <musichighlight color="#504b38" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#e35142" />
+    <escape textColor="#fba11b" />
+    <comment italic="True" textColor="#504b38" />
+    <value textColor="#f2ff27" />
+    <variable textColor="#5ceb5a" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#489bf0" />
+    <error textColor="#FF8080" underline="True" underlineColor="#FF8080" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#fba11b" />
+      <dynamic bold="True" textColor="#489bf0" />
+      <articulation bold="True" textColor="#fba11b" />
+      <fingering textColor="#5ceb5a" />
+      <stringnumber textColor="#fba11b" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f2ff27" />
+      <lyricmode textColor="#489bf0" />
+      <lyrictext textColor="#736e55" />
+      <context bold="True" />
+      <grob textColor="#736e55" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

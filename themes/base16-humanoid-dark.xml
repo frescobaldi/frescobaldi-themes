@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Humanoid dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Thomas (tasmo) Friese
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#f8f8f2" />
+    <background color="#232629" />
+    <selectiontext color="#fcfcf6" />
+    <selectionbackground color="#60615d" />
+    <current color="#333b3d" />
+    <mark color="#484e54" />
+    <error color="#333b3d" />
+    <search color="#" />
+    <match color="#c0c0bd" />
+    <paper color="#333b3d" />
+    <musichighlight color="#60615d" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f11235" />
+    <escape textColor="#ff9505" />
+    <comment italic="True" textColor="#60615d" />
+    <value textColor="#ffb627" />
+    <variable textColor="#02d849" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#00a6fb" />
+    <error textColor="#f15ee3" underline="True" underlineColor="#f15ee3" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ff9505" />
+      <dynamic bold="True" textColor="#00a6fb" />
+      <articulation bold="True" textColor="#ff9505" />
+      <fingering textColor="#02d849" />
+      <stringnumber textColor="#ff9505" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffb627" />
+      <lyricmode textColor="#00a6fb" />
+      <lyrictext textColor="#f8f8f2" />
+      <context bold="True" />
+      <grob textColor="#f8f8f2" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

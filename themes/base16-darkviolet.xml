@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Dark Violet">
+  <!--
+  Created by base16-frescobaldi
+  Author: #ruler501 (https://github.com/ruler501/base16-darkviolet)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#b08ae6" />
+    <background color="#000000" />
+    <selectiontext color="#9045e6" />
+    <selectionbackground color="#593380" />
+    <current color="#231a40" />
+    <mark color="#432d59" />
+    <error color="#231a40" />
+    <search color="#" />
+    <match color="#00ff00" />
+    <paper color="#231a40" />
+    <musichighlight color="#593380" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#a82ee6" />
+    <escape textColor="#bb66cc" />
+    <comment italic="True" textColor="#593380" />
+    <value textColor="#f29df2" />
+    <variable textColor="#4595e6" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4136d9" />
+    <error textColor="#7e5ce6" underline="True" underlineColor="#7e5ce6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#bb66cc" />
+      <dynamic bold="True" textColor="#4136d9" />
+      <articulation bold="True" textColor="#bb66cc" />
+      <fingering textColor="#4595e6" />
+      <stringnumber textColor="#bb66cc" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#f29df2" />
+      <lyricmode textColor="#4136d9" />
+      <lyrictext textColor="#b08ae6" />
+      <context bold="True" />
+      <grob textColor="#b08ae6" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tango">
+  <!--
+  Created by base16-frescobaldi
+  Author: #@Schnouki, based on the Tango Desktop Project
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d3d7cf" />
+    <background color="#2e3436" />
+    <selectiontext color="#ad7fa8" />
+    <selectionbackground color="#555753" />
+    <current color="#8ae234" />
+    <mark color="#fce94f" />
+    <error color="#8ae234" />
+    <search color="#" />
+    <match color="#729fcf" />
+    <paper color="#8ae234" />
+    <musichighlight color="#555753" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#cc0000" />
+    <escape textColor="#ef2929" />
+    <comment italic="True" textColor="#555753" />
+    <value textColor="#c4a000" />
+    <variable textColor="#4e9a06" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3465a4" />
+    <error textColor="#75507b" underline="True" underlineColor="#75507b" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ef2929" />
+      <dynamic bold="True" textColor="#3465a4" />
+      <articulation bold="True" textColor="#ef2929" />
+      <fingering textColor="#4e9a06" />
+      <stringnumber textColor="#ef2929" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#c4a000" />
+      <lyricmode textColor="#3465a4" />
+      <lyrictext textColor="#d3d7cf" />
+      <context bold="True" />
+      <grob textColor="#d3d7cf" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

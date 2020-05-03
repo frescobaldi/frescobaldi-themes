@@ -10,11 +10,11 @@
     <selectiontext color="#eff0f9" />
     <selectionbackground color="#a1d2e6" />
     <current color="#2d303d" />
-    <mark color="#706d60" />
+    <mark color="#5a576e" />
     <error color="#2d303d" />
     <search color="#" />
     <match color="#cad3ff" />
-    <paper color="#f2fbff" />
+    <paper color="#2d303d" />
     <musichighlight color="#a1d2e6" />
   </baseColors>
   <defaultStyles>

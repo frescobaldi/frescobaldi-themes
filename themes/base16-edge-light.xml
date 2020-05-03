@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Edge Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #cjayross (https://github.com/cjayross)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5e646f" />
+    <background color="#fafafa" />
+    <selectiontext color="#b870ce" />
+    <selectionbackground color="#5e646f" />
+    <current color="#7c9f4b" />
+    <mark color="#d69822" />
+    <error color="#7c9f4b" />
+    <search color="#" />
+    <match color="#6587bf" />
+    <paper color="#7c9f4b" />
+    <musichighlight color="#5e646f" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#db7070" />
+    <escape textColor="#db7070" />
+    <comment italic="True" textColor="#5e646f" />
+    <value textColor="#d69822" />
+    <variable textColor="#7c9f4b" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6587bf" />
+    <error textColor="#b870ce" underline="True" underlineColor="#b870ce" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#db7070" />
+      <dynamic bold="True" textColor="#6587bf" />
+      <articulation bold="True" textColor="#db7070" />
+      <fingering textColor="#7c9f4b" />
+      <stringnumber textColor="#db7070" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#d69822" />
+      <lyricmode textColor="#6587bf" />
+      <lyrictext textColor="#5e646f" />
+      <context bold="True" />
+      <grob textColor="#5e646f" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

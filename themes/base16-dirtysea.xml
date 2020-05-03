@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#dirtysea">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Kahlil (Kal) Hodgson
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#000000" />
+    <background color="#e0e0e0" />
+    <selectiontext color="#f8f8f8" />
+    <selectionbackground color="#707070" />
+    <current color="#d0d0d0" />
+    <mark color="#c0c0c0" />
+    <error color="#d0d0d0" />
+    <search color="#" />
+    <match color="#202020" />
+    <paper color="#d0d0d0" />
+    <musichighlight color="#707070" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#000090" />
+    <escape textColor="#006565" />
+    <comment italic="True" textColor="#707070" />
+    <value textColor="#006565" />
+    <variable textColor="#730073" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#007300" />
+    <error textColor="#840000" underline="True" underlineColor="#840000" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#006565" />
+      <dynamic bold="True" textColor="#007300" />
+      <articulation bold="True" textColor="#006565" />
+      <fingering textColor="#730073" />
+      <stringnumber textColor="#006565" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#006565" />
+      <lyricmode textColor="#007300" />
+      <lyrictext textColor="#000000" />
+      <context bold="True" />
+      <grob textColor="#000000" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Equilibrium Gray Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Carlo Abelli
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#474747" />
+    <background color="#f1f1f1" />
+    <selectiontext color="#303030" />
+    <selectionbackground color="#777777" />
+    <current color="#e2e2e2" />
+    <mark color="#d4d4d4" />
+    <error color="#e2e2e2" />
+    <search color="#" />
+    <match color="#5e5e5e" />
+    <paper color="#e2e2e2" />
+    <musichighlight color="#777777" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#d02023" />
+    <escape textColor="#bf3e05" />
+    <comment italic="True" textColor="#777777" />
+    <value textColor="#9d6f00" />
+    <variable textColor="#637200" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0073b5" />
+    <error textColor="#4e66b6" underline="True" underlineColor="#4e66b6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#bf3e05" />
+      <dynamic bold="True" textColor="#0073b5" />
+      <articulation bold="True" textColor="#bf3e05" />
+      <fingering textColor="#637200" />
+      <stringnumber textColor="#bf3e05" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#9d6f00" />
+      <lyricmode textColor="#0073b5" />
+      <lyrictext textColor="#474747" />
+      <context bold="True" />
+      <grob textColor="#474747" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
