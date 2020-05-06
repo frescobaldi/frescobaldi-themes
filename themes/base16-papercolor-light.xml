@@ -5,7 +5,7 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#878787" />
+    <text color="#444444" />
     <background color="#eeeeee" />
     <selectiontext color="#005f87" />
     <selectionbackground color="#5f8700" />
@@ -37,9 +37,9 @@
       <slur bold="True" />
       <markup bold="False" textColor="#d70087" />
       <lyricmode textColor="#d75f00" />
-      <lyrictext textColor="#878787" />
+      <lyrictext textColor="#444444" />
       <context bold="True" />
-      <grob textColor="#878787" />
+      <grob textColor="#444444" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>
