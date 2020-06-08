@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Pasque">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Gabriel Fontes (https://github.com/Misterio77)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DEDCDF" />
+    <background color="#271C3A" />
+    <selectiontext color="#EDEAEF" />
+    <selectionbackground color="#5D5766" />
+    <current color="#100323" />
+    <mark color="#3E2D5C" />
+    <error color="#100323" />
+    <search color="#" />
+    <match color="#BEBCBF" />
+    <paper color="#100323" />
+    <musichighlight color="#5D5766" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#A92258" />
+    <escape textColor="#918889" />
+    <comment italic="True" textColor="#5D5766" />
+    <value textColor="#804ead" />
+    <variable textColor="#C6914B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8E7DC6" />
+    <error textColor="#953B9D" underline="True" underlineColor="#953B9D" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#918889" />
+      <dynamic bold="True" textColor="#8E7DC6" />
+      <articulation bold="True" textColor="#918889" />
+      <fingering textColor="#C6914B" />
+      <stringnumber textColor="#918889" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#804ead" />
+      <lyricmode textColor="#8E7DC6" />
+      <lyrictext textColor="#DEDCDF" />
+      <context bold="True" />
+      <grob textColor="#DEDCDF" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
