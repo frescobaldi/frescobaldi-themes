@@ -1,26 +1,26 @@
-<frescobaldi-theme name="#Synth Midnight Terminal Dark">
+<frescobaldi-theme name="#Synth Midnight Terminal Light">
   <!--
   Created by base16-frescobaldi
   Author: #Michaël Ball (http://github.com/michael-ball/)
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#c1c3c4" />
-    <background color="#050608" />
-    <selectiontext color="#cfd1d2" />
-    <selectionbackground color="#474849" />
-    <current color="#1a1b1c" />
-    <mark color="#28292a" />
-    <error color="#1a1b1c" />
+    <text color="#28292a" />
+    <background color="#dddfe0" />
+    <selectiontext color="#1a1b1c" />
+    <selectionbackground color="#a3a5a6" />
+    <current color="#cfd1d2" />
+    <mark color="#c1c3c4" />
+    <error color="#cfd1d2" />
     <search color="#" />
-    <match color="#a3a5a6" />
-    <paper color="#1a1b1c" />
-    <musichighlight color="#474849" />
+    <match color="#474849" />
+    <paper color="#cfd1d2" />
+    <musichighlight color="#a3a5a6" />
   </baseColors>
   <defaultStyles>
     <string textColor="#b53b50" />
     <escape textColor="#ea770d" />
-    <comment italic="True" textColor="#474849" />
+    <comment italic="True" textColor="#a3a5a6" />
     <value textColor="#c9d364" />
     <variable textColor="#06ea61" />
     <keyword bold="True" />
@@ -37,9 +37,9 @@
       <slur bold="True" />
       <markup bold="False" textColor="#c9d364" />
       <lyricmode textColor="#03aeff" />
-      <lyrictext textColor="#c1c3c4" />
+      <lyrictext textColor="#28292a" />
       <context bold="True" />
-      <grob textColor="#c1c3c4" />
+      <grob textColor="#28292a" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

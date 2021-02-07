@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Silk Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Gabriel Fontes (https://github.com/Misterio77)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C7DBDD" />
+    <background color="#0e3c46" />
+    <selectiontext color="#CBF2F7" />
+    <selectionbackground color="#587073" />
+    <current color="#1D494E" />
+    <mark color="#2A5054" />
+    <error color="#1D494E" />
+    <search color="#" />
+    <match color="#9DC8CD" />
+    <paper color="#1D494E" />
+    <musichighlight color="#587073" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#fb6953" />
+    <escape textColor="#fcab74" />
+    <comment italic="True" textColor="#587073" />
+    <value textColor="#fce380" />
+    <variable textColor="#73d8ad" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#46bddd" />
+    <error textColor="#756b8a" underline="True" underlineColor="#756b8a" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#fcab74" />
+      <dynamic bold="True" textColor="#46bddd" />
+      <articulation bold="True" textColor="#fcab74" />
+      <fingering textColor="#73d8ad" />
+      <stringnumber textColor="#fcab74" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fce380" />
+      <lyricmode textColor="#46bddd" />
+      <lyrictext textColor="#C7DBDD" />
+      <context bold="True" />
+      <grob textColor="#C7DBDD" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

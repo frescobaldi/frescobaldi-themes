@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Sagelight">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Carter Veldhuizen
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#383838" />
+    <background color="#f8f8f8" />
+    <selectiontext color="#282828" />
+    <selectionbackground color="#b8b8b8" />
+    <current color="#e8e8e8" />
+    <mark color="#d8d8d8" />
+    <error color="#e8e8e8" />
+    <search color="#" />
+    <match color="#585858" />
+    <paper color="#e8e8e8" />
+    <musichighlight color="#b8b8b8" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#fa8480" />
+    <escape textColor="#ffaa61" />
+    <comment italic="True" textColor="#b8b8b8" />
+    <value textColor="#ffdc61" />
+    <variable textColor="#a0d2c8" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#a0a7d2" />
+    <error textColor="#c8a0d2" underline="True" underlineColor="#c8a0d2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ffaa61" />
+      <dynamic bold="True" textColor="#a0a7d2" />
+      <articulation bold="True" textColor="#ffaa61" />
+      <fingering textColor="#a0d2c8" />
+      <stringnumber textColor="#ffaa61" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffdc61" />
+      <lyricmode textColor="#a0a7d2" />
+      <lyrictext textColor="#383838" />
+      <context bold="True" />
+      <grob textColor="#383838" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

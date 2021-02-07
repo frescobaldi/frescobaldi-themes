@@ -9,23 +9,23 @@
     <background color="#e0e0e0" />
     <selectiontext color="#f8f8f8" />
     <selectionbackground color="#707070" />
-    <current color="#d0d0d0" />
-    <mark color="#c0c0c0" />
-    <error color="#d0d0d0" />
+    <current color="#d0dad0" />
+    <mark color="#d0d0d0" />
+    <error color="#d0dad0" />
     <search color="#" />
     <match color="#202020" />
-    <paper color="#d0d0d0" />
+    <paper color="#d0dad0" />
     <musichighlight color="#707070" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#000090" />
+    <string textColor="#840000" />
     <escape textColor="#006565" />
     <comment italic="True" textColor="#707070" />
-    <value textColor="#006565" />
+    <value textColor="#755B00" />
     <variable textColor="#730073" />
     <keyword bold="True" />
     <function bold="True" textColor="#007300" />
-    <error textColor="#840000" underline="True" underlineColor="#840000" />
+    <error textColor="#000090" underline="True" underlineColor="#000090" />
   </defaultStyles>
   <allStyles>
     <lilypond>
@@ -35,7 +35,7 @@
       <fingering textColor="#730073" />
       <stringnumber textColor="#006565" />
       <slur bold="True" />
-      <markup bold="False" textColor="#006565" />
+      <markup bold="False" textColor="#755B00" />
       <lyricmode textColor="#007300" />
       <lyrictext textColor="#000000" />
       <context bold="True" />

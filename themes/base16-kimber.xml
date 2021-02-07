@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Kimber">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Mishka Nguyen (https://github.com/akhsiM)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DEDEE7" />
+    <background color="#222222" />
+    <selectiontext color="#C3C3B4" />
+    <selectionbackground color="#644646" />
+    <current color="#313131" />
+    <mark color="#555D55" />
+    <error color="#313131" />
+    <search color="#" />
+    <match color="#5A5A5A" />
+    <paper color="#313131" />
+    <musichighlight color="#644646" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C88C8C" />
+    <escape textColor="#476C88" />
+    <comment italic="True" textColor="#644646" />
+    <value textColor="#D8B56D" />
+    <variable textColor="#99C899" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#537C9C" />
+    <error textColor="#86CACD" underline="True" underlineColor="#86CACD" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#476C88" />
+      <dynamic bold="True" textColor="#537C9C" />
+      <articulation bold="True" textColor="#476C88" />
+      <fingering textColor="#99C899" />
+      <stringnumber textColor="#476C88" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#D8B56D" />
+      <lyricmode textColor="#537C9C" />
+      <lyrictext textColor="#DEDEE7" />
+      <context bold="True" />
+      <grob textColor="#DEDEE7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
