@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Qualia">
+  <!--
+  Created by base16-frescobaldi
+  Author: #isaacwhanson
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C0C0C0" />
+    <background color="#101010" />
+    <selectiontext color="#C0C0C0" />
+    <selectionbackground color="#454545" />
+    <current color="#454545" />
+    <mark color="#454545" />
+    <error color="#454545" />
+    <search color="#" />
+    <match color="#808080" />
+    <paper color="#454545" />
+    <musichighlight color="#454545" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EFA6A2" />
+    <escape textColor="#A3B8EF" />
+    <comment italic="True" textColor="#454545" />
+    <value textColor="#E6A3DC" />
+    <variable textColor="#80C990" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#50CACD" />
+    <error textColor="#E0AF85" underline="True" underlineColor="#E0AF85" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#A3B8EF" />
+      <dynamic bold="True" textColor="#50CACD" />
+      <articulation bold="True" textColor="#A3B8EF" />
+      <fingering textColor="#80C990" />
+      <stringnumber textColor="#A3B8EF" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#E6A3DC" />
+      <lyricmode textColor="#50CACD" />
+      <lyrictext textColor="#C0C0C0" />
+      <context bold="True" />
+      <grob textColor="#C0C0C0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

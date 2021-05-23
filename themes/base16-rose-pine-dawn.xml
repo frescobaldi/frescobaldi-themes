@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Rosé Pine Dawn">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#575279" />
+    <background color="#faf4ed" />
+    <selectiontext color="#555169" />
+    <selectionbackground color="#9893a5" />
+    <current color="#fffaf3" />
+    <mark color="#f2e9de" />
+    <error color="#fffaf3" />
+    <search color="#" />
+    <match color="#6e6a86" />
+    <paper color="#fffaf3" />
+    <musichighlight color="#9893a5" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#1f1d2e" />
+    <escape textColor="#b4637a" />
+    <comment italic="True" textColor="#9893a5" />
+    <value textColor="#ea9d34" />
+    <variable textColor="#d7827e" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#56949f" />
+    <error textColor="#907aa9" underline="True" underlineColor="#907aa9" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#b4637a" />
+      <dynamic bold="True" textColor="#56949f" />
+      <articulation bold="True" textColor="#b4637a" />
+      <fingering textColor="#d7827e" />
+      <stringnumber textColor="#b4637a" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ea9d34" />
+      <lyricmode textColor="#56949f" />
+      <lyrictext textColor="#575279" />
+      <context bold="True" />
+      <grob textColor="#575279" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

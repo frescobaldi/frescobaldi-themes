@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Windows NT">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Fergus Collins (https://github.com/C-Fergus)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#c0c0c0" />
+    <background color="#000000" />
+    <selectiontext color="#e0e0e0" />
+    <selectionbackground color="#808080" />
+    <current color="#2a2a2a" />
+    <mark color="#555555" />
+    <error color="#2a2a2a" />
+    <search color="#" />
+    <match color="#a1a1a1" />
+    <paper color="#2a2a2a" />
+    <musichighlight color="#808080" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff0000" />
+    <escape textColor="#808000" />
+    <comment italic="True" textColor="#808080" />
+    <value textColor="#ffff00" />
+    <variable textColor="#00ff00" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0000ff" />
+    <error textColor="#ff00ff" underline="True" underlineColor="#ff00ff" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#808000" />
+      <dynamic bold="True" textColor="#0000ff" />
+      <articulation bold="True" textColor="#808000" />
+      <fingering textColor="#00ff00" />
+      <stringnumber textColor="#808000" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffff00" />
+      <lyricmode textColor="#0000ff" />
+      <lyrictext textColor="#c0c0c0" />
+      <context bold="True" />
+      <grob textColor="#c0c0c0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

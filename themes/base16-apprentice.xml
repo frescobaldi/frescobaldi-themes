@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Apprentice">
+  <!--
+  Created by base16-frescobaldi
+  Author: #romainl
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#BCBCBC" />
+    <background color="#262626" />
+    <selectiontext color="#C9C9C9" />
+    <selectionbackground color="#6C6C6C" />
+    <current color="#303030" />
+    <mark color="#333333" />
+    <error color="#303030" />
+    <search color="#" />
+    <match color="#787878" />
+    <paper color="#303030" />
+    <musichighlight color="#6C6C6C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#5F8787" />
+    <escape textColor="#FF8700" />
+    <comment italic="True" textColor="#6C6C6C" />
+    <value textColor="#5F8787" />
+    <variable textColor="#87AF87" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#FFFFAF" />
+    <error textColor="#87AFD7" underline="True" underlineColor="#87AFD7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF8700" />
+      <dynamic bold="True" textColor="#FFFFAF" />
+      <articulation bold="True" textColor="#FF8700" />
+      <fingering textColor="#87AF87" />
+      <stringnumber textColor="#FF8700" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#5F8787" />
+      <lyricmode textColor="#FFFFAF" />
+      <lyrictext textColor="#BCBCBC" />
+      <context bold="True" />
+      <grob textColor="#BCBCBC" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

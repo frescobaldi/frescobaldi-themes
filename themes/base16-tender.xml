@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#tender">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#eeeeee" />
+    <background color="#282828" />
+    <selectiontext color="#e8e8e8" />
+    <selectionbackground color="#1d1d1d" />
+    <current color="#383838" />
+    <mark color="#484848" />
+    <error color="#383838" />
+    <search color="#" />
+    <match color="#b8b8b8" />
+    <paper color="#383838" />
+    <musichighlight color="#1d1d1d" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f43753" />
+    <escape textColor="#dc9656" />
+    <comment italic="True" textColor="#1d1d1d" />
+    <value textColor="#ffc24b" />
+    <variable textColor="#c9d05c" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#b3deef" />
+    <error textColor="#d3b987" underline="True" underlineColor="#d3b987" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#dc9656" />
+      <dynamic bold="True" textColor="#b3deef" />
+      <articulation bold="True" textColor="#dc9656" />
+      <fingering textColor="#c9d05c" />
+      <stringnumber textColor="#dc9656" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffc24b" />
+      <lyricmode textColor="#b3deef" />
+      <lyrictext textColor="#eeeeee" />
+      <context bold="True" />
+      <grob textColor="#eeeeee" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Sakura">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Misterio77 (http://github.com/Misterio77)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#564448" />
+    <background color="#feedf3" />
+    <selectiontext color="#42383a" />
+    <selectionbackground color="#755f64" />
+    <current color="#f8e2e7" />
+    <mark color="#e0ccd1" />
+    <error color="#f8e2e7" />
+    <search color="#" />
+    <match color="#665055" />
+    <paper color="#f8e2e7" />
+    <musichighlight color="#755f64" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#df2d52" />
+    <escape textColor="#f6661e" />
+    <comment italic="True" textColor="#755f64" />
+    <value textColor="#c29461" />
+    <variable textColor="#2e916d" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#006e93" />
+    <error textColor="#5e2180" underline="True" underlineColor="#5e2180" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f6661e" />
+      <dynamic bold="True" textColor="#006e93" />
+      <articulation bold="True" textColor="#f6661e" />
+      <fingering textColor="#2e916d" />
+      <stringnumber textColor="#f6661e" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#c29461" />
+      <lyricmode textColor="#006e93" />
+      <lyrictext textColor="#564448" />
+      <context bold="True" />
+      <grob textColor="#564448" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
