@@ -8,19 +8,19 @@
     <text color="#eeeeee" />
     <background color="#282828" />
     <selectiontext color="#e8e8e8" />
-    <selectionbackground color="#1d1d1d" />
+    <selectionbackground color="#4c4c4c" />
     <current color="#383838" />
     <mark color="#484848" />
     <error color="#383838" />
     <search color="#" />
     <match color="#b8b8b8" />
     <paper color="#383838" />
-    <musichighlight color="#1d1d1d" />
+    <musichighlight color="#4c4c4c" />
   </baseColors>
   <defaultStyles>
     <string textColor="#f43753" />
     <escape textColor="#dc9656" />
-    <comment italic="True" textColor="#1d1d1d" />
+    <comment italic="True" textColor="#4c4c4c" />
     <value textColor="#ffc24b" />
     <variable textColor="#c9d05c" />
     <keyword bold="True" />
