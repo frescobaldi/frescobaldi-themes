@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#DanQing Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5a605d" />
+    <background color="#fcfefd" />
+    <selectiontext color="#434846" />
+    <selectionbackground color="#cad8d2" />
+    <current color="#ecf6f2" />
+    <mark color="#e0f0eF" />
+    <error color="#ecf6f2" />
+    <search color="#" />
+    <match color="#9da8a3" />
+    <paper color="#ecf6f2" />
+    <musichighlight color="#cad8d2" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F9906F" />
+    <escape textColor="#B38A61" />
+    <comment italic="True" textColor="#cad8d2" />
+    <value textColor="#F0C239" />
+    <variable textColor="#8AB361" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#B0A4E3" />
+    <error textColor="#CCA4E3" underline="True" underlineColor="#CCA4E3" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#B38A61" />
+      <dynamic bold="True" textColor="#B0A4E3" />
+      <articulation bold="True" textColor="#B38A61" />
+      <fingering textColor="#8AB361" />
+      <stringnumber textColor="#B38A61" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F0C239" />
+      <lyricmode textColor="#B0A4E3" />
+      <lyrictext textColor="#5a605d" />
+      <context bold="True" />
+      <grob textColor="#5a605d" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

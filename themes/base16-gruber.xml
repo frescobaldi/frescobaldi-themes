@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Gruber">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#f4f4ff" />
+    <background color="#181818" />
+    <selectiontext color="#f5f5f5" />
+    <selectionbackground color="#9dae93" />
+    <current color="#453d41" />
+    <mark color="#665c7f" />
+    <error color="#453d41" />
+    <search color="#" />
+    <match color="#e4e4ef" />
+    <paper color="#453d41" />
+    <musichighlight color="#9dae93" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f43841" />
+    <escape textColor="#c73c3f" />
+    <comment italic="True" textColor="#9dae93" />
+    <value textColor="#ffdd33" />
+    <variable textColor="#73c936" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#96a6c8" />
+    <error textColor="#9e95c7" underline="True" underlineColor="#9e95c7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#c73c3f" />
+      <dynamic bold="True" textColor="#96a6c8" />
+      <articulation bold="True" textColor="#c73c3f" />
+      <fingering textColor="#73c936" />
+      <stringnumber textColor="#c73c3f" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffdd33" />
+      <lyricmode textColor="#96a6c8" />
+      <lyrictext textColor="#f4f4ff" />
+      <context bold="True" />
+      <grob textColor="#f4f4ff" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

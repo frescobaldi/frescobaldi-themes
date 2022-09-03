@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Vice Alt">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Thomas Leon Highbaugh
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#555e70" />
+    <background color="#1b1d24" />
+    <selectiontext color="#b2bfd9" />
+    <selectionbackground color="#323643" />
+    <current color="#282b36" />
+    <mark color="#2f303d" />
+    <error color="#282b36" />
+    <search color="#" />
+    <match color="#3f4859" />
+    <paper color="#282b36" />
+    <musichighlight color="#323643" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ff3d81" />
+    <escape textColor="#F67544" />
+    <comment italic="True" textColor="#323643" />
+    <value textColor="#ffff73" />
+    <variable textColor="#44ffdd" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#2fb1d4" />
+    <error textColor="#8265ff" underline="True" underlineColor="#8265ff" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F67544" />
+      <dynamic bold="True" textColor="#2fb1d4" />
+      <articulation bold="True" textColor="#F67544" />
+      <fingering textColor="#44ffdd" />
+      <stringnumber textColor="#F67544" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffff73" />
+      <lyricmode textColor="#2fb1d4" />
+      <lyrictext textColor="#555e70" />
+      <context bold="True" />
+      <grob textColor="#555e70" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
