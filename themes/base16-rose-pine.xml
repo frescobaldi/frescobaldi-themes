@@ -1,42 +1,42 @@
 <frescobaldi-theme name="#Rosé Pine">
   <!--
   Created by base16-frescobaldi
-  Author: #Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+  Author: #Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#e0def4" />
     <background color="#191724" />
-    <selectiontext color="#f0f0f3" />
-    <selectionbackground color="#555169" />
+    <selectiontext color="#e0def4" />
+    <selectionbackground color="#6e6a86" />
     <current color="#1f1d2e" />
     <mark color="#26233a" />
     <error color="#1f1d2e" />
     <search color="#" />
-    <match color="#6e6a86" />
+    <match color="#908caa" />
     <paper color="#1f1d2e" />
-    <musichighlight color="#555169" />
+    <musichighlight color="#6e6a86" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#e2e1e7" />
-    <escape textColor="#eb6f92" />
-    <comment italic="True" textColor="#555169" />
-    <value textColor="#f6c177" />
-    <variable textColor="#ebbcba" />
+    <string textColor="#eb6f92" />
+    <escape textColor="#f6c177" />
+    <comment italic="True" textColor="#6e6a86" />
+    <value textColor="#ebbcba" />
+    <variable textColor="#31748f" />
     <keyword bold="True" />
-    <function bold="True" textColor="#9ccfd8" />
-    <error textColor="#c4a7e7" underline="True" underlineColor="#c4a7e7" />
+    <function bold="True" textColor="#c4a7e7" />
+    <error textColor="#f6c177" underline="True" underlineColor="#f6c177" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#eb6f92" />
-      <dynamic bold="True" textColor="#9ccfd8" />
-      <articulation bold="True" textColor="#eb6f92" />
-      <fingering textColor="#ebbcba" />
-      <stringnumber textColor="#eb6f92" />
+      <duration textColor="#f6c177" />
+      <dynamic bold="True" textColor="#c4a7e7" />
+      <articulation bold="True" textColor="#f6c177" />
+      <fingering textColor="#31748f" />
+      <stringnumber textColor="#f6c177" />
       <slur bold="True" />
-      <markup bold="False" textColor="#f6c177" />
-      <lyricmode textColor="#9ccfd8" />
+      <markup bold="False" textColor="#ebbcba" />
+      <lyricmode textColor="#c4a7e7" />
       <lyrictext textColor="#e0def4" />
       <context bold="True" />
       <grob textColor="#e0def4" />
