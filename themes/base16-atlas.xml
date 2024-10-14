@@ -24,19 +24,19 @@
     <value textColor="#ffcc1b" />
     <variable textColor="#7fc06e" />
     <keyword bold="True" />
-    <function bold="True" textColor="#5dd7b9" />
+    <function bold="True" textColor="#14747e" />
     <error textColor="#9a70a4" underline="True" underlineColor="#9a70a4" />
   </defaultStyles>
   <allStyles>
     <lilypond>
       <duration textColor="#f08e48" />
-      <dynamic bold="True" textColor="#5dd7b9" />
+      <dynamic bold="True" textColor="#14747e" />
       <articulation bold="True" textColor="#f08e48" />
       <fingering textColor="#7fc06e" />
       <stringnumber textColor="#f08e48" />
       <slur bold="True" />
       <markup bold="False" textColor="#ffcc1b" />
-      <lyricmode textColor="#5dd7b9" />
+      <lyricmode textColor="#14747e" />
       <lyrictext textColor="#a1a19a" />
       <context bold="True" />
       <grob textColor="#a1a19a" />
