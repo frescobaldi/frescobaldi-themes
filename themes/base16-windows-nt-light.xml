@@ -14,7 +14,7 @@
     <error color="#eaeaea" />
     <search color="#" />
     <match color="#a0a0a0" />
-    <paper color="#eaeaea" />
+    <paper color="#000000" />
     <musichighlight color="#c0c0c0" />
   </baseColors>
   <defaultStyles>
