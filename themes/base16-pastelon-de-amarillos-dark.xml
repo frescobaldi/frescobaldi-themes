@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Pastelón de Amarillos Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Richard Martinez (https://sonofmartinus.com)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#FFE0A3" />
+    <background color="#180D18" />
+    <selectiontext color="#FFEBC5" />
+    <selectionbackground color="#A0747C" />
+    <current color="#2A1424" />
+    <mark color="#432031" />
+    <error color="#2A1424" />
+    <search color="#" />
+    <match color="#C39A89" />
+    <paper color="#FFF7E6" />
+    <musichighlight color="#A0747C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF646A" />
+    <escape textColor="#F99A32" />
+    <comment italic="True" textColor="#A0747C" />
+    <value textColor="#FFC84A" />
+    <variable textColor="#3CCB83" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5A9FE6" />
+    <error textColor="#D978CF" underline="True" underlineColor="#D978CF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F99A32" />
+      <dynamic bold="True" textColor="#5A9FE6" />
+      <articulation bold="True" textColor="#F99A32" />
+      <fingering textColor="#3CCB83" />
+      <stringnumber textColor="#F99A32" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFC84A" />
+      <lyricmode textColor="#5A9FE6" />
+      <lyrictext textColor="#FFE0A3" />
+      <context bold="True" />
+      <grob textColor="#FFE0A3" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

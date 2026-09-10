@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Everforest Dark Medium">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Sainnhe Park (https://github.com/sainnhe)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#859289" />
+    <background color="#2D353B" />
+    <selectiontext color="#9DA9A0" />
+    <selectionbackground color="#475258" />
+    <current color="#343F44" />
+    <mark color="#3D484D" />
+    <error color="#343F44" />
+    <search color="#" />
+    <match color="#7A8478" />
+    <paper color="#D3C6AA" />
+    <musichighlight color="#475258" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#E67E80" />
+    <escape textColor="#E69875" />
+    <comment italic="True" textColor="#475258" />
+    <value textColor="#DBBC7F" />
+    <variable textColor="#A7C080" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7FBBB3" />
+    <error textColor="#D699B6" underline="True" underlineColor="#D699B6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E69875" />
+      <dynamic bold="True" textColor="#7FBBB3" />
+      <articulation bold="True" textColor="#E69875" />
+      <fingering textColor="#A7C080" />
+      <stringnumber textColor="#E69875" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DBBC7F" />
+      <lyricmode textColor="#7FBBB3" />
+      <lyrictext textColor="#859289" />
+      <context bold="True" />
+      <grob textColor="#859289" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

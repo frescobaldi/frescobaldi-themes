@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tokyo City Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Michaël Ball
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D8E2EC" />
+    <background color="#171D23" />
+    <selectiontext color="#F6F6F8" />
+    <selectionbackground color="#526270" />
+    <current color="#1D252C" />
+    <mark color="#28323A" />
+    <error color="#1D252C" />
+    <search color="#" />
+    <match color="#B7C5D3" />
+    <paper color="#FBFBFD" />
+    <musichighlight color="#526270" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F7768E" />
+    <escape textColor="#FF9E64" />
+    <comment italic="True" textColor="#526270" />
+    <value textColor="#B7C5D3" />
+    <variable textColor="#9ECE6A" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7AA2F7" />
+    <error textColor="#BB9AF7" underline="True" underlineColor="#BB9AF7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF9E64" />
+      <dynamic bold="True" textColor="#7AA2F7" />
+      <articulation bold="True" textColor="#FF9E64" />
+      <fingering textColor="#9ECE6A" />
+      <stringnumber textColor="#FF9E64" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#B7C5D3" />
+      <lyricmode textColor="#7AA2F7" />
+      <lyrictext textColor="#D8E2EC" />
+      <context bold="True" />
+      <grob textColor="#D8E2EC" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

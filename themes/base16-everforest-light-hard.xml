@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Everforest Light (Hard)">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Márcio Sobel (https://github.com/marciosobel)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5C6A72" />
+    <background color="#FFFBEF" />
+    <selectiontext color="#414B50" />
+    <selectionbackground color="#939F91" />
+    <current color="#F8F5E4" />
+    <mark color="#EDEADA" />
+    <error color="#F8F5E4" />
+    <search color="#" />
+    <match color="#829181" />
+    <paper color="#272E33" />
+    <musichighlight color="#939F91" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F85552" />
+    <escape textColor="#F57D26" />
+    <comment italic="True" textColor="#939F91" />
+    <value textColor="#DFA000" />
+    <variable textColor="#8DA101" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3A94C5" />
+    <error textColor="#DF69BA" underline="True" underlineColor="#DF69BA" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F57D26" />
+      <dynamic bold="True" textColor="#3A94C5" />
+      <articulation bold="True" textColor="#F57D26" />
+      <fingering textColor="#8DA101" />
+      <stringnumber textColor="#F57D26" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DFA000" />
+      <lyricmode textColor="#3A94C5" />
+      <lyrictext textColor="#5C6A72" />
+      <context bold="True" />
+      <grob textColor="#5C6A72" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

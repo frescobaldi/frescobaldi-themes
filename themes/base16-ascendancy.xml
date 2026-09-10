@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Ascendancy">
+  <!--
+  Created by base16-frescobaldi
+  Author: #EmergentMind (https://github.com/emergentmind/ascendancy-scheme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D5C7A1" />
+    <background color="#282828" />
+    <selectiontext color="#EBDBB2" />
+    <selectionbackground color="#928374" />
+    <current color="#212F3D" />
+    <mark color="#504945" />
+    <error color="#212F3D" />
+    <search color="#" />
+    <match color="#BDAE93" />
+    <paper color="#FBF1C7" />
+    <musichighlight color="#928374" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#D05000" />
+    <escape textColor="#FE8019" />
+    <comment italic="True" textColor="#928374" />
+    <value textColor="#FFCC1B" />
+    <variable textColor="#B8BB26" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#458588" />
+    <error textColor="#FABD2F" underline="True" underlineColor="#FABD2F" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FE8019" />
+      <dynamic bold="True" textColor="#458588" />
+      <articulation bold="True" textColor="#FE8019" />
+      <fingering textColor="#B8BB26" />
+      <stringnumber textColor="#FE8019" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFCC1B" />
+      <lyricmode textColor="#458588" />
+      <lyrictext textColor="#D5C7A1" />
+      <context bold="True" />
+      <grob textColor="#D5C7A1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#tarot">
+  <!--
+  Created by base16-frescobaldi
+  Author: #ed (https://codeberg.org/ed)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#AA556F" />
+    <background color="#0E091D" />
+    <selectiontext color="#C4686D" />
+    <selectionbackground color="#74316B" />
+    <current color="#2A153C" />
+    <mark color="#4B2054" />
+    <error color="#2A153C" />
+    <search color="#" />
+    <match color="#8C406F" />
+    <paper color="#DC8F7C" />
+    <musichighlight color="#74316B" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C53253" />
+    <escape textColor="#EA4D60" />
+    <comment italic="True" textColor="#74316B" />
+    <value textColor="#FF6565" />
+    <variable textColor="#A68E5A" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6E6080" />
+    <error textColor="#A45782" underline="True" underlineColor="#A45782" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EA4D60" />
+      <dynamic bold="True" textColor="#6E6080" />
+      <articulation bold="True" textColor="#EA4D60" />
+      <fingering textColor="#A68E5A" />
+      <stringnumber textColor="#EA4D60" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FF6565" />
+      <lyricmode textColor="#6E6080" />
+      <lyrictext textColor="#AA556F" />
+      <context bold="True" />
+      <grob textColor="#AA556F" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

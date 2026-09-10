@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Primer Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jimmy Lin
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#B1BAC4" />
+    <background color="#010409" />
+    <selectiontext color="#C9D1D9" />
+    <selectionbackground color="#484F58" />
+    <current color="#21262D" />
+    <mark color="#30363D" />
+    <error color="#21262D" />
+    <search color="#" />
+    <match color="#8B949E" />
+    <paper color="#F0F6FC" />
+    <musichighlight color="#484F58" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF7B72" />
+    <escape textColor="#F0883E" />
+    <comment italic="True" textColor="#484F58" />
+    <value textColor="#D29922" />
+    <variable textColor="#3FB950" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#58A6FF" />
+    <error textColor="#F778BA" underline="True" underlineColor="#F778BA" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F0883E" />
+      <dynamic bold="True" textColor="#58A6FF" />
+      <articulation bold="True" textColor="#F0883E" />
+      <fingering textColor="#3FB950" />
+      <stringnumber textColor="#F0883E" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#D29922" />
+      <lyricmode textColor="#58A6FF" />
+      <lyrictext textColor="#B1BAC4" />
+      <context bold="True" />
+      <grob textColor="#B1BAC4" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

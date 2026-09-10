@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tokyodark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#A0A8CD" />
+    <background color="#11121D" />
+    <selectiontext color="#ABB2BF" />
+    <selectionbackground color="#353945" />
+    <current color="#212234" />
+    <mark color="#212234" />
+    <error color="#212234" />
+    <search color="#" />
+    <match color="#4A5057" />
+    <paper color="#BCC2DC" />
+    <musichighlight color="#353945" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EE6D85" />
+    <escape textColor="#F6955B" />
+    <comment italic="True" textColor="#353945" />
+    <value textColor="#D7A65F" />
+    <variable textColor="#95C561" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7199EE" />
+    <error textColor="#A485DD" underline="True" underlineColor="#A485DD" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F6955B" />
+      <dynamic bold="True" textColor="#7199EE" />
+      <articulation bold="True" textColor="#F6955B" />
+      <fingering textColor="#95C561" />
+      <stringnumber textColor="#F6955B" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#D7A65F" />
+      <lyricmode textColor="#7199EE" />
+      <lyrictext textColor="#A0A8CD" />
+      <context bold="True" />
+      <grob textColor="#A0A8CD" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

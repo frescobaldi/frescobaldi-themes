@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Eldritch">
+  <!--
+  Created by base16-frescobaldi
+  Author: #https://github.com/eldritch-theme
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#EBFAFA" />
+    <background color="#212337" />
+    <selectiontext color="#F0F2F4" />
+    <selectionbackground color="#7081D0" />
+    <current color="#323449" />
+    <mark color="#3B4261" />
+    <error color="#323449" />
+    <search color="#" />
+    <match color="#A1ABE0" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#7081D0" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F16C75" />
+    <escape textColor="#F7C67F" />
+    <comment italic="True" textColor="#7081D0" />
+    <value textColor="#F1FC79" />
+    <variable textColor="#37F499" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#39DDFD" />
+    <error textColor="#A48CF2" underline="True" underlineColor="#A48CF2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F7C67F" />
+      <dynamic bold="True" textColor="#39DDFD" />
+      <articulation bold="True" textColor="#F7C67F" />
+      <fingering textColor="#37F499" />
+      <stringnumber textColor="#F7C67F" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F1FC79" />
+      <lyricmode textColor="#39DDFD" />
+      <lyrictext textColor="#EBFAFA" />
+      <context bold="True" />
+      <grob textColor="#EBFAFA" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

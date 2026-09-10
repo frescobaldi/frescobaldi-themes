@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#standardized-light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #ali (https://github.com/ali-githb/base16-standardized-scheme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#444444" />
+    <background color="#FFFFFF" />
+    <selectiontext color="#333333" />
+    <selectionbackground color="#767676" />
+    <current color="#EEEEEE" />
+    <mark color="#CCCCCC" />
+    <error color="#EEEEEE" />
+    <search color="#" />
+    <match color="#767676" />
+    <paper color="#222222" />
+    <musichighlight color="#767676" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#D03E3E" />
+    <escape textColor="#D7691D" />
+    <comment italic="True" textColor="#767676" />
+    <value textColor="#AD8200" />
+    <variable textColor="#31861F" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3173C5" />
+    <error textColor="#9E57C2" underline="True" underlineColor="#9E57C2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#D7691D" />
+      <dynamic bold="True" textColor="#3173C5" />
+      <articulation bold="True" textColor="#D7691D" />
+      <fingering textColor="#31861F" />
+      <stringnumber textColor="#D7691D" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#AD8200" />
+      <lyricmode textColor="#3173C5" />
+      <lyrictext textColor="#444444" />
+      <context bold="True" />
+      <grob textColor="#444444" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

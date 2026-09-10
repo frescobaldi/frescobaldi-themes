@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Catppuccin Latte">
+  <!--
+  Created by base16-frescobaldi
+  Author: #https://github.com/catppuccin/catppuccin
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#4C4F69" />
+    <background color="#EFF1F5" />
+    <selectiontext color="#DC8A78" />
+    <selectionbackground color="#BCC0CC" />
+    <current color="#E6E9EF" />
+    <mark color="#CCD0DA" />
+    <error color="#E6E9EF" />
+    <search color="#" />
+    <match color="#ACB0BE" />
+    <paper color="#7287FD" />
+    <musichighlight color="#BCC0CC" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#D20F39" />
+    <escape textColor="#FE640B" />
+    <comment italic="True" textColor="#BCC0CC" />
+    <value textColor="#DF8E1D" />
+    <variable textColor="#40A02B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#1E66F5" />
+    <error textColor="#8839EF" underline="True" underlineColor="#8839EF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FE640B" />
+      <dynamic bold="True" textColor="#1E66F5" />
+      <articulation bold="True" textColor="#FE640B" />
+      <fingering textColor="#40A02B" />
+      <stringnumber textColor="#FE640B" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DF8E1D" />
+      <lyricmode textColor="#1E66F5" />
+      <lyrictext textColor="#4C4F69" />
+      <context bold="True" />
+      <grob textColor="#4C4F69" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

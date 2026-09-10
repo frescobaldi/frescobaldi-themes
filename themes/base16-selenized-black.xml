@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#selenized-black">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#B9B9B9" />
+    <background color="#181818" />
+    <selectiontext color="#DEDEDE" />
+    <selectionbackground color="#777777" />
+    <current color="#252525" />
+    <mark color="#3B3B3B" />
+    <error color="#252525" />
+    <search color="#" />
+    <match color="#777777" />
+    <paper color="#DEDEDE" />
+    <musichighlight color="#777777" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#ED4A46" />
+    <escape textColor="#E67F43" />
+    <comment italic="True" textColor="#777777" />
+    <value textColor="#DBB32D" />
+    <variable textColor="#70B433" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#368AEB" />
+    <error textColor="#A580E2" underline="True" underlineColor="#A580E2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E67F43" />
+      <dynamic bold="True" textColor="#368AEB" />
+      <articulation bold="True" textColor="#E67F43" />
+      <fingering textColor="#70B433" />
+      <stringnumber textColor="#E67F43" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DBB32D" />
+      <lyricmode textColor="#368AEB" />
+      <lyrictext textColor="#B9B9B9" />
+      <context bold="True" />
+      <grob textColor="#B9B9B9" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

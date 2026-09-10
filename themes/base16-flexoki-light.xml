@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Flexoki Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Steph Ango (https://github.com/kepano/flexoki)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#403E3C" />
+    <background color="#FFFCF0" />
+    <selectiontext color="#282726" />
+    <selectionbackground color="#CECDC3" />
+    <current color="#F2F0E5" />
+    <mark color="#E6E4D9" />
+    <error color="#F2F0E5" />
+    <search color="#" />
+    <match color="#9F9D96" />
+    <paper color="#100F0F" />
+    <musichighlight color="#CECDC3" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#AF3029" />
+    <escape textColor="#BC5215" />
+    <comment italic="True" textColor="#CECDC3" />
+    <value textColor="#AD8301" />
+    <variable textColor="#66800B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#205EA6" />
+    <error textColor="#5E409D" underline="True" underlineColor="#5E409D" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#BC5215" />
+      <dynamic bold="True" textColor="#205EA6" />
+      <articulation bold="True" textColor="#BC5215" />
+      <fingering textColor="#66800B" />
+      <stringnumber textColor="#BC5215" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#AD8301" />
+      <lyricmode textColor="#205EA6" />
+      <lyrictext textColor="#403E3C" />
+      <context bold="True" />
+      <grob textColor="#403E3C" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Spaceduck">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#ECF0C1" />
+    <background color="#16172D" />
+    <selectiontext color="#C1C3CC" />
+    <selectionbackground color="#686F9A" />
+    <current color="#1B1C36" />
+    <mark color="#30365F" />
+    <error color="#1B1C36" />
+    <search color="#" />
+    <match color="#818596" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#686F9A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#E33400" />
+    <escape textColor="#E39400" />
+    <comment italic="True" textColor="#686F9A" />
+    <value textColor="#F2CE00" />
+    <variable textColor="#5CCC96" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7A5CCC" />
+    <error textColor="#B3A1E6" underline="True" underlineColor="#B3A1E6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E39400" />
+      <dynamic bold="True" textColor="#7A5CCC" />
+      <articulation bold="True" textColor="#E39400" />
+      <fingering textColor="#5CCC96" />
+      <stringnumber textColor="#E39400" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F2CE00" />
+      <lyricmode textColor="#7A5CCC" />
+      <lyrictext textColor="#ECF0C1" />
+      <context bold="True" />
+      <grob textColor="#ECF0C1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Mountain">
+  <!--
+  Created by base16-frescobaldi
+  Author: #gnsfujiwara (https://github.com/gnsfujiwara)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#CACACA" />
+    <background color="#0F0F0F" />
+    <selectiontext color="#E7E7E7" />
+    <selectionbackground color="#393939" />
+    <current color="#191919" />
+    <mark color="#262626" />
+    <error color="#191919" />
+    <search color="#" />
+    <match color="#4C4C4C" />
+    <paper color="#F0F0F0" />
+    <musichighlight color="#393939" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#AC8A8C" />
+    <escape textColor="#CEB188" />
+    <comment italic="True" textColor="#393939" />
+    <value textColor="#ACA98A" />
+    <variable textColor="#8AAC8B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8F8AAC" />
+    <error textColor="#AC8AAC" underline="True" underlineColor="#AC8AAC" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#CEB188" />
+      <dynamic bold="True" textColor="#8F8AAC" />
+      <articulation bold="True" textColor="#CEB188" />
+      <fingering textColor="#8AAC8B" />
+      <stringnumber textColor="#CEB188" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ACA98A" />
+      <lyricmode textColor="#8F8AAC" />
+      <lyrictext textColor="#CACACA" />
+      <context bold="True" />
+      <grob textColor="#CACACA" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Neovim Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#14161B" />
+    <background color="#E0E2EA" />
+    <selectiontext color="#07080D" />
+    <selectionbackground color="#4F5258" />
+    <current color="#EEF1F8" />
+    <mark color="#9B9EA4" />
+    <error color="#EEF1F8" />
+    <search color="#" />
+    <match color="#2C2E33" />
+    <paper color="#07080D" />
+    <musichighlight color="#4F5258" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#590008" />
+    <escape textColor="#8B4513" />
+    <comment italic="True" textColor="#4F5258" />
+    <value textColor="#6B5300" />
+    <variable textColor="#005523" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#004C73" />
+    <error textColor="#470045" underline="True" underlineColor="#470045" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#8B4513" />
+      <dynamic bold="True" textColor="#004C73" />
+      <articulation bold="True" textColor="#8B4513" />
+      <fingering textColor="#005523" />
+      <stringnumber textColor="#8B4513" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#6B5300" />
+      <lyricmode textColor="#004C73" />
+      <lyrictext textColor="#14161B" />
+      <context bold="True" />
+      <grob textColor="#14161B" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

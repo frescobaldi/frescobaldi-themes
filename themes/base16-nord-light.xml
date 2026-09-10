@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Nord Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#2E3440" />
+    <background color="#E5E9F0" />
+    <selectiontext color="#3B4252" />
+    <selectionbackground color="#AEBACF" />
+    <current color="#C2D0E7" />
+    <mark color="#B8C5DB" />
+    <error color="#C2D0E7" />
+    <search color="#" />
+    <match color="#60728C" />
+    <paper color="#29838D" />
+    <musichighlight color="#AEBACF" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#99324B" />
+    <escape textColor="#AC4426" />
+    <comment italic="True" textColor="#AEBACF" />
+    <value textColor="#9A7500" />
+    <variable textColor="#4F894C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3B6EA8" />
+    <error textColor="#97365B" underline="True" underlineColor="#97365B" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#AC4426" />
+      <dynamic bold="True" textColor="#3B6EA8" />
+      <articulation bold="True" textColor="#AC4426" />
+      <fingering textColor="#4F894C" />
+      <stringnumber textColor="#AC4426" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#9A7500" />
+      <lyricmode textColor="#3B6EA8" />
+      <lyrictext textColor="#2E3440" />
+      <context bold="True" />
+      <grob textColor="#2E3440" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

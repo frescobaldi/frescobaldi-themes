@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Cyberpunk">
+  <!--
+  Created by base16-frescobaldi
+  Author: #benjujo
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DCDCCC" />
+    <background color="#000000" />
+    <selectiontext color="#F8F8F8" />
+    <selectionbackground color="#4F4F4F" />
+    <current color="#2B2B2B" />
+    <mark color="#383838" />
+    <error color="#2B2B2B" />
+    <search color="#" />
+    <match color="#8B8989" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#4F4F4F" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF0000" />
+    <escape textColor="#FFA500" />
+    <comment italic="True" textColor="#4F4F4F" />
+    <value textColor="#FFFF00" />
+    <variable textColor="#61CE3C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4C83FF" />
+    <error textColor="#FF1493" underline="True" underlineColor="#FF1493" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFA500" />
+      <dynamic bold="True" textColor="#4C83FF" />
+      <articulation bold="True" textColor="#FFA500" />
+      <fingering textColor="#61CE3C" />
+      <stringnumber textColor="#FFA500" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFFF00" />
+      <lyricmode textColor="#4C83FF" />
+      <lyrictext textColor="#DCDCCC" />
+      <context bold="True" />
+      <grob textColor="#DCDCCC" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

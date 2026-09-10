@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Yesterday Night">
+  <!--
+  Created by base16-frescobaldi
+  Author: #FroZnShiva (https://github.com/FroZnShiva)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DFE1E8" />
+    <background color="#343D46" />
+    <selectiontext color="#EFF1F5" />
+    <selectionbackground color="#A7ADBA" />
+    <current color="#4F5B66" />
+    <mark color="#65737E" />
+    <error color="#4F5B66" />
+    <search color="#" />
+    <match color="#C0C5CE" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#A7ADBA" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#CC6666" />
+    <escape textColor="#DE935F" />
+    <comment italic="True" textColor="#A7ADBA" />
+    <value textColor="#F0C674" />
+    <variable textColor="#B5BD68" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#81A2BE" />
+    <error textColor="#B294BB" underline="True" underlineColor="#B294BB" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#DE935F" />
+      <dynamic bold="True" textColor="#81A2BE" />
+      <articulation bold="True" textColor="#DE935F" />
+      <fingering textColor="#B5BD68" />
+      <stringnumber textColor="#DE935F" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F0C674" />
+      <lyricmode textColor="#81A2BE" />
+      <lyrictext textColor="#DFE1E8" />
+      <context bold="True" />
+      <grob textColor="#DFE1E8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

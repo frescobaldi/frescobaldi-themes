@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#SAGA">
+  <!--
+  Created by base16-frescobaldi
+  Author: #https://github.com/SAGAtheme/SAGA
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DCE2F7" />
+    <background color="#05080A" />
+    <selectiontext color="#F8EAE7" />
+    <selectionbackground color="#141F27" />
+    <current color="#0A1014" />
+    <mark color="#0F181E" />
+    <error color="#0A1014" />
+    <search color="#" />
+    <match color="#192630" />
+    <paper color="#CCD3FE" />
+    <musichighlight color="#141F27" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FFD4E9" />
+    <escape textColor="#FBCBAE" />
+    <comment italic="True" textColor="#141F27" />
+    <value textColor="#FBEBC8" />
+    <variable textColor="#F7DDFF" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#C9FFF7" />
+    <error textColor="#DCC3F9" underline="True" underlineColor="#DCC3F9" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FBCBAE" />
+      <dynamic bold="True" textColor="#C9FFF7" />
+      <articulation bold="True" textColor="#FBCBAE" />
+      <fingering textColor="#F7DDFF" />
+      <stringnumber textColor="#FBCBAE" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FBEBC8" />
+      <lyricmode textColor="#C9FFF7" />
+      <lyrictext textColor="#DCE2F7" />
+      <context bold="True" />
+      <grob textColor="#DCE2F7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#UwUnicorn">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#EED5D9" />
+    <background color="#241B26" />
+    <selectiontext color="#D9C2C6" />
+    <selectionbackground color="#6C3CB2" />
+    <current color="#2F2A3F" />
+    <mark color="#46354A" />
+    <error color="#2F2A3F" />
+    <search color="#" />
+    <match color="#7E5F83" />
+    <paper color="#E4CCD0" />
+    <musichighlight color="#6C3CB2" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#877BB6" />
+    <escape textColor="#DE5B44" />
+    <comment italic="True" textColor="#6C3CB2" />
+    <value textColor="#A84A73" />
+    <variable textColor="#C965BF" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6A9EB5" />
+    <error textColor="#78A38F" underline="True" underlineColor="#78A38F" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#DE5B44" />
+      <dynamic bold="True" textColor="#6A9EB5" />
+      <articulation bold="True" textColor="#DE5B44" />
+      <fingering textColor="#C965BF" />
+      <stringnumber textColor="#DE5B44" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#A84A73" />
+      <lyricmode textColor="#6A9EB5" />
+      <lyrictext textColor="#EED5D9" />
+      <context bold="True" />
+      <grob textColor="#EED5D9" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

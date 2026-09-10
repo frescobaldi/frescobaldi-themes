@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Ayu Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#E6E1CF" />
+    <background color="#0B0E14" />
+    <selectiontext color="#ECE8DB" />
+    <selectionbackground color="#3E4B59" />
+    <current color="#131721" />
+    <mark color="#202229" />
+    <error color="#131721" />
+    <search color="#" />
+    <match color="#BFBDB6" />
+    <paper color="#F2F0E7" />
+    <musichighlight color="#3E4B59" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F07178" />
+    <escape textColor="#FF8F40" />
+    <comment italic="True" textColor="#3E4B59" />
+    <value textColor="#FFB454" />
+    <variable textColor="#AAD94C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#59C2FF" />
+    <error textColor="#D2A6FF" underline="True" underlineColor="#D2A6FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF8F40" />
+      <dynamic bold="True" textColor="#59C2FF" />
+      <articulation bold="True" textColor="#FF8F40" />
+      <fingering textColor="#AAD94C" />
+      <stringnumber textColor="#FF8F40" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFB454" />
+      <lyricmode textColor="#59C2FF" />
+      <lyrictext textColor="#E6E1CF" />
+      <context bold="True" />
+      <grob textColor="#E6E1CF" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

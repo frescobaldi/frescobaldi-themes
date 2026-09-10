@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Vesper">
+  <!--
+  Created by base16-frescobaldi
+  Author: #FormalSnake (https://github.com/formalsnake)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#B7B7B7" />
+    <background color="#101010" />
+    <selectiontext color="#C1C1C1" />
+    <selectionbackground color="#333333" />
+    <current color="#232323" />
+    <mark color="#222222" />
+    <error color="#232323" />
+    <search color="#" />
+    <match color="#999999" />
+    <paper color="#D5D5D5" />
+    <musichighlight color="#333333" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#DE6E6E" />
+    <escape textColor="#DAB083" />
+    <comment italic="True" textColor="#333333" />
+    <value textColor="#FFC799" />
+    <variable textColor="#5F8787" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8EAAAA" />
+    <error textColor="#D69094" underline="True" underlineColor="#D69094" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#DAB083" />
+      <dynamic bold="True" textColor="#8EAAAA" />
+      <articulation bold="True" textColor="#DAB083" />
+      <fingering textColor="#5F8787" />
+      <stringnumber textColor="#DAB083" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFC799" />
+      <lyricmode textColor="#8EAAAA" />
+      <lyrictext textColor="#B7B7B7" />
+      <context bold="True" />
+      <grob textColor="#B7B7B7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

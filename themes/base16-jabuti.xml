@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Jabuti">
+  <!--
+  Created by base16-frescobaldi
+  Author: #https://github.com/notusknot
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C0CBE3" />
+    <background color="#292A37" />
+    <selectiontext color="#D9E0EE" />
+    <selectionbackground color="#45475D" />
+    <current color="#343545" />
+    <mark color="#3C3E51" />
+    <error color="#343545" />
+    <search color="#" />
+    <match color="#50526B" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#45475D" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EC6A88" />
+    <escape textColor="#EFB993" />
+    <comment italic="True" textColor="#45475D" />
+    <value textColor="#E1C697" />
+    <variable textColor="#3FDAA4" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#3FC6DE" />
+    <error textColor="#BE95FF" underline="True" underlineColor="#BE95FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EFB993" />
+      <dynamic bold="True" textColor="#3FC6DE" />
+      <articulation bold="True" textColor="#EFB993" />
+      <fingering textColor="#3FDAA4" />
+      <stringnumber textColor="#EFB993" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#E1C697" />
+      <lyricmode textColor="#3FC6DE" />
+      <lyrictext textColor="#C0CBE3" />
+      <context bold="True" />
+      <grob textColor="#C0CBE3" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

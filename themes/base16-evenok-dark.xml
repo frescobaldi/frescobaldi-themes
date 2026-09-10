@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Evenok Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Mekeor Melire
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D0D0D0" />
+    <background color="#000000" />
+    <selectiontext color="#E0E0E0" />
+    <selectionbackground color="#505050" />
+    <current color="#202020" />
+    <mark color="#303030" />
+    <error color="#202020" />
+    <search color="#" />
+    <match color="#B0B0B0" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#505050" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F5708A" />
+    <escape textColor="#EE8122" />
+    <comment italic="True" textColor="#505050" />
+    <value textColor="#B8A300" />
+    <variable textColor="#54BC5C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#00AFF2" />
+    <error textColor="#9095FF" underline="True" underlineColor="#9095FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EE8122" />
+      <dynamic bold="True" textColor="#00AFF2" />
+      <articulation bold="True" textColor="#EE8122" />
+      <fingering textColor="#54BC5C" />
+      <stringnumber textColor="#EE8122" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#B8A300" />
+      <lyricmode textColor="#00AFF2" />
+      <lyrictext textColor="#D0D0D0" />
+      <context bold="True" />
+      <grob textColor="#D0D0D0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

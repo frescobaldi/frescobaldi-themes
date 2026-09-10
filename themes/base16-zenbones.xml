@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Zenbones">
+  <!--
+  Created by base16-frescobaldi
+  Author: #mcchrish
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#B279A7" />
+    <background color="#191919" />
+    <selectiontext color="#66A5AD" />
+    <selectionbackground color="#B77E64" />
+    <current color="#DE6E7C" />
+    <mark color="#819B69" />
+    <error color="#DE6E7C" />
+    <search color="#" />
+    <match color="#6099C0" />
+    <paper color="#BBBBBB" />
+    <musichighlight color="#B77E64" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#3D3839" />
+    <escape textColor="#E8838F" />
+    <comment italic="True" textColor="#B77E64" />
+    <value textColor="#8BAE68" />
+    <variable textColor="#D68C67" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#CF86C1" />
+    <error textColor="#65B8C1" underline="True" underlineColor="#65B8C1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E8838F" />
+      <dynamic bold="True" textColor="#CF86C1" />
+      <articulation bold="True" textColor="#E8838F" />
+      <fingering textColor="#D68C67" />
+      <stringnumber textColor="#E8838F" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#8BAE68" />
+      <lyricmode textColor="#CF86C1" />
+      <lyrictext textColor="#B279A7" />
+      <context bold="True" />
+      <grob textColor="#B279A7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

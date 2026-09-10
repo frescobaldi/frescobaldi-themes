@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#OneDark Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #olimorris (https://github.com/olimorris)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#ABB2BF" />
+    <background color="#000000" />
+    <selectiontext color="#B6BDCA" />
+    <selectionbackground color="#434852" />
+    <current color="#1C1F24" />
+    <mark color="#2C313A" />
+    <error color="#1C1F24" />
+    <search color="#" />
+    <match color="#565C64" />
+    <paper color="#C8CCD4" />
+    <musichighlight color="#434852" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EF596F" />
+    <escape textColor="#D19A66" />
+    <comment italic="True" textColor="#434852" />
+    <value textColor="#E5C07B" />
+    <variable textColor="#89CA78" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#61AFEF" />
+    <error textColor="#D55FDE" underline="True" underlineColor="#D55FDE" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#D19A66" />
+      <dynamic bold="True" textColor="#61AFEF" />
+      <articulation bold="True" textColor="#D19A66" />
+      <fingering textColor="#89CA78" />
+      <stringnumber textColor="#D19A66" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#E5C07B" />
+      <lyricmode textColor="#61AFEF" />
+      <lyrictext textColor="#ABB2BF" />
+      <context bold="True" />
+      <grob textColor="#ABB2BF" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

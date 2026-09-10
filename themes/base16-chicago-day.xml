@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Chicago Day">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#364C40" />
+    <background color="#E8F0EA" />
+    <selectiontext color="#2A3B32" />
+    <selectionbackground color="#8A9A91" />
+    <current color="#D1E0D7" />
+    <mark color="#B9D0C3" />
+    <error color="#D1E0D7" />
+    <search color="#" />
+    <match color="#4B5A51" />
+    <paper color="#1E2A24" />
+    <musichighlight color="#8A9A91" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C60C30" />
+    <escape textColor="#F9461C" />
+    <comment italic="True" textColor="#8A9A91" />
+    <value textColor="#968400" />
+    <variable textColor="#009B3A" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#522398" />
+    <error textColor="#E27EA6" underline="True" underlineColor="#E27EA6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F9461C" />
+      <dynamic bold="True" textColor="#522398" />
+      <articulation bold="True" textColor="#F9461C" />
+      <fingering textColor="#009B3A" />
+      <stringnumber textColor="#F9461C" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#968400" />
+      <lyricmode textColor="#522398" />
+      <lyrictext textColor="#364C40" />
+      <context bold="True" />
+      <grob textColor="#364C40" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

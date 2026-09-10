@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#0x96f">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Filip Janevski (https://0x96f.dev/theme)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#FCFCFC" />
+    <background color="#262427" />
+    <selectiontext color="#EAE9EB" />
+    <selectionbackground color="#676567" />
+    <current color="#3B393C" />
+    <mark color="#514F52" />
+    <error color="#3B393C" />
+    <search color="#" />
+    <match color="#7C7B7D" />
+    <paper color="#FCFCFC" />
+    <musichighlight color="#676567" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF7272" />
+    <escape textColor="#FC9D6F" />
+    <comment italic="True" textColor="#676567" />
+    <value textColor="#FFCA58" />
+    <variable textColor="#BCDF59" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#49CAE4" />
+    <error textColor="#A093E2" underline="True" underlineColor="#A093E2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FC9D6F" />
+      <dynamic bold="True" textColor="#49CAE4" />
+      <articulation bold="True" textColor="#FC9D6F" />
+      <fingering textColor="#BCDF59" />
+      <stringnumber textColor="#FC9D6F" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFCA58" />
+      <lyricmode textColor="#49CAE4" />
+      <lyrictext textColor="#FCFCFC" />
+      <context bold="True" />
+      <grob textColor="#FCFCFC" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Digital Rain">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Nathan Byrd (https://github.com/cognitivegears)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#00FF00" />
+    <background color="#000000" />
+    <selectiontext color="#C4CEC4" />
+    <selectionbackground color="#7C8D7C" />
+    <current color="#4A806C" />
+    <mark color="#4A8D7E" />
+    <error color="#4A806C" />
+    <search color="#" />
+    <match color="#919893" />
+    <paper color="#D8E2DC" />
+    <musichighlight color="#7C8D7C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C85A46" />
+    <escape textColor="#C86428" />
+    <comment italic="True" textColor="#7C8D7C" />
+    <value textColor="#A67A50" />
+    <variable textColor="#64C83C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5482AF" />
+    <error textColor="#9472B4" underline="True" underlineColor="#9472B4" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#C86428" />
+      <dynamic bold="True" textColor="#5482AF" />
+      <articulation bold="True" textColor="#C86428" />
+      <fingering textColor="#64C83C" />
+      <stringnumber textColor="#C86428" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#A67A50" />
+      <lyricmode textColor="#5482AF" />
+      <lyrictext textColor="#00FF00" />
+      <context bold="True" />
+      <grob textColor="#00FF00" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

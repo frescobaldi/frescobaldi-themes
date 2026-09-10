@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Aztec">
+  <!--
+  Created by base16-frescobaldi
+  Author: #TheNeverMan (github.com/TheNeverMan)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#FFDA51" />
+    <background color="#101600" />
+    <selectiontext color="#FFE178" />
+    <selectionbackground color="#2E2E05" />
+    <current color="#1A1E01" />
+    <mark color="#242604" />
+    <error color="#1A1E01" />
+    <search color="#" />
+    <match color="#FFD129" />
+    <paper color="#FFEBA0" />
+    <musichighlight color="#2E2E05" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EE2E00" />
+    <escape textColor="#EE8800" />
+    <comment italic="True" textColor="#2E2E05" />
+    <value textColor="#EEBB00" />
+    <variable textColor="#63D932" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5B4A9F" />
+    <error textColor="#883E9F" underline="True" underlineColor="#883E9F" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EE8800" />
+      <dynamic bold="True" textColor="#5B4A9F" />
+      <articulation bold="True" textColor="#EE8800" />
+      <fingering textColor="#63D932" />
+      <stringnumber textColor="#EE8800" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#EEBB00" />
+      <lyricmode textColor="#5B4A9F" />
+      <lyrictext textColor="#FFDA51" />
+      <context bold="True" />
+      <grob textColor="#FFDA51" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

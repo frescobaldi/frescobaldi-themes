@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Still Alive">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#4C383B" />
+    <background color="#F0F0F0" />
+    <selectiontext color="#331F21" />
+    <selectionbackground color="#A3A3A3" />
+    <current color="#D6D6D6" />
+    <mark color="#BDBDBD" />
+    <error color="#D6D6D6" />
+    <search color="#" />
+    <match color="#605758" />
+    <paper color="#140C0D" />
+    <musichighlight color="#A3A3A3" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#D80000" />
+    <escape textColor="#F0D848" />
+    <comment italic="True" textColor="#A3A3A3" />
+    <value textColor="#FFF018" />
+    <variable textColor="#30A860" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#365EFF" />
+    <error textColor="#9036FF" underline="True" underlineColor="#9036FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F0D848" />
+      <dynamic bold="True" textColor="#365EFF" />
+      <articulation bold="True" textColor="#F0D848" />
+      <fingering textColor="#30A860" />
+      <stringnumber textColor="#F0D848" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFF018" />
+      <lyricmode textColor="#365EFF" />
+      <lyrictext textColor="#4C383B" />
+      <context bold="True" />
+      <grob textColor="#4C383B" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

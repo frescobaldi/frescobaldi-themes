@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Chinoiserie Morandi">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Di Wang (https://cs.cmu.edu/~diw3)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C4CBCF" />
+    <background color="#1D1D1D" />
+    <selectiontext color="#EEE7F2" />
+    <selectionbackground color="#918072" />
+    <current color="#282828" />
+    <mark color="#373737" />
+    <error color="#282828" />
+    <search color="#" />
+    <match color="#BDAEAD" />
+    <paper color="#FFFEF9" />
+    <musichighlight color="#918072" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C06061" />
+    <escape textColor="#FF937F" />
+    <comment italic="True" textColor="#918072" />
+    <value textColor="#E5BC84" />
+    <variable textColor="#8CA07B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#839EC9" />
+    <error textColor="#98A1D8" underline="True" underlineColor="#98A1D8" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF937F" />
+      <dynamic bold="True" textColor="#839EC9" />
+      <articulation bold="True" textColor="#FF937F" />
+      <fingering textColor="#8CA07B" />
+      <stringnumber textColor="#FF937F" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#E5BC84" />
+      <lyricmode textColor="#839EC9" />
+      <lyrictext textColor="#C4CBCF" />
+      <context bold="True" />
+      <grob textColor="#C4CBCF" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

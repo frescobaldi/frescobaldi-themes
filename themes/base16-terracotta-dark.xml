@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Terracotta Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alexander Rossell Hayes (https://github.com/rossellhayes)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#B8A59D" />
+    <background color="#241D1A" />
+    <selectiontext color="#CABBB5" />
+    <selectionbackground color="#594740" />
+    <current color="#362B27" />
+    <mark color="#473933" />
+    <error color="#362B27" />
+    <search color="#" />
+    <match color="#A78E84" />
+    <paper color="#DCD2CE" />
+    <musichighlight color="#594740" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F6998F" />
+    <escape textColor="#FFA888" />
+    <comment italic="True" textColor="#594740" />
+    <value textColor="#FFC37A" />
+    <variable textColor="#B6C68A" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#B0A4C3" />
+    <error textColor="#D8A2B0" underline="True" underlineColor="#D8A2B0" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFA888" />
+      <dynamic bold="True" textColor="#B0A4C3" />
+      <articulation bold="True" textColor="#FFA888" />
+      <fingering textColor="#B6C68A" />
+      <stringnumber textColor="#FFA888" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFC37A" />
+      <lyricmode textColor="#B0A4C3" />
+      <lyrictext textColor="#B8A59D" />
+      <context bold="True" />
+      <grob textColor="#B8A59D" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Gruvbox Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#3C3836" />
+    <background color="#FBF1C7" />
+    <selectiontext color="#282828" />
+    <selectionbackground color="#BDAE93" />
+    <current color="#EBDBB2" />
+    <mark color="#D5C4A1" />
+    <error color="#EBDBB2" />
+    <search color="#" />
+    <match color="#7C6F64" />
+    <paper color="#1D2021" />
+    <musichighlight color="#BDAE93" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#CC241D" />
+    <escape textColor="#D65D0E" />
+    <comment italic="True" textColor="#BDAE93" />
+    <value textColor="#D79921" />
+    <variable textColor="#98971A" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#458588" />
+    <error textColor="#B16286" underline="True" underlineColor="#B16286" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#D65D0E" />
+      <dynamic bold="True" textColor="#458588" />
+      <articulation bold="True" textColor="#D65D0E" />
+      <fingering textColor="#98971A" />
+      <stringnumber textColor="#D65D0E" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#D79921" />
+      <lyricmode textColor="#458588" />
+      <lyrictext textColor="#3C3836" />
+      <context bold="True" />
+      <grob textColor="#3C3836" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
