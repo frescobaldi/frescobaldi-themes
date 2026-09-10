@@ -5,24 +5,24 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#b9b9b9" />
+    <text color="#B9B9B9" />
     <background color="#101010" />
-    <selectiontext color="#e3e3e3" />
+    <selectiontext color="#E3E3E3" />
     <selectionbackground color="#525252" />
     <current color="#252525" />
     <mark color="#464646" />
     <error color="#252525" />
     <search color="#" />
-    <match color="#ababab" />
-    <paper color="#f7f7f7" />
+    <match color="#ABABAB" />
+    <paper color="#F7F7F7" />
     <musichighlight color="#525252" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#7c7c7c" />
+    <string textColor="#7C7C7C" />
     <escape textColor="#999999" />
     <comment italic="True" textColor="#525252" />
-    <value textColor="#a0a0a0" />
-    <variable textColor="#8e8e8e" />
+    <value textColor="#A0A0A0" />
+    <variable textColor="#8E8E8E" />
     <keyword bold="True" />
     <function bold="True" textColor="#686868" />
     <error textColor="#747474" underline="True" underlineColor="#747474" />
@@ -32,14 +32,14 @@
       <duration textColor="#999999" />
       <dynamic bold="True" textColor="#686868" />
       <articulation bold="True" textColor="#999999" />
-      <fingering textColor="#8e8e8e" />
+      <fingering textColor="#8E8E8E" />
       <stringnumber textColor="#999999" />
       <slur bold="True" />
-      <markup bold="False" textColor="#a0a0a0" />
+      <markup bold="False" textColor="#A0A0A0" />
       <lyricmode textColor="#686868" />
-      <lyrictext textColor="#b9b9b9" />
+      <lyrictext textColor="#B9B9B9" />
       <context bold="True" />
-      <grob textColor="#b9b9b9" />
+      <grob textColor="#B9B9B9" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

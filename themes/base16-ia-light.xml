@@ -6,37 +6,37 @@
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#181818" />
-    <background color="#f6f6f6" />
-    <selectiontext color="#e8e8e8" />
+    <background color="#F6F6F6" />
+    <selectiontext color="#E8E8E8" />
     <selectionbackground color="#898989" />
-    <current color="#dedede" />
-    <mark color="#bde5f2" />
-    <error color="#dedede" />
+    <current color="#DEDEDE" />
+    <mark color="#BDE5F2" />
+    <error color="#DEDEDE" />
     <search color="#" />
     <match color="#767676" />
-    <paper color="#dedede" />
+    <paper color="#F8F8F8" />
     <musichighlight color="#898989" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#9c5a02" />
-    <escape textColor="#c43e18" />
+    <string textColor="#9C5A02" />
+    <escape textColor="#C43E18" />
     <comment italic="True" textColor="#898989" />
-    <value textColor="#c48218" />
-    <variable textColor="#38781c" />
+    <value textColor="#C48218" />
+    <variable textColor="#38781C" />
     <keyword bold="True" />
-    <function bold="True" textColor="#48bac2" />
-    <error textColor="#a94598" underline="True" underlineColor="#a94598" />
+    <function bold="True" textColor="#48BAC2" />
+    <error textColor="#A94598" underline="True" underlineColor="#A94598" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#c43e18" />
-      <dynamic bold="True" textColor="#48bac2" />
-      <articulation bold="True" textColor="#c43e18" />
-      <fingering textColor="#38781c" />
-      <stringnumber textColor="#c43e18" />
+      <duration textColor="#C43E18" />
+      <dynamic bold="True" textColor="#48BAC2" />
+      <articulation bold="True" textColor="#C43E18" />
+      <fingering textColor="#38781C" />
+      <stringnumber textColor="#C43E18" />
       <slur bold="True" />
-      <markup bold="False" textColor="#c48218" />
-      <lyricmode textColor="#48bac2" />
+      <markup bold="False" textColor="#C48218" />
+      <lyricmode textColor="#48BAC2" />
       <lyrictext textColor="#181818" />
       <context bold="True" />
       <grob textColor="#181818" />

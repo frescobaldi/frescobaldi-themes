@@ -1,45 +1,45 @@
 <frescobaldi-theme name="#Snazzy">
   <!--
   Created by base16-frescobaldi
-  Author: #Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+  Author: #Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#e2e4e5" />
-    <background color="#282a36" />
-    <selectiontext color="#eff0eb" />
-    <selectionbackground color="#78787e" />
-    <current color="#34353e" />
-    <mark color="#43454f" />
-    <error color="#34353e" />
+    <text color="#E2E4E5" />
+    <background color="#282A36" />
+    <selectiontext color="#EFF0EB" />
+    <selectionbackground color="#78787E" />
+    <current color="#34353E" />
+    <mark color="#43454F" />
+    <error color="#34353E" />
     <search color="#" />
-    <match color="#a5a5a9" />
-    <paper color="#f1f1f0" />
-    <musichighlight color="#78787e" />
+    <match color="#A5A5A9" />
+    <paper color="#F1F1F0" />
+    <musichighlight color="#78787E" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#ff5c57" />
-    <escape textColor="#ff9f43" />
-    <comment italic="True" textColor="#78787e" />
-    <value textColor="#f3f99d" />
-    <variable textColor="#5af78e" />
+    <string textColor="#FF5C57" />
+    <escape textColor="#FF9F43" />
+    <comment italic="True" textColor="#78787E" />
+    <value textColor="#F3F99D" />
+    <variable textColor="#5AF78E" />
     <keyword bold="True" />
-    <function bold="True" textColor="#57c7ff" />
-    <error textColor="#ff6ac1" underline="True" underlineColor="#ff6ac1" />
+    <function bold="True" textColor="#57C7FF" />
+    <error textColor="#FF6AC1" underline="True" underlineColor="#FF6AC1" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#ff9f43" />
-      <dynamic bold="True" textColor="#57c7ff" />
-      <articulation bold="True" textColor="#ff9f43" />
-      <fingering textColor="#5af78e" />
-      <stringnumber textColor="#ff9f43" />
+      <duration textColor="#FF9F43" />
+      <dynamic bold="True" textColor="#57C7FF" />
+      <articulation bold="True" textColor="#FF9F43" />
+      <fingering textColor="#5AF78E" />
+      <stringnumber textColor="#FF9F43" />
       <slur bold="True" />
-      <markup bold="False" textColor="#f3f99d" />
-      <lyricmode textColor="#57c7ff" />
-      <lyrictext textColor="#e2e4e5" />
+      <markup bold="False" textColor="#F3F99D" />
+      <lyricmode textColor="#57C7FF" />
+      <lyrictext textColor="#E2E4E5" />
       <context bold="True" />
-      <grob textColor="#e2e4e5" />
+      <grob textColor="#E2E4E5" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

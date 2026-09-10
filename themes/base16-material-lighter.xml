@@ -7,14 +7,14 @@
   <baseColors>
     <text color="#80CBC4" />
     <background color="#FAFAFA" />
-    <selectiontext color="#80CBC4" />
+    <selectiontext color="#43A39A" />
     <selectionbackground color="#CCD7DA" />
     <current color="#E7EAEC" />
     <mark color="#CCEAE7" />
     <error color="#E7EAEC" />
     <search color="#" />
     <match color="#8796B0" />
-    <paper color="#FFFFFF" />
+    <paper color="#000000" />
     <musichighlight color="#CCD7DA" />
   </baseColors>
   <defaultStyles>

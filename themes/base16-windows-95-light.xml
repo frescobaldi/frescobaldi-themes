@@ -1,42 +1,42 @@
 <frescobaldi-theme name="#Windows 95 Light">
   <!--
   Created by base16-frescobaldi
-  Author: #Fergus Collins (https://github.com/C-Fergus)
+  Author: #Fergus Collins (https://github.com/ferguscollins)
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#545454" />
-    <background color="#fcfcfc" />
-    <selectiontext color="#2a2a2a" />
-    <selectionbackground color="#a8a8a8" />
-    <current color="#e0e0e0" />
-    <mark color="#c4c4c4" />
-    <error color="#e0e0e0" />
+    <background color="#FCFCFC" />
+    <selectiontext color="#2A2A2A" />
+    <selectionbackground color="#A8A8A8" />
+    <current color="#E0E0E0" />
+    <mark color="#C4C4C4" />
+    <error color="#E0E0E0" />
     <search color="#" />
-    <match color="#7e7e7e" />
+    <match color="#7E7E7E" />
     <paper color="#000000" />
-    <musichighlight color="#a8a8a8" />
+    <musichighlight color="#A8A8A8" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#a80000" />
-    <escape textColor="#fcfc54" />
-    <comment italic="True" textColor="#a8a8a8" />
-    <value textColor="#a85400" />
-    <variable textColor="#00a800" />
+    <string textColor="#A80000" />
+    <escape textColor="#FCFC54" />
+    <comment italic="True" textColor="#A8A8A8" />
+    <value textColor="#A85400" />
+    <variable textColor="#00A800" />
     <keyword bold="True" />
-    <function bold="True" textColor="#0000a8" />
-    <error textColor="#a800a8" underline="True" underlineColor="#a800a8" />
+    <function bold="True" textColor="#0000A8" />
+    <error textColor="#A800A8" underline="True" underlineColor="#A800A8" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#fcfc54" />
-      <dynamic bold="True" textColor="#0000a8" />
-      <articulation bold="True" textColor="#fcfc54" />
-      <fingering textColor="#00a800" />
-      <stringnumber textColor="#fcfc54" />
+      <duration textColor="#FCFC54" />
+      <dynamic bold="True" textColor="#0000A8" />
+      <articulation bold="True" textColor="#FCFC54" />
+      <fingering textColor="#00A800" />
+      <stringnumber textColor="#FCFC54" />
       <slur bold="True" />
-      <markup bold="False" textColor="#a85400" />
-      <lyricmode textColor="#0000a8" />
+      <markup bold="False" textColor="#A85400" />
+      <lyricmode textColor="#0000A8" />
       <lyrictext textColor="#545454" />
       <context bold="True" />
       <grob textColor="#545454" />

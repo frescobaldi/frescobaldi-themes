@@ -18,7 +18,7 @@
     <musichighlight color="#65737E" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#EC5f67" />
+    <string textColor="#EC5F67" />
     <escape textColor="#F99157" />
     <comment italic="True" textColor="#65737E" />
     <value textColor="#FAC863" />

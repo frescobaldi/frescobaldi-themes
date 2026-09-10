@@ -6,37 +6,37 @@
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#585050" />
-    <background color="#f4ecec" />
+    <background color="#F4ECEC" />
     <selectiontext color="#292424" />
-    <selectionbackground color="#7e7777" />
-    <current color="#e7dfdf" />
-    <mark color="#8a8585" />
-    <error color="#e7dfdf" />
+    <selectionbackground color="#7E7777" />
+    <current color="#E7DFDF" />
+    <mark color="#8A8585" />
+    <error color="#E7DFDF" />
     <search color="#" />
-    <match color="#655d5d" />
-    <paper color="#1b1818" />
-    <musichighlight color="#7e7777" />
+    <match color="#655D5D" />
+    <paper color="#1B1818" />
+    <musichighlight color="#7E7777" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#ca4949" />
-    <escape textColor="#b45a3c" />
-    <comment italic="True" textColor="#7e7777" />
-    <value textColor="#a06e3b" />
-    <variable textColor="#4b8b8b" />
+    <string textColor="#CA4949" />
+    <escape textColor="#B45A3C" />
+    <comment italic="True" textColor="#7E7777" />
+    <value textColor="#A06E3B" />
+    <variable textColor="#4B8B8B" />
     <keyword bold="True" />
-    <function bold="True" textColor="#7272ca" />
-    <error textColor="#8464c4" underline="True" underlineColor="#8464c4" />
+    <function bold="True" textColor="#7272CA" />
+    <error textColor="#8464C4" underline="True" underlineColor="#8464C4" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#b45a3c" />
-      <dynamic bold="True" textColor="#7272ca" />
-      <articulation bold="True" textColor="#b45a3c" />
-      <fingering textColor="#4b8b8b" />
-      <stringnumber textColor="#b45a3c" />
+      <duration textColor="#B45A3C" />
+      <dynamic bold="True" textColor="#7272CA" />
+      <articulation bold="True" textColor="#B45A3C" />
+      <fingering textColor="#4B8B8B" />
+      <stringnumber textColor="#B45A3C" />
       <slur bold="True" />
-      <markup bold="False" textColor="#a06e3b" />
-      <lyricmode textColor="#7272ca" />
+      <markup bold="False" textColor="#A06E3B" />
+      <lyricmode textColor="#7272CA" />
       <lyrictext textColor="#585050" />
       <context bold="True" />
       <grob textColor="#585050" />

@@ -5,22 +5,22 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#8b8198" />
-    <background color="#fbf1f2" />
+    <text color="#8B8198" />
+    <background color="#FBF1F2" />
     <selectiontext color="#72677E" />
-    <selectionbackground color="#bfb9c6" />
-    <current color="#f2f1f4" />
-    <mark color="#d8d5dd" />
-    <error color="#f2f1f4" />
+    <selectionbackground color="#BFB9C6" />
+    <current color="#F2F1F4" />
+    <mark color="#D8D5DD" />
+    <error color="#F2F1F4" />
     <search color="#" />
-    <match color="#a59daf" />
+    <match color="#A59DAF" />
     <paper color="#585062" />
-    <musichighlight color="#bfb9c6" />
+    <musichighlight color="#BFB9C6" />
   </baseColors>
   <defaultStyles>
     <string textColor="#D57E85" />
     <escape textColor="#EBB790" />
-    <comment italic="True" textColor="#bfb9c6" />
+    <comment italic="True" textColor="#BFB9C6" />
     <value textColor="#DCB16C" />
     <variable textColor="#A3B367" />
     <keyword bold="True" />
@@ -37,9 +37,9 @@
       <slur bold="True" />
       <markup bold="False" textColor="#DCB16C" />
       <lyricmode textColor="#7297B9" />
-      <lyrictext textColor="#8b8198" />
+      <lyrictext textColor="#8B8198" />
       <context bold="True" />
-      <grob textColor="#8b8198" />
+      <grob textColor="#8B8198" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

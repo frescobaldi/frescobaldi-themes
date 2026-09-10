@@ -5,41 +5,41 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#bbbbbb" />
+    <text color="#BBBBBB" />
     <background color="#111111" />
-    <selectiontext color="#dddddd" />
+    <selectiontext color="#DDDDDD" />
     <selectionbackground color="#777777" />
     <current color="#333333" />
     <mark color="#555555" />
     <error color="#333333" />
     <search color="#" />
     <match color="#999999" />
-    <paper color="#ffffff" />
+    <paper color="#FFFFFF" />
     <musichighlight color="#777777" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#ff4136" />
-    <escape textColor="#ff851b" />
+    <string textColor="#FF4136" />
+    <escape textColor="#FF851B" />
     <comment italic="True" textColor="#777777" />
-    <value textColor="#ffdc00" />
-    <variable textColor="#2ecc40" />
+    <value textColor="#FFDC00" />
+    <variable textColor="#2ECC40" />
     <keyword bold="True" />
-    <function bold="True" textColor="#0074d9" />
-    <error textColor="#b10dc9" underline="True" underlineColor="#b10dc9" />
+    <function bold="True" textColor="#0074D9" />
+    <error textColor="#B10DC9" underline="True" underlineColor="#B10DC9" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#ff851b" />
-      <dynamic bold="True" textColor="#0074d9" />
-      <articulation bold="True" textColor="#ff851b" />
-      <fingering textColor="#2ecc40" />
-      <stringnumber textColor="#ff851b" />
+      <duration textColor="#FF851B" />
+      <dynamic bold="True" textColor="#0074D9" />
+      <articulation bold="True" textColor="#FF851B" />
+      <fingering textColor="#2ECC40" />
+      <stringnumber textColor="#FF851B" />
       <slur bold="True" />
-      <markup bold="False" textColor="#ffdc00" />
-      <lyricmode textColor="#0074d9" />
-      <lyrictext textColor="#bbbbbb" />
+      <markup bold="False" textColor="#FFDC00" />
+      <lyricmode textColor="#0074D9" />
+      <lyrictext textColor="#BBBBBB" />
       <context bold="True" />
-      <grob textColor="#bbbbbb" />
+      <grob textColor="#BBBBBB" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

@@ -7,7 +7,7 @@
   <baseColors>
     <text color="#385156" />
     <background color="#E9F1EF" />
-    <selectiontext color="#0e3c46" />
+    <selectiontext color="#0E3C46" />
     <selectionbackground color="#5C787B" />
     <current color="#CCD4D3" />
     <mark color="#90B7B6" />

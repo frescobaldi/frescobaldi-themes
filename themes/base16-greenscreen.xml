@@ -5,16 +5,16 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#00bb00" />
+    <text color="#00BB00" />
     <background color="#001100" />
-    <selectiontext color="#00dd00" />
+    <selectiontext color="#00DD00" />
     <selectionbackground color="#007700" />
     <current color="#003300" />
     <mark color="#005500" />
     <error color="#003300" />
     <search color="#" />
     <match color="#009900" />
-    <paper color="#00ff00" />
+    <paper color="#00FF00" />
     <musichighlight color="#007700" />
   </baseColors>
   <defaultStyles>
@@ -22,24 +22,24 @@
     <escape textColor="#009900" />
     <comment italic="True" textColor="#007700" />
     <value textColor="#007700" />
-    <variable textColor="#00bb00" />
+    <variable textColor="#00BB00" />
     <keyword bold="True" />
     <function bold="True" textColor="#009900" />
-    <error textColor="#00bb00" underline="True" underlineColor="#00bb00" />
+    <error textColor="#00BB00" underline="True" underlineColor="#00BB00" />
   </defaultStyles>
   <allStyles>
     <lilypond>
       <duration textColor="#009900" />
       <dynamic bold="True" textColor="#009900" />
       <articulation bold="True" textColor="#009900" />
-      <fingering textColor="#00bb00" />
+      <fingering textColor="#00BB00" />
       <stringnumber textColor="#009900" />
       <slur bold="True" />
       <markup bold="False" textColor="#007700" />
       <lyricmode textColor="#009900" />
-      <lyrictext textColor="#00bb00" />
+      <lyrictext textColor="#00BB00" />
       <context bold="True" />
-      <grob textColor="#00bb00" />
+      <grob textColor="#00BB00" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>
