@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Penumbra Light Contrast Plus Plus">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Zachary Weiss (https://github.com/zacharyweiss)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#636363" />
+    <background color="#FFFDFB" />
+    <selectiontext color="#181B1F" />
+    <selectionbackground color="#DEDEDE" />
+    <current color="#FFF7ED" />
+    <mark color="#F2E6D4" />
+    <error color="#FFF7ED" />
+    <search color="#" />
+    <match color="#AEAEAE" />
+    <paper color="#0D0F13" />
+    <musichighlight color="#DEDEDE" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F58C81" />
+    <escape textColor="#E09F47" />
+    <comment italic="True" textColor="#DEDEDE" />
+    <value textColor="#A9B852" />
+    <variable textColor="#54C794" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6EB2FD" />
+    <error textColor="#B69CF6" underline="True" underlineColor="#B69CF6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E09F47" />
+      <dynamic bold="True" textColor="#6EB2FD" />
+      <articulation bold="True" textColor="#E09F47" />
+      <fingering textColor="#54C794" />
+      <stringnumber textColor="#E09F47" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#A9B852" />
+      <lyricmode textColor="#6EB2FD" />
+      <lyrictext textColor="#636363" />
+      <context bold="True" />
+      <grob textColor="#636363" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

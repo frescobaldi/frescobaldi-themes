@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Harmonic16 Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jannik Siebert (https://github.com/janniks)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#CBD6E2" />
+    <background color="#0B1C2C" />
+    <selectiontext color="#E5EBF1" />
+    <selectionbackground color="#627E99" />
+    <current color="#223B54" />
+    <mark color="#405C79" />
+    <error color="#223B54" />
+    <search color="#" />
+    <match color="#AABCCE" />
+    <paper color="#F7F9FB" />
+    <musichighlight color="#627E99" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#BF8B56" />
+    <escape textColor="#BFBF56" />
+    <comment italic="True" textColor="#627E99" />
+    <value textColor="#8BBF56" />
+    <variable textColor="#56BF8B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8B56BF" />
+    <error textColor="#BF568B" underline="True" underlineColor="#BF568B" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#BFBF56" />
+      <dynamic bold="True" textColor="#8B56BF" />
+      <articulation bold="True" textColor="#BFBF56" />
+      <fingering textColor="#56BF8B" />
+      <stringnumber textColor="#BFBF56" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#8BBF56" />
+      <lyricmode textColor="#8B56BF" />
+      <lyrictext textColor="#CBD6E2" />
+      <context bold="True" />
+      <grob textColor="#CBD6E2" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

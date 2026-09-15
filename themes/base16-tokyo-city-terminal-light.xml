@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tokyo City Terminal Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Michaël Ball
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#28323A" />
+    <background color="#FBFBFD" />
+    <selectiontext color="#1D252C" />
+    <selectionbackground color="#B7C5D3" />
+    <current color="#F6F6F8" />
+    <mark color="#D8E2EC" />
+    <error color="#F6F6F8" />
+    <search color="#" />
+    <match color="#526270" />
+    <paper color="#171D23" />
+    <musichighlight color="#B7C5D3" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#8C4351" />
+    <escape textColor="#965027" />
+    <comment italic="True" textColor="#B7C5D3" />
+    <value textColor="#8F5E15" />
+    <variable textColor="#33635C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#34548A" />
+    <error textColor="#5A4A78" underline="True" underlineColor="#5A4A78" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#965027" />
+      <dynamic bold="True" textColor="#34548A" />
+      <articulation bold="True" textColor="#965027" />
+      <fingering textColor="#33635C" />
+      <stringnumber textColor="#965027" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#8F5E15" />
+      <lyricmode textColor="#34548A" />
+      <lyrictext textColor="#28323A" />
+      <context bold="True" />
+      <grob textColor="#28323A" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

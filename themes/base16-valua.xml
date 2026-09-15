@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Valua">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Nonetrix (https://github.com/nonetrix)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#98C1A3" />
+    <background color="#131F1F" />
+    <selectiontext color="#A5CBB9" />
+    <selectionbackground color="#3E5C53" />
+    <current color="#213132" />
+    <mark color="#273D3C" />
+    <error color="#213132" />
+    <search color="#" />
+    <match color="#6D9877" />
+    <paper color="#AACBCB" />
+    <musichighlight color="#3E5C53" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#D7586E" />
+    <escape textColor="#E6B466" />
+    <comment italic="True" textColor="#3E5C53" />
+    <value textColor="#DFE754" />
+    <variable textColor="#59D678" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4ED2D2" />
+    <error textColor="#A874E0" underline="True" underlineColor="#A874E0" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E6B466" />
+      <dynamic bold="True" textColor="#4ED2D2" />
+      <articulation bold="True" textColor="#E6B466" />
+      <fingering textColor="#59D678" />
+      <stringnumber textColor="#E6B466" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DFE754" />
+      <lyricmode textColor="#4ED2D2" />
+      <lyrictext textColor="#98C1A3" />
+      <context bold="True" />
+      <grob textColor="#98C1A3" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

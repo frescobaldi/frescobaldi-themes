@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Oxocarbon Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#525F70" />
+    <background color="#F2F4F8" />
+    <selectiontext color="#3D4652" />
+    <selectionbackground color="#A1ACBA" />
+    <current color="#DDE1E6" />
+    <mark color="#BEC6CF" />
+    <error color="#DDE1E6" />
+    <search color="#" />
+    <match color="#68788D" />
+    <paper color="#272D35" />
+    <musichighlight color="#A1ACBA" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF7EB6" />
+    <escape textColor="#EE5396" />
+    <comment italic="True" textColor="#A1ACBA" />
+    <value textColor="#FF6F00" />
+    <variable textColor="#42BE65" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0F62FE" />
+    <error textColor="#BE95FF" underline="True" underlineColor="#BE95FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EE5396" />
+      <dynamic bold="True" textColor="#0F62FE" />
+      <articulation bold="True" textColor="#EE5396" />
+      <fingering textColor="#42BE65" />
+      <stringnumber textColor="#EE5396" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FF6F00" />
+      <lyricmode textColor="#0F62FE" />
+      <lyrictext textColor="#525F70" />
+      <context bold="True" />
+      <grob textColor="#525F70" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

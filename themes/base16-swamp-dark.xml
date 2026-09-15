@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Swamp Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Masroof Maindak (https://github.com/masroof-maindak)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D2C3A4" />
+    <background color="#242015" />
+    <selectiontext color="#EBE0BB" />
+    <selectionbackground color="#5F4E41" />
+    <current color="#3A3124" />
+    <mark color="#4D3F32" />
+    <error color="#3A3124" />
+    <search color="#" />
+    <match color="#B8A58C" />
+    <paper color="#F1E9D0" />
+    <musichighlight color="#5F4E41" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#DB930D" />
+    <escape textColor="#EBE0BB" />
+    <comment italic="True" textColor="#5F4E41" />
+    <value textColor="#A82D56" />
+    <variable textColor="#7A7653" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#C1666B" />
+    <error textColor="#91506C" underline="True" underlineColor="#91506C" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#EBE0BB" />
+      <dynamic bold="True" textColor="#C1666B" />
+      <articulation bold="True" textColor="#EBE0BB" />
+      <fingering textColor="#7A7653" />
+      <stringnumber textColor="#EBE0BB" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#A82D56" />
+      <lyricmode textColor="#C1666B" />
+      <lyrictext textColor="#D2C3A4" />
+      <context bold="True" />
+      <grob textColor="#D2C3A4" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

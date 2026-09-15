@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Gruvbox Material Dark, Hard">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DDC7A1" />
+    <background color="#202020" />
+    <selectiontext color="#EBDBB2" />
+    <selectionbackground color="#5A524C" />
+    <current color="#2A2827" />
+    <mark color="#504945" />
+    <error color="#2A2827" />
+    <search color="#" />
+    <match color="#BDAE93" />
+    <paper color="#FBF1C7" />
+    <musichighlight color="#5A524C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#EA6962" />
+    <escape textColor="#E78A4E" />
+    <comment italic="True" textColor="#5A524C" />
+    <value textColor="#D8A657" />
+    <variable textColor="#A9B665" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7DAEA3" />
+    <error textColor="#D3869B" underline="True" underlineColor="#D3869B" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E78A4E" />
+      <dynamic bold="True" textColor="#7DAEA3" />
+      <articulation bold="True" textColor="#E78A4E" />
+      <fingering textColor="#A9B665" />
+      <stringnumber textColor="#E78A4E" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#D8A657" />
+      <lyricmode textColor="#7DAEA3" />
+      <lyrictext textColor="#DDC7A1" />
+      <context bold="True" />
+      <grob textColor="#DDC7A1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

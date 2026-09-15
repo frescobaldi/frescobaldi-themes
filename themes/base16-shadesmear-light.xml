@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#ShadeSmear Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Kyle Giammarco (http://kyle.giammar.co)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#232323" />
+    <background color="#DBDBDB" />
+    <selectiontext color="#1C1C1C" />
+    <selectionbackground color="#4E4E4E" />
+    <current color="#E4E4E4" />
+    <mark color="#C0C0C0" />
+    <error color="#E4E4E4" />
+    <search color="#" />
+    <match color="#1C1C1C" />
+    <paper color="#E4E4E4" />
+    <musichighlight color="#4E4E4E" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#CC5450" />
+    <escape textColor="#A64270" />
+    <comment italic="True" textColor="#4E4E4E" />
+    <value textColor="#307878" />
+    <variable textColor="#71983B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#376388" />
+    <error textColor="#D7AB54" underline="True" underlineColor="#D7AB54" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#A64270" />
+      <dynamic bold="True" textColor="#376388" />
+      <articulation bold="True" textColor="#A64270" />
+      <fingering textColor="#71983B" />
+      <stringnumber textColor="#A64270" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#307878" />
+      <lyricmode textColor="#376388" />
+      <lyrictext textColor="#232323" />
+      <context bold="True" />
+      <grob textColor="#232323" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

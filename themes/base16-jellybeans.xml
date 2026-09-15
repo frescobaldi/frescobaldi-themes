@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Jellybeans">
+  <!--
+  Created by base16-frescobaldi
+  Author: #FredHappyface (https://github.com/fredHappyface), converted to Base16 by https://github.com/nonetrix
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D5D5D5" />
+    <background color="#121212" />
+    <selectiontext color="#DEDEDE" />
+    <selectionbackground color="#C5C5C5" />
+    <current color="#929292" />
+    <mark color="#BDBDBD" />
+    <error color="#929292" />
+    <search color="#" />
+    <match color="#CDCDCD" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#C5C5C5" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FFA1A1" />
+    <escape textColor="#FFBA7B" />
+    <comment italic="True" textColor="#C5C5C5" />
+    <value textColor="#FFDCA0" />
+    <variable textColor="#BDDEAB" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#B1D8F6" />
+    <error textColor="#FBDAFF" underline="True" underlineColor="#FBDAFF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFBA7B" />
+      <dynamic bold="True" textColor="#B1D8F6" />
+      <articulation bold="True" textColor="#FFBA7B" />
+      <fingering textColor="#BDDEAB" />
+      <stringnumber textColor="#FFBA7B" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFDCA0" />
+      <lyricmode textColor="#B1D8F6" />
+      <lyrictext textColor="#D5D5D5" />
+      <context bold="True" />
+      <grob textColor="#D5D5D5" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

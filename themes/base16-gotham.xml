@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Gotham">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Andrea Leopardi (arranged by Brett Jones)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#599CAB" />
+    <background color="#0C1014" />
+    <selectiontext color="#99D1CE" />
+    <selectionbackground color="#0A3749" />
+    <current color="#11151C" />
+    <mark color="#091F2E" />
+    <error color="#11151C" />
+    <search color="#" />
+    <match color="#245361" />
+    <paper color="#D3EBE9" />
+    <musichighlight color="#0A3749" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C23127" />
+    <escape textColor="#D26937" />
+    <comment italic="True" textColor="#0A3749" />
+    <value textColor="#EDB443" />
+    <variable textColor="#33859E" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#195466" />
+    <error textColor="#888CA6" underline="True" underlineColor="#888CA6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#D26937" />
+      <dynamic bold="True" textColor="#195466" />
+      <articulation bold="True" textColor="#D26937" />
+      <fingering textColor="#33859E" />
+      <stringnumber textColor="#D26937" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#EDB443" />
+      <lyricmode textColor="#195466" />
+      <lyrictext textColor="#599CAB" />
+      <context bold="True" />
+      <grob textColor="#599CAB" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

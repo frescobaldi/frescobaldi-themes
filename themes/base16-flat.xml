@@ -5,9 +5,9 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#e0e0e0" />
+    <text color="#E0E0E0" />
     <background color="#2C3E50" />
-    <selectiontext color="#f5f5f5" />
+    <selectiontext color="#F5F5F5" />
     <selectionbackground color="#95A5A6" />
     <current color="#34495E" />
     <mark color="#7F8C8D" />
@@ -37,9 +37,9 @@
       <slur bold="True" />
       <markup bold="False" textColor="#F1C40F" />
       <lyricmode textColor="#3498DB" />
-      <lyrictext textColor="#e0e0e0" />
+      <lyrictext textColor="#E0E0E0" />
       <context bold="True" />
-      <grob textColor="#e0e0e0" />
+      <grob textColor="#E0E0E0" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

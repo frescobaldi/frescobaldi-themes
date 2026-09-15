@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tinta">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Teshre
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D8D6D0" />
+    <background color="#101012" />
+    <selectiontext color="#E3E1DB" />
+    <selectionbackground color="#62626A" />
+    <current color="#202023" />
+    <mark color="#2C2C30" />
+    <error color="#202023" />
+    <search color="#" />
+    <match color="#9D9C9D" />
+    <paper color="#EEECE6" />
+    <musichighlight color="#62626A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#D0726A" />
+    <escape textColor="#E8843A" />
+    <comment italic="True" textColor="#62626A" />
+    <value textColor="#C8B86A" />
+    <variable textColor="#9AA890" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8A9AB0" />
+    <error textColor="#B0A0B8" underline="True" underlineColor="#B0A0B8" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#E8843A" />
+      <dynamic bold="True" textColor="#8A9AB0" />
+      <articulation bold="True" textColor="#E8843A" />
+      <fingering textColor="#9AA890" />
+      <stringnumber textColor="#E8843A" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#C8B86A" />
+      <lyricmode textColor="#8A9AB0" />
+      <lyrictext textColor="#D8D6D0" />
+      <context bold="True" />
+      <grob textColor="#D8D6D0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

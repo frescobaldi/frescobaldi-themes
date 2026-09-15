@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Measured Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Measured (https://measured.co)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#292929" />
+    <background color="#FDF9F5" />
+    <selectiontext color="#181818" />
+    <selectionbackground color="#5A5A5A" />
+    <current color="#F9F5F1" />
+    <mark color="#FFEADA" />
+    <error color="#F9F5F1" />
+    <search color="#" />
+    <match color="#404040" />
+    <paper color="#000000" />
+    <musichighlight color="#5A5A5A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#AC1F35" />
+    <escape textColor="#AD5601" />
+    <comment italic="True" textColor="#5A5A5A" />
+    <value textColor="#645A00" />
+    <variable textColor="#0C680C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#0158AD" />
+    <error textColor="#6645C2" underline="True" underlineColor="#6645C2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#AD5601" />
+      <dynamic bold="True" textColor="#0158AD" />
+      <articulation bold="True" textColor="#AD5601" />
+      <fingering textColor="#0C680C" />
+      <stringnumber textColor="#AD5601" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#645A00" />
+      <lyricmode textColor="#0158AD" />
+      <lyrictext textColor="#292929" />
+      <context bold="True" />
+      <grob textColor="#292929" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

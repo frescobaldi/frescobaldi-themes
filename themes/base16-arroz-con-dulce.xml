@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Arroz con Dulce">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Richard Martinez
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#4A2C20" />
+    <background color="#FFF8E7" />
+    <selectiontext color="#321C14" />
+    <selectionbackground color="#C8A77A" />
+    <current color="#F7EBD3" />
+    <mark color="#EAD6B8" />
+    <error color="#F7EBD3" />
+    <search color="#" />
+    <match color="#765B45" />
+    <paper color="#21110B" />
+    <musichighlight color="#C8A77A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#A11D48" />
+    <escape textColor="#A3470A" />
+    <comment italic="True" textColor="#C8A77A" />
+    <value textColor="#855500" />
+    <variable textColor="#A2380C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5940A0" />
+    <error textColor="#8C1F68" underline="True" underlineColor="#8C1F68" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#A3470A" />
+      <dynamic bold="True" textColor="#5940A0" />
+      <articulation bold="True" textColor="#A3470A" />
+      <fingering textColor="#A2380C" />
+      <stringnumber textColor="#A3470A" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#855500" />
+      <lyricmode textColor="#5940A0" />
+      <lyrictext textColor="#4A2C20" />
+      <context bold="True" />
+      <grob textColor="#4A2C20" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

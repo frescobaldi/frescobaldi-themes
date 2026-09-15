@@ -5,41 +5,41 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#28292a" />
-    <background color="#dddfe0" />
-    <selectiontext color="#1a1b1c" />
-    <selectionbackground color="#a3a5a6" />
-    <current color="#cfd1d2" />
-    <mark color="#c1c3c4" />
-    <error color="#cfd1d2" />
+    <text color="#28292A" />
+    <background color="#DDDFE0" />
+    <selectiontext color="#1A1B1C" />
+    <selectionbackground color="#A3A5A6" />
+    <current color="#CFD1D2" />
+    <mark color="#C1C3C4" />
+    <error color="#CFD1D2" />
     <search color="#" />
     <match color="#474849" />
     <paper color="#050608" />
-    <musichighlight color="#a3a5a6" />
+    <musichighlight color="#A3A5A6" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#b53b50" />
-    <escape textColor="#ea770d" />
-    <comment italic="True" textColor="#a3a5a6" />
-    <value textColor="#c9d364" />
-    <variable textColor="#06ea61" />
+    <string textColor="#B53B50" />
+    <escape textColor="#EA770D" />
+    <comment italic="True" textColor="#A3A5A6" />
+    <value textColor="#C9D364" />
+    <variable textColor="#06EA61" />
     <keyword bold="True" />
-    <function bold="True" textColor="#03aeff" />
-    <error textColor="#ea5ce2" underline="True" underlineColor="#ea5ce2" />
+    <function bold="True" textColor="#03AEFF" />
+    <error textColor="#EA5CE2" underline="True" underlineColor="#EA5CE2" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#ea770d" />
-      <dynamic bold="True" textColor="#03aeff" />
-      <articulation bold="True" textColor="#ea770d" />
-      <fingering textColor="#06ea61" />
-      <stringnumber textColor="#ea770d" />
+      <duration textColor="#EA770D" />
+      <dynamic bold="True" textColor="#03AEFF" />
+      <articulation bold="True" textColor="#EA770D" />
+      <fingering textColor="#06EA61" />
+      <stringnumber textColor="#EA770D" />
       <slur bold="True" />
-      <markup bold="False" textColor="#c9d364" />
-      <lyricmode textColor="#03aeff" />
-      <lyrictext textColor="#28292a" />
+      <markup bold="False" textColor="#C9D364" />
+      <lyricmode textColor="#03AEFF" />
+      <lyrictext textColor="#28292A" />
       <context bold="True" />
-      <grob textColor="#28292a" />
+      <grob textColor="#28292A" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

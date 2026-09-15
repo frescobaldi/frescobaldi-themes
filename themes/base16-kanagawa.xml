@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Kanagawa">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Tommaso Laurenzi (https://github.com/rebelot)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#DCD7BA" />
+    <background color="#1F1F28" />
+    <selectiontext color="#C8C093" />
+    <selectionbackground color="#54546D" />
+    <current color="#16161D" />
+    <mark color="#223249" />
+    <error color="#16161D" />
+    <search color="#" />
+    <match color="#727169" />
+    <paper color="#717C7C" />
+    <musichighlight color="#54546D" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C34043" />
+    <escape textColor="#FFA066" />
+    <comment italic="True" textColor="#54546D" />
+    <value textColor="#C0A36E" />
+    <variable textColor="#76946A" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7E9CD8" />
+    <error textColor="#957FB8" underline="True" underlineColor="#957FB8" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFA066" />
+      <dynamic bold="True" textColor="#7E9CD8" />
+      <articulation bold="True" textColor="#FFA066" />
+      <fingering textColor="#76946A" />
+      <stringnumber textColor="#FFA066" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#C0A36E" />
+      <lyricmode textColor="#7E9CD8" />
+      <lyrictext textColor="#DCD7BA" />
+      <context bold="True" />
+      <grob textColor="#DCD7BA" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

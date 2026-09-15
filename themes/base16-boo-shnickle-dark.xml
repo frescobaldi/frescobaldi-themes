@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#boo-shnickle">
+  <!--
+  Created by base16-frescobaldi
+  Author: #boo-shnickle (@boo_shnickle)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#BDBD97" />
+    <background color="#191914" />
+    <selectiontext color="#DEDEB2" />
+    <selectionbackground color="#7C7C63" />
+    <current color="#3A3A2E" />
+    <mark color="#5B5B49" />
+    <error color="#3A3A2E" />
+    <search color="#" />
+    <match color="#9C9C7D" />
+    <paper color="#FFFFCC" />
+    <musichighlight color="#7C7C63" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FFBFA5" />
+    <escape textColor="#FFDC99" />
+    <comment italic="True" textColor="#7C7C63" />
+    <value textColor="#FFF299" />
+    <variable textColor="#E7FF99" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#BFBFD9" />
+    <error textColor="#F2BFD9" underline="True" underlineColor="#F2BFD9" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFDC99" />
+      <dynamic bold="True" textColor="#BFBFD9" />
+      <articulation bold="True" textColor="#FFDC99" />
+      <fingering textColor="#E7FF99" />
+      <stringnumber textColor="#FFDC99" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFF299" />
+      <lyricmode textColor="#BFBFD9" />
+      <lyrictext textColor="#BDBD97" />
+      <context bold="True" />
+      <grob textColor="#BDBD97" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

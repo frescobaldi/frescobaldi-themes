@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Precious Light White">
+  <!--
+  Created by base16-frescobaldi
+  Author: #4lex4 &lt;4lex49@zoho.com&gt;
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#555555" />
+    <background color="#FFFFFF" />
+    <selectiontext color="#555555" />
+    <selectionbackground color="#848484" />
+    <current color="#EDEDED" />
+    <mark color="#DBDBDB" />
+    <error color="#EDEDED" />
+    <search color="#" />
+    <match color="#636363" />
+    <paper color="#555555" />
+    <musichighlight color="#848484" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#AF4947" />
+    <escape textColor="#A0570D" />
+    <comment italic="True" textColor="#848484" />
+    <value textColor="#876500" />
+    <variable textColor="#557301" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#186DAA" />
+    <error textColor="#7B4ECB" underline="True" underlineColor="#7B4ECB" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#A0570D" />
+      <dynamic bold="True" textColor="#186DAA" />
+      <articulation bold="True" textColor="#A0570D" />
+      <fingering textColor="#557301" />
+      <stringnumber textColor="#A0570D" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#876500" />
+      <lyricmode textColor="#186DAA" />
+      <lyrictext textColor="#555555" />
+      <context bold="True" />
+      <grob textColor="#555555" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

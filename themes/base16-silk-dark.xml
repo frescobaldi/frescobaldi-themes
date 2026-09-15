@@ -6,7 +6,7 @@
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#C7DBDD" />
-    <background color="#0e3c46" />
+    <background color="#0E3C46" />
     <selectiontext color="#CBF2F7" />
     <selectionbackground color="#587073" />
     <current color="#1D494E" />
@@ -18,25 +18,25 @@
     <musichighlight color="#587073" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#fb6953" />
-    <escape textColor="#fcab74" />
+    <string textColor="#FB6953" />
+    <escape textColor="#FCAB74" />
     <comment italic="True" textColor="#587073" />
-    <value textColor="#fce380" />
-    <variable textColor="#73d8ad" />
+    <value textColor="#FCE380" />
+    <variable textColor="#73D8AD" />
     <keyword bold="True" />
-    <function bold="True" textColor="#46bddd" />
-    <error textColor="#756b8a" underline="True" underlineColor="#756b8a" />
+    <function bold="True" textColor="#46BDDD" />
+    <error textColor="#756B8A" underline="True" underlineColor="#756B8A" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#fcab74" />
-      <dynamic bold="True" textColor="#46bddd" />
-      <articulation bold="True" textColor="#fcab74" />
-      <fingering textColor="#73d8ad" />
-      <stringnumber textColor="#fcab74" />
+      <duration textColor="#FCAB74" />
+      <dynamic bold="True" textColor="#46BDDD" />
+      <articulation bold="True" textColor="#FCAB74" />
+      <fingering textColor="#73D8AD" />
+      <stringnumber textColor="#FCAB74" />
       <slur bold="True" />
-      <markup bold="False" textColor="#fce380" />
-      <lyricmode textColor="#46bddd" />
+      <markup bold="False" textColor="#FCE380" />
+      <lyricmode textColor="#46BDDD" />
       <lyrictext textColor="#C7DBDD" />
       <context bold="True" />
       <grob textColor="#C7DBDD" />

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Da One Sea">
+  <!--
+  Created by base16-frescobaldi
+  Author: #NNB (https://github.com/NNBnh)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#FFFFFF" />
+    <background color="#22273D" />
+    <selectiontext color="#FFFFFF" />
+    <selectionbackground color="#878D96" />
+    <current color="#374059" />
+    <mark color="#525866" />
+    <error color="#374059" />
+    <search color="#" />
+    <match color="#C8C8C8" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#878D96" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FA7883" />
+    <escape textColor="#FFC387" />
+    <comment italic="True" textColor="#878D96" />
+    <value textColor="#FF9470" />
+    <variable textColor="#98C379" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#6BB8FF" />
+    <error textColor="#E799FF" underline="True" underlineColor="#E799FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFC387" />
+      <dynamic bold="True" textColor="#6BB8FF" />
+      <articulation bold="True" textColor="#FFC387" />
+      <fingering textColor="#98C379" />
+      <stringnumber textColor="#FFC387" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FF9470" />
+      <lyricmode textColor="#6BB8FF" />
+      <lyrictext textColor="#FFFFFF" />
+      <context bold="True" />
+      <grob textColor="#FFFFFF" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

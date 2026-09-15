@@ -5,16 +5,16 @@
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#c5c8c6" />
-    <background color="#1d1f21" />
-    <selectiontext color="#e0e0e0" />
+    <text color="#C5C8C6" />
+    <background color="#1D1F21" />
+    <selectiontext color="#E0E0E0" />
     <selectionbackground color="#969896" />
-    <current color="#282a2e" />
-    <mark color="#373b41" />
-    <error color="#282a2e" />
+    <current color="#282A2E" />
+    <mark color="#373B41" />
+    <error color="#282A2E" />
     <search color="#" />
-    <match color="#b4b7b4" />
-    <paper color="#ffffff" />
+    <match color="#B4B7B4" />
+    <paper color="#FFFFFF" />
     <musichighlight color="#969896" />
   </baseColors>
   <defaultStyles>
@@ -37,9 +37,9 @@
       <slur bold="True" />
       <markup bold="False" textColor="#FBA922" />
       <lyricmode textColor="#3971ED" />
-      <lyrictext textColor="#c5c8c6" />
+      <lyrictext textColor="#C5C8C6" />
       <context bold="True" />
-      <grob textColor="#c5c8c6" />
+      <grob textColor="#C5C8C6" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

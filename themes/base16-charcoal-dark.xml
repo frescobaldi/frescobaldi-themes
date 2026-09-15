@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Charcoal Dark">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Mubin Muhammad (https://github.com/mubin6th)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C3A983" />
+    <background color="#0F0B05" />
+    <selectiontext color="#DEC8A7" />
+    <selectionbackground color="#57462C" />
+    <current color="#231B0E" />
+    <mark color="#2A2012" />
+    <error color="#231B0E" />
+    <search color="#" />
+    <match color="#A88C62" />
+    <paper color="#231B0E" />
+    <musichighlight color="#57462C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#A88C62" />
+    <escape textColor="#DEC8A7" />
+    <comment italic="True" textColor="#57462C" />
+    <value textColor="#DEC8A7" />
+    <variable textColor="#DEC8A7" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#C3A983" />
+    <error textColor="#A88C62" underline="True" underlineColor="#A88C62" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#DEC8A7" />
+      <dynamic bold="True" textColor="#C3A983" />
+      <articulation bold="True" textColor="#DEC8A7" />
+      <fingering textColor="#DEC8A7" />
+      <stringnumber textColor="#DEC8A7" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#DEC8A7" />
+      <lyricmode textColor="#C3A983" />
+      <lyrictext textColor="#C3A983" />
+      <context bold="True" />
+      <grob textColor="#C3A983" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

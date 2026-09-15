@@ -6,23 +6,23 @@
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#464646" />
-    <background color="#f7f7f7" />
+    <background color="#F7F7F7" />
     <selectiontext color="#252525" />
-    <selectionbackground color="#ababab" />
-    <current color="#e3e3e3" />
-    <mark color="#b9b9b9" />
-    <error color="#e3e3e3" />
+    <selectionbackground color="#ABABAB" />
+    <current color="#E3E3E3" />
+    <mark color="#B9B9B9" />
+    <error color="#E3E3E3" />
     <search color="#" />
     <match color="#525252" />
     <paper color="#101010" />
-    <musichighlight color="#ababab" />
+    <musichighlight color="#ABABAB" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#7c7c7c" />
+    <string textColor="#7C7C7C" />
     <escape textColor="#999999" />
-    <comment italic="True" textColor="#ababab" />
-    <value textColor="#a0a0a0" />
-    <variable textColor="#8e8e8e" />
+    <comment italic="True" textColor="#ABABAB" />
+    <value textColor="#A0A0A0" />
+    <variable textColor="#8E8E8E" />
     <keyword bold="True" />
     <function bold="True" textColor="#686868" />
     <error textColor="#747474" underline="True" underlineColor="#747474" />
@@ -32,10 +32,10 @@
       <duration textColor="#999999" />
       <dynamic bold="True" textColor="#686868" />
       <articulation bold="True" textColor="#999999" />
-      <fingering textColor="#8e8e8e" />
+      <fingering textColor="#8E8E8E" />
       <stringnumber textColor="#999999" />
       <slur bold="True" />
-      <markup bold="False" textColor="#a0a0a0" />
+      <markup bold="False" textColor="#A0A0A0" />
       <lyricmode textColor="#686868" />
       <lyrictext textColor="#464646" />
       <context bold="True" />

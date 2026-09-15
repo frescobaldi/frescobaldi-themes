@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Soft Server">
+  <!--
+  Created by base16-frescobaldi
+  Author: #FredHappyface (https://github.com/fredHappyface)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#E4DEE9" />
+    <background color="#211E2A" />
+    <selectiontext color="#F2E8F0" />
+    <selectionbackground color="#6E6780" />
+    <current color="#2C2737" />
+    <mark color="#3F3951" />
+    <error color="#2C2737" />
+    <search color="#" />
+    <match color="#8A829E" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#6E6780" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#E965A5" />
+    <escape textColor="#F4B870" />
+    <comment italic="True" textColor="#6E6780" />
+    <value textColor="#EBDE76" />
+    <variable textColor="#B1F2A7" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#95A6F4" />
+    <error textColor="#FF79C6" underline="True" underlineColor="#FF79C6" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F4B870" />
+      <dynamic bold="True" textColor="#95A6F4" />
+      <articulation bold="True" textColor="#F4B870" />
+      <fingering textColor="#B1F2A7" />
+      <stringnumber textColor="#F4B870" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#EBDE76" />
+      <lyricmode textColor="#95A6F4" />
+      <lyrictext textColor="#E4DEE9" />
+      <context bold="True" />
+      <grob textColor="#E4DEE9" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

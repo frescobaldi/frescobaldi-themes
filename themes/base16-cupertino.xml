@@ -6,37 +6,37 @@
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#404040" />
-    <background color="#ffffff" />
+    <background color="#FFFFFF" />
     <selectiontext color="#404040" />
     <selectionbackground color="#808080" />
-    <current color="#c0c0c0" />
-    <mark color="#c0c0c0" />
-    <error color="#c0c0c0" />
+    <current color="#C0C0C0" />
+    <mark color="#C0C0C0" />
+    <error color="#C0C0C0" />
     <search color="#" />
     <match color="#808080" />
-    <paper color="#5e5e5e" />
+    <paper color="#5E5E5E" />
     <musichighlight color="#808080" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#c41a15" />
-    <escape textColor="#eb8500" />
+    <string textColor="#C41A15" />
+    <escape textColor="#EB8500" />
     <comment italic="True" textColor="#808080" />
-    <value textColor="#826b28" />
+    <value textColor="#826B28" />
     <variable textColor="#007400" />
     <keyword bold="True" />
-    <function bold="True" textColor="#0000ff" />
-    <error textColor="#a90d91" underline="True" underlineColor="#a90d91" />
+    <function bold="True" textColor="#0000FF" />
+    <error textColor="#A90D91" underline="True" underlineColor="#A90D91" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#eb8500" />
-      <dynamic bold="True" textColor="#0000ff" />
-      <articulation bold="True" textColor="#eb8500" />
+      <duration textColor="#EB8500" />
+      <dynamic bold="True" textColor="#0000FF" />
+      <articulation bold="True" textColor="#EB8500" />
       <fingering textColor="#007400" />
-      <stringnumber textColor="#eb8500" />
+      <stringnumber textColor="#EB8500" />
       <slur bold="True" />
-      <markup bold="False" textColor="#826b28" />
-      <lyricmode textColor="#0000ff" />
+      <markup bold="False" textColor="#826B28" />
+      <lyricmode textColor="#0000FF" />
       <lyrictext textColor="#404040" />
       <context bold="True" />
       <grob textColor="#404040" />

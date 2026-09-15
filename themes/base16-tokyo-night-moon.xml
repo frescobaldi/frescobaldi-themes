@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Tokyo Night Moon">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Ólafur Bjarki Bogason
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#828BB8" />
+    <background color="#222436" />
+    <selectiontext color="#AEB4D1" />
+    <selectionbackground color="#3B4261" />
+    <current color="#1E2030" />
+    <mark color="#2D3F76" />
+    <error color="#1E2030" />
+    <search color="#" />
+    <match color="#636DA6" />
+    <paper color="#C8D3F5" />
+    <musichighlight color="#3B4261" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF757F" />
+    <escape textColor="#FFC777" />
+    <comment italic="True" textColor="#3B4261" />
+    <value textColor="#FFDF77" />
+    <variable textColor="#C3E88D" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#82AAFF" />
+    <error textColor="#FCA7EA" underline="True" underlineColor="#FCA7EA" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFC777" />
+      <dynamic bold="True" textColor="#82AAFF" />
+      <articulation bold="True" textColor="#FFC777" />
+      <fingering textColor="#C3E88D" />
+      <stringnumber textColor="#FFC777" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFDF77" />
+      <lyricmode textColor="#82AAFF" />
+      <lyrictext textColor="#828BB8" />
+      <context bold="True" />
+      <grob textColor="#828BB8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

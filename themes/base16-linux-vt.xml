@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Linux VT">
+  <!--
+  Created by base16-frescobaldi
+  Author: #j-c-m (https://github.com/j-c-m/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#AAAAAA" />
+    <background color="#000000" />
+    <selectiontext color="#CCCCCC" />
+    <selectionbackground color="#555555" />
+    <current color="#333333" />
+    <mark color="#444444" />
+    <error color="#333333" />
+    <search color="#" />
+    <match color="#888888" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#555555" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#AA0000" />
+    <escape textColor="#FF5555" />
+    <comment italic="True" textColor="#555555" />
+    <value textColor="#FFFF55" />
+    <variable textColor="#00AA00" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5555FF" />
+    <error textColor="#FF55FF" underline="True" underlineColor="#FF55FF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF5555" />
+      <dynamic bold="True" textColor="#5555FF" />
+      <articulation bold="True" textColor="#FF5555" />
+      <fingering textColor="#00AA00" />
+      <stringnumber textColor="#FF5555" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFFF55" />
+      <lyricmode textColor="#5555FF" />
+      <lyrictext textColor="#AAAAAA" />
+      <context bold="True" />
+      <grob textColor="#AAAAAA" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

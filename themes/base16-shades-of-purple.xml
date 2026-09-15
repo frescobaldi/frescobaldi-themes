@@ -1,45 +1,45 @@
 <frescobaldi-theme name="#Shades of Purple">
   <!--
   Created by base16-frescobaldi
-  Author: #Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+  Author: #Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#c7c7c7" />
-    <background color="#1e1e3f" />
-    <selectiontext color="#ff77ff" />
+    <text color="#C7C7C7" />
+    <background color="#1E1E3F" />
+    <selectiontext color="#FF77FF" />
     <selectionbackground color="#808080" />
-    <current color="#43d426" />
-    <mark color="#f1d000" />
-    <error color="#43d426" />
+    <current color="#43D426" />
+    <mark color="#F1D000" />
+    <error color="#43D426" />
     <search color="#" />
-    <match color="#6871ff" />
-    <paper color="#ffffff" />
+    <match color="#6871FF" />
+    <paper color="#FFFFFF" />
     <musichighlight color="#808080" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#d90429" />
-    <escape textColor="#f92a1c" />
+    <string textColor="#D90429" />
+    <escape textColor="#F92A1C" />
     <comment italic="True" textColor="#808080" />
-    <value textColor="#ffe700" />
-    <variable textColor="#3ad900" />
+    <value textColor="#FFE700" />
+    <variable textColor="#3AD900" />
     <keyword bold="True" />
-    <function bold="True" textColor="#6943ff" />
-    <error textColor="#ff2c70" underline="True" underlineColor="#ff2c70" />
+    <function bold="True" textColor="#6943FF" />
+    <error textColor="#FF2C70" underline="True" underlineColor="#FF2C70" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#f92a1c" />
-      <dynamic bold="True" textColor="#6943ff" />
-      <articulation bold="True" textColor="#f92a1c" />
-      <fingering textColor="#3ad900" />
-      <stringnumber textColor="#f92a1c" />
+      <duration textColor="#F92A1C" />
+      <dynamic bold="True" textColor="#6943FF" />
+      <articulation bold="True" textColor="#F92A1C" />
+      <fingering textColor="#3AD900" />
+      <stringnumber textColor="#F92A1C" />
       <slur bold="True" />
-      <markup bold="False" textColor="#ffe700" />
-      <lyricmode textColor="#6943ff" />
-      <lyrictext textColor="#c7c7c7" />
+      <markup bold="False" textColor="#FFE700" />
+      <lyricmode textColor="#6943FF" />
+      <lyrictext textColor="#C7C7C7" />
       <context bold="True" />
-      <grob textColor="#c7c7c7" />
+      <grob textColor="#C7C7C7" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

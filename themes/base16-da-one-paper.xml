@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Da One Paper">
+  <!--
+  Created by base16-frescobaldi
+  Author: #NNB (https://github.com/NNBnh)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#181818" />
+    <background color="#FAF0DC" />
+    <selectiontext color="#000000" />
+    <selectionbackground color="#585858" />
+    <current color="#C8C8C8" />
+    <mark color="#888888" />
+    <error color="#C8C8C8" />
+    <search color="#" />
+    <match color="#282828" />
+    <paper color="#000000" />
+    <musichighlight color="#585858" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#DE5D6E" />
+    <escape textColor="#FF9470" />
+    <comment italic="True" textColor="#585858" />
+    <value textColor="#B3684F" />
+    <variable textColor="#76A85D" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5890F8" />
+    <error textColor="#C173D1" underline="True" underlineColor="#C173D1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF9470" />
+      <dynamic bold="True" textColor="#5890F8" />
+      <articulation bold="True" textColor="#FF9470" />
+      <fingering textColor="#76A85D" />
+      <stringnumber textColor="#FF9470" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#B3684F" />
+      <lyricmode textColor="#5890F8" />
+      <lyrictext textColor="#181818" />
+      <context bold="True" />
+      <grob textColor="#181818" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

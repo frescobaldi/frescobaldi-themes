@@ -6,15 +6,15 @@
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
     <text color="#000000" />
-    <background color="#e0e0e0" />
-    <selectiontext color="#f8f8f8" />
+    <background color="#E0E0E0" />
+    <selectiontext color="#F8F8F8" />
     <selectionbackground color="#707070" />
-    <current color="#d0dad0" />
-    <mark color="#d0d0d0" />
-    <error color="#d0dad0" />
+    <current color="#D0DAD0" />
+    <mark color="#D0D0D0" />
+    <error color="#D0DAD0" />
     <search color="#" />
     <match color="#202020" />
-    <paper color="#c4d9c4" />
+    <paper color="#C4D9C4" />
     <musichighlight color="#707070" />
   </baseColors>
   <defaultStyles>

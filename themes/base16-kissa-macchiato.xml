@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Kissa Macchiato">
+  <!--
+  Created by base16-frescobaldi
+  Author: #rwendell (https://github.com/rwendell/kissa)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#FAF0E6" />
+    <background color="#1F1C16" />
+    <selectiontext color="#E8D5B7" />
+    <selectionbackground color="#B8A48C" />
+    <current color="#35322D" />
+    <mark color="#47443F" />
+    <error color="#35322D" />
+    <search color="#" />
+    <match color="#D4C4A8" />
+    <paper color="#FEF4E4" />
+    <musichighlight color="#B8A48C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#E87777" />
+    <escape textColor="#DA9050" />
+    <comment italic="True" textColor="#B8A48C" />
+    <value textColor="#EAC67A" />
+    <variable textColor="#8CB870" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#7FA8D4" />
+    <error textColor="#B094CC" underline="True" underlineColor="#B094CC" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#DA9050" />
+      <dynamic bold="True" textColor="#7FA8D4" />
+      <articulation bold="True" textColor="#DA9050" />
+      <fingering textColor="#8CB870" />
+      <stringnumber textColor="#DA9050" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#EAC67A" />
+      <lyricmode textColor="#7FA8D4" />
+      <lyrictext textColor="#FAF0E6" />
+      <context bold="True" />
+      <grob textColor="#FAF0E6" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

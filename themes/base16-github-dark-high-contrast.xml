@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Github Dark High Contrast">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Tinted Theming (https://github.com/tinted-theming)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#F0F3F6" />
+    <background color="#0A0C10" />
+    <selectiontext color="#FFFFFF" />
+    <selectionbackground color="#9EA7B3" />
+    <current color="#272B33" />
+    <mark color="#7A828E" />
+    <error color="#272B33" />
+    <search color="#" />
+    <match color="#BDC4CC" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#9EA7B3" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FFB757" />
+    <escape textColor="#91CBFF" />
+    <comment italic="True" textColor="#9EA7B3" />
+    <value textColor="#E09B13" />
+    <variable textColor="#ADDCFF" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#DBB7FF" />
+    <error textColor="#FF9492" underline="True" underlineColor="#FF9492" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#91CBFF" />
+      <dynamic bold="True" textColor="#DBB7FF" />
+      <articulation bold="True" textColor="#91CBFF" />
+      <fingering textColor="#ADDCFF" />
+      <stringnumber textColor="#91CBFF" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#E09B13" />
+      <lyricmode textColor="#DBB7FF" />
+      <lyrictext textColor="#F0F3F6" />
+      <context bold="True" />
+      <grob textColor="#F0F3F6" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

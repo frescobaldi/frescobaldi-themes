@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Sparky">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Leila Sother (https://github.com/mixcoac)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#F4F5F0" />
+    <background color="#072B31" />
+    <selectiontext color="#F5F5F1" />
+    <selectionbackground color="#003B49" />
+    <current color="#00313C" />
+    <mark color="#003C46" />
+    <error color="#00313C" />
+    <search color="#" />
+    <match color="#00778B" />
+    <paper color="#FFFFFF" />
+    <musichighlight color="#003B49" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF585D" />
+    <escape textColor="#FF8F1C" />
+    <comment italic="True" textColor="#003B49" />
+    <value textColor="#FBDD40" />
+    <variable textColor="#78D64B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#4698CB" />
+    <error textColor="#D59ED7" underline="True" underlineColor="#D59ED7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF8F1C" />
+      <dynamic bold="True" textColor="#4698CB" />
+      <articulation bold="True" textColor="#FF8F1C" />
+      <fingering textColor="#78D64B" />
+      <stringnumber textColor="#FF8F1C" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FBDD40" />
+      <lyricmode textColor="#4698CB" />
+      <lyrictext textColor="#F4F5F0" />
+      <context bold="True" />
+      <grob textColor="#F4F5F0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

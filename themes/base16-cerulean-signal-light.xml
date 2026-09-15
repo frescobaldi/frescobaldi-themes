@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Cerulean Signal Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Aaron Colichia (https://aaron.colichia.org/)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#232B38" />
+    <background color="#F7F9FC" />
+    <selectiontext color="#202B3A" />
+    <selectionbackground color="#637287" />
+    <current color="#EEF4FB" />
+    <mark color="#DDE7F1" />
+    <error color="#EEF4FB" />
+    <search color="#" />
+    <match color="#566579" />
+    <paper color="#141D2A" />
+    <musichighlight color="#637287" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#B4233D" />
+    <escape textColor="#9A4F00" />
+    <comment italic="True" textColor="#637287" />
+    <value textColor="#6F6300" />
+    <variable textColor="#17795E" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#006FA8" />
+    <error textColor="#A0007D" underline="True" underlineColor="#A0007D" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#9A4F00" />
+      <dynamic bold="True" textColor="#006FA8" />
+      <articulation bold="True" textColor="#9A4F00" />
+      <fingering textColor="#17795E" />
+      <stringnumber textColor="#9A4F00" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#6F6300" />
+      <lyricmode textColor="#006FA8" />
+      <lyrictext textColor="#232B38" />
+      <context bold="True" />
+      <grob textColor="#232B38" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

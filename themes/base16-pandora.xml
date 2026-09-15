@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#pandora">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Cassandra Fox
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#F15C99" />
+    <background color="#131213" />
+    <selectiontext color="#81506A" />
+    <selectionbackground color="#FFBEE3" />
+    <current color="#2F1823" />
+    <mark color="#472234" />
+    <error color="#2F1823" />
+    <search color="#" />
+    <match color="#9B2A46" />
+    <paper color="#632227" />
+    <musichighlight color="#FFBEE3" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#B00B69" />
+    <escape textColor="#FF9153" />
+    <comment italic="True" textColor="#FFBEE3" />
+    <value textColor="#FFCC00" />
+    <variable textColor="#9DDF69" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#008080" />
+    <error textColor="#A24030" underline="True" underlineColor="#A24030" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FF9153" />
+      <dynamic bold="True" textColor="#008080" />
+      <articulation bold="True" textColor="#FF9153" />
+      <fingering textColor="#9DDF69" />
+      <stringnumber textColor="#FF9153" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFCC00" />
+      <lyricmode textColor="#008080" />
+      <lyrictext textColor="#F15C99" />
+      <context bold="True" />
+      <grob textColor="#F15C99" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

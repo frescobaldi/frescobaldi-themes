@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Moonlight">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Jeremy Swinarton (https://github.com/jswinarton)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#A3ACE1" />
+    <background color="#212337" />
+    <selectiontext color="#B4A4F4" />
+    <selectionbackground color="#748CD6" />
+    <current color="#403C64" />
+    <mark color="#596399" />
+    <error color="#403C64" />
+    <search color="#" />
+    <match color="#A1ABE0" />
+    <paper color="#EF43FA" />
+    <musichighlight color="#748CD6" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#FF5370" />
+    <escape textColor="#F67F81" />
+    <comment italic="True" textColor="#748CD6" />
+    <value textColor="#FFC777" />
+    <variable textColor="#2DF4C0" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#40FFFF" />
+    <error textColor="#B994F1" underline="True" underlineColor="#B994F1" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F67F81" />
+      <dynamic bold="True" textColor="#40FFFF" />
+      <articulation bold="True" textColor="#F67F81" />
+      <fingering textColor="#2DF4C0" />
+      <stringnumber textColor="#F67F81" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFC777" />
+      <lyricmode textColor="#40FFFF" />
+      <lyrictext textColor="#A3ACE1" />
+      <context bold="True" />
+      <grob textColor="#A3ACE1" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

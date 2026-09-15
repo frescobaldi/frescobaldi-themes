@@ -1,45 +1,45 @@
-<frescobaldi-theme name="#Vice Dark">
+<frescobaldi-theme name="#vice">
   <!--
   Created by base16-frescobaldi
-  Author: #Thomas Leon Highbaugh
+  Author: #Thomas Leon Highbaugh thighbaugh@zoho.com
 -->
   <font fontFamily="monospace" fontSize="10.0" />
   <baseColors>
-    <text color="#818181" />
-    <background color="#181818" />
-    <selectiontext color="#c6c6c6" />
-    <selectionbackground color="#3f3f3f" />
-    <current color="#222222" />
-    <mark color="#323232" />
-    <error color="#222222" />
+    <text color="#8B9CBE" />
+    <background color="#17191E" />
+    <selectiontext color="#B2BFD9" />
+    <selectionbackground color="#383A47" />
+    <current color="#22262D" />
+    <mark color="#3C3F4C" />
+    <error color="#22262D" />
     <search color="#" />
-    <match color="#666666" />
-    <paper color="#e9e9e9" />
-    <musichighlight color="#3f3f3f" />
+    <match color="#555E70" />
+    <paper color="#F4F4F7" />
+    <musichighlight color="#383A47" />
   </baseColors>
   <defaultStyles>
-    <string textColor="#ff29a8" />
-    <escape textColor="#85ffe0" />
-    <comment italic="True" textColor="#3f3f3f" />
-    <value textColor="#f0ffaa" />
-    <variable textColor="#0badff" />
+    <string textColor="#FF29A8" />
+    <escape textColor="#85FFE0" />
+    <comment italic="True" textColor="#383A47" />
+    <value textColor="#F0FFAA" />
+    <variable textColor="#0BADFF" />
     <keyword bold="True" />
-    <function bold="True" textColor="#00eaff" />
-    <error textColor="#00f6d9" underline="True" underlineColor="#00f6d9" />
+    <function bold="True" textColor="#00EAFF" />
+    <error textColor="#00F6D9" underline="True" underlineColor="#00F6D9" />
   </defaultStyles>
   <allStyles>
     <lilypond>
-      <duration textColor="#85ffe0" />
-      <dynamic bold="True" textColor="#00eaff" />
-      <articulation bold="True" textColor="#85ffe0" />
-      <fingering textColor="#0badff" />
-      <stringnumber textColor="#85ffe0" />
+      <duration textColor="#85FFE0" />
+      <dynamic bold="True" textColor="#00EAFF" />
+      <articulation bold="True" textColor="#85FFE0" />
+      <fingering textColor="#0BADFF" />
+      <stringnumber textColor="#85FFE0" />
       <slur bold="True" />
-      <markup bold="False" textColor="#f0ffaa" />
-      <lyricmode textColor="#00eaff" />
-      <lyrictext textColor="#818181" />
+      <markup bold="False" textColor="#F0FFAA" />
+      <lyricmode textColor="#00EAFF" />
+      <lyrictext textColor="#8B9CBE" />
       <context bold="True" />
-      <grob textColor="#818181" />
+      <grob textColor="#8B9CBE" />
     </lilypond>
   </allStyles>
 </frescobaldi-theme>

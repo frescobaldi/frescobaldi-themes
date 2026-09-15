@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#eris">
+  <!--
+  Created by base16-frescobaldi
+  Author: #ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#606BAC" />
+    <background color="#0A0920" />
+    <selectiontext color="#7986C5" />
+    <selectionbackground color="#333773" />
+    <current color="#13133A" />
+    <mark color="#23255A" />
+    <error color="#13133A" />
+    <search color="#" />
+    <match color="#4A5293" />
+    <paper color="#9AAAE5" />
+    <musichighlight color="#333773" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F768A3" />
+    <escape textColor="#F78968" />
+    <comment italic="True" textColor="#333773" />
+    <value textColor="#F7D668" />
+    <variable textColor="#A2FAA8" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#258FC4" />
+    <error textColor="#C368F7" underline="True" underlineColor="#C368F7" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#F78968" />
+      <dynamic bold="True" textColor="#258FC4" />
+      <articulation bold="True" textColor="#F78968" />
+      <fingering textColor="#A2FAA8" />
+      <stringnumber textColor="#F78968" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F7D668" />
+      <lyricmode textColor="#258FC4" />
+      <lyrictext textColor="#606BAC" />
+      <context bold="True" />
+      <grob textColor="#606BAC" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Kanagawa Dragon">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#C5C9C5" />
+    <background color="#181616" />
+    <selectiontext color="#C8C093" />
+    <selectionbackground color="#625E5A" />
+    <current color="#282727" />
+    <mark color="#393836" />
+    <error color="#282727" />
+    <search color="#" />
+    <match color="#737C73" />
+    <paper color="#C5C9C5" />
+    <musichighlight color="#625E5A" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#C4746E" />
+    <escape textColor="#B6927B" />
+    <comment italic="True" textColor="#625E5A" />
+    <value textColor="#C4B28A" />
+    <variable textColor="#8A9A7B" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#8BA4B0" />
+    <error textColor="#A292A3" underline="True" underlineColor="#A292A3" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#B6927B" />
+      <dynamic bold="True" textColor="#8BA4B0" />
+      <articulation bold="True" textColor="#B6927B" />
+      <fingering textColor="#8A9A7B" />
+      <stringnumber textColor="#B6927B" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#C4B28A" />
+      <lyricmode textColor="#8BA4B0" />
+      <lyrictext textColor="#C5C9C5" />
+      <context bold="True" />
+      <grob textColor="#C5C9C5" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
